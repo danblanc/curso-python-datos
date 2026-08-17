@@ -1,4 +1,4 @@
-# Curso de Python para Análisis de Datos
+# Curso de Python para Análisis de Datos y Construcción del Registro Base Poblacional
 
 Curso introductorio de programación en Python orientado al análisis y procesamiento de datos, con foco en registros administrativos. El curso cubre desde los fundamentos de programación hasta la construcción de dashboards interactivos, como base previa a la aplicación de técnicas de análisis de similitud de registros (que se dicta en una instancia posterior, fuera de este curso).
 
