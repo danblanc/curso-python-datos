@@ -1,0 +1,4328 @@
+[
+  {
+    "documento":"41455603",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle  Corrientes N° 784",
+    "provincia":"Córdoba",
+    "codigo_postal":"94006042"
+  },
+  {
+    "documento":"26 671 884",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag. Tucumán N° 721",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"31009737"
+  },
+  {
+    "documento":"31-541-238",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida La Rioja N° 234",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"80002229"
+  },
+  {
+    "documento":"27811165",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard 6 N° 87",
+    "provincia":"Córdoba",
+    "codigo_postal":"53007560"
+  },
+  {
+    "documento":"25 482 877",
+    "direccion_normalizada":null,
+    "direccion_original":"  Calle 2 N° 37  ",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"44008167"
+  },
+  {
+    "documento":"39-031-404",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. Ushuaia N° 389",
+    "provincia":"Neuquén",
+    "codigo_postal":null
+  },
+  {
+    "documento":"37 096 865",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 2 N° 82",
+    "provincia":"Neuquén",
+    "codigo_postal":"76004576"
+  },
+  {
+    "documento":"20385239",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Rivadavia N° 61",
+    "provincia":"Misiones",
+    "codigo_postal":null
+  },
+  {
+    "documento":"41.439.587",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal San Luis N° 837",
+    "provincia":"Tucumán",
+    "codigo_postal":"83002378"
+  },
+  {
+    "documento":"22642648",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Córdoba N° 283",
+    "provincia":"Salta",
+    "codigo_postal":null
+  },
+  {
+    "documento":"43.148.116",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. Córdoba N° 7794",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"80008033"
+  },
+  {
+    "documento":"22382132",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. 2 N° 2149",
+    "provincia":"Neuquén",
+    "codigo_postal":"34002605"
+  },
+  {
+    "documento":"33.658.665",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida La Pampa N° 8120",
+    "provincia":"Córdoba",
+    "codigo_postal":null
+  },
+  {
+    "documento":"23.666.460",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Ushuaia N° 22",
+    "provincia":"Misiones",
+    "codigo_postal":null
+  },
+  {
+    "documento":"20495191",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 3 N° 348",
+    "provincia":"Tucumán",
+    "codigo_postal":"91037773"
+  },
+  {
+    "documento":"43 373 732",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino  Santa Fe N° 4045",
+    "provincia":"Misiones",
+    "codigo_postal":null
+  },
+  {
+    "documento":"37039896",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino Malvinas Argentinas N° 32",
+    "provincia":"Córdoba",
+    "codigo_postal":"54002821"
+  },
+  {
+    "documento":"28.749.844",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida Alem N° 681  ",
+    "provincia":"Neuquén",
+    "codigo_postal":"55001923"
+  },
+  {
+    "documento":"28.898.649",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Constitución N° 486",
+    "provincia":null,
+    "codigo_postal":"20005346"
+  },
+  {
+    "documento":"42259631",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard San Juan N° 527",
+    "provincia":"Tucumán",
+    "codigo_postal":"94006056"
+  },
+  {
+    "documento":"21704528",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida Santiago del Estero N° 254  ",
+    "provincia":"Salta",
+    "codigo_postal":"91035679"
+  },
+  {
+    "documento":"43.186.770",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Constitución N° 4136",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"58812798"
+  },
+  {
+    "documento":"23-449-181",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard La Rioja N° 5747",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"44002398"
+  },
+  {
+    "documento":"44.664.438",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 3 N° 717",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"53601690"
+  },
+  {
+    "documento":"20.794.046",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. J.B. Alberdi N° 488",
+    "provincia":"Tucumán",
+    "codigo_postal":"76008120"
+  },
+  {
+    "documento":"23 637 385",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 8 N° 57",
+    "provincia":"Misiones",
+    "codigo_postal":"50006475"
+  },
+  {
+    "documento":"44.895.713",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Malvinas Argentinas N° 44",
+    "provincia":"Tucumán",
+    "codigo_postal":"20008954"
+  },
+  {
+    "documento":"38.602.995",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle San Martin N° 7946",
+    "provincia":"Neuquén",
+    "codigo_postal":"55007698"
+  },
+  {
+    "documento":"42.670.288",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Misiones N° 6186",
+    "provincia":"Mendoza",
+    "codigo_postal":"53605175"
+  },
+  {
+    "documento":"20819580",
+    "direccion_normalizada":null,
+    "direccion_original":"Av.  7 N° 637",
+    "provincia":"Salta",
+    "codigo_postal":"50004449"
+  },
+  {
+    "documento":"23 576 476",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Ciudad Autónoma de Buenos Aires N° 47",
+    "provincia":"Misiones",
+    "codigo_postal":null
+  },
+  {
+    "documento":"34 850 299",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida Tucumán N° 424  ",
+    "provincia":"Mendoza",
+    "codigo_postal":null
+  },
+  {
+    "documento":"29-117-246",
+    "direccion_normalizada":null,
+    "direccion_original":"  Av. Alvear N° 1751  ",
+    "provincia":"Misiones",
+    "codigo_postal":"50009639"
+  },
+  {
+    "documento":"33068673",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard Belgrano N° 7148",
+    "provincia":"Neuquén",
+    "codigo_postal":"30004358"
+  },
+  {
+    "documento":"36295441",
+    "direccion_normalizada":null,
+    "direccion_original":"Av.  3 N° 88",
+    "provincia":"Salta",
+    "codigo_postal":"91037982"
+  },
+  {
+    "documento":"34.381.858",
+    "direccion_normalizada":null,
+    "direccion_original":"   Calle 5 N° 598  ",
+    "provincia":"Salta",
+    "codigo_postal":"58814339"
+  },
+  {
+    "documento":"38099899",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag. Mitre N° 501",
+    "provincia":"Mendoza",
+    "codigo_postal":"35007536"
+  },
+  {
+    "documento":"27 313 676",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino La Pampa N° 577",
+    "provincia":"Tucumán",
+    "codigo_postal":"57004978"
+  },
+  {
+    "documento":"43.991.912",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Neuquén N° 9334",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"47004914"
+  },
+  {
+    "documento":"36-977-226",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard 112 B N° 954",
+    "provincia":"Misiones",
+    "codigo_postal":"46008601"
+  },
+  {
+    "documento":"38 058 086",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Neuquén N° 378",
+    "provincia":"Chaco",
+    "codigo_postal":"30004778"
+  },
+  {
+    "documento":"36-586-173",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag. Mendoza N° 1237",
+    "provincia":"Mendoza",
+    "codigo_postal":"55009634"
+  },
+  {
+    "documento":"28 063 933",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino Santiago del Estero N° 8695",
+    "provincia":"Misiones",
+    "codigo_postal":"63007917"
+  },
+  {
+    "documento":"31-099-514",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida San Ferando del Valle de Catamarca N° 73",
+    "provincia":"Tucumán",
+    "codigo_postal":"46005122"
+  },
+  {
+    "documento":"29495860",
+    "direccion_normalizada":null,
+    "direccion_original":"  Av. 6 N° 5486  ",
+    "provincia":"Tucumán",
+    "codigo_postal":"36000014"
+  },
+  {
+    "documento":"36471155",
+    "direccion_normalizada":null,
+    "direccion_original":"  Diagonal Tucumán N° 5947  ",
+    "provincia":"Córdoba",
+    "codigo_postal":null
+  },
+  {
+    "documento":"21.798.822",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida J.B. Alberdi N° 39",
+    "provincia":"Mendoza",
+    "codigo_postal":"91030900"
+  },
+  {
+    "documento":"29 977 515",
+    "direccion_normalizada":null,
+    "direccion_original":"   Diagonal Constitución N° 861  ",
+    "provincia":"Mendoza",
+    "codigo_postal":"31009446"
+  },
+  {
+    "documento":"35 116 395",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard 5 N° 4191",
+    "provincia":"Neuquén",
+    "codigo_postal":"90003999"
+  },
+  {
+    "documento":"38.272.481",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 4 N° 9165",
+    "provincia":"Tucumán",
+    "codigo_postal":"40008532"
+  },
+  {
+    "documento":"36 569 018",
+    "direccion_normalizada":null,
+    "direccion_original":"  Av. Mitre N° 46  ",
+    "provincia":"Neuquén",
+    "codigo_postal":"33009532"
+  },
+  {
+    "documento":"29043289",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Formosa N° 79",
+    "provincia":"Salta",
+    "codigo_postal":"91038902"
+  },
+  {
+    "documento":"31 066 374",
+    "direccion_normalizada":null,
+    "direccion_original":"  Diag. 117 B N° 272  ",
+    "provincia":"Misiones",
+    "codigo_postal":"83009471"
+  },
+  {
+    "documento":"35 501 353",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino Santa Rosa N° 777",
+    "provincia":"Tucumán",
+    "codigo_postal":"90006337"
+  },
+  {
+    "documento":"41.140.039",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. 9 N° 761",
+    "provincia":"Santa Fe",
+    "codigo_postal":null
+  },
+  {
+    "documento":"29 174 617",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Bahía Blanca N° 7993",
+    "provincia":"Salta",
+    "codigo_postal":"90004699"
+  },
+  {
+    "documento":"20-086-075",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 7 N° 12",
+    "provincia":"Misiones",
+    "codigo_postal":"53003311"
+  },
+  {
+    "documento":"43.404.163",
+    "direccion_normalizada":null,
+    "direccion_original":"  Av. Viedma N° 494  ",
+    "provincia":"Santa Fe",
+    "codigo_postal":"57007726"
+  },
+  {
+    "documento":"39-803-169",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Güemes N° 870",
+    "provincia":"Tucumán",
+    "codigo_postal":"10048437"
+  },
+  {
+    "documento":"31 024 831",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Paraná N° 86",
+    "provincia":"Tucumán",
+    "codigo_postal":null
+  },
+  {
+    "documento":"23303203",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard La Rioja N° 422",
+    "provincia":"Mendoza",
+    "codigo_postal":"55009679"
+  },
+  {
+    "documento":"25.703.704",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 8 N° 146",
+    "provincia":"Tucumán",
+    "codigo_postal":"36002196"
+  },
+  {
+    "documento":"29.651.317",
+    "direccion_normalizada":null,
+    "direccion_original":"  Diagonal San Martin N° 469  ",
+    "provincia":"Salta",
+    "codigo_postal":"30006335"
+  },
+  {
+    "documento":"32-044-670",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle La Rioja N° 6616",
+    "provincia":"Tucumán",
+    "codigo_postal":null
+  },
+  {
+    "documento":"27.348.572",
+    "direccion_normalizada":null,
+    "direccion_original":"  Diagonal 2 N° 636  ",
+    "provincia":"Neuquén",
+    "codigo_postal":null
+  },
+  {
+    "documento":"30 962 874",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 2 N° 991",
+    "provincia":"Chaco",
+    "codigo_postal":"53000695"
+  },
+  {
+    "documento":"23 864 454",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Comodoro Rivadavia N° 8944",
+    "provincia":"Tucumán",
+    "codigo_postal":"46000767"
+  },
+  {
+    "documento":"42-560-013",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag. Saavedra N° 6097",
+    "provincia":"Córdoba",
+    "codigo_postal":null
+  },
+  {
+    "documento":"41 784 860",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. J.B. Alberdi N° 732",
+    "provincia":"Chaco",
+    "codigo_postal":"36004722"
+  },
+  {
+    "documento":"38 125 852",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag. Posadas N° 7928",
+    "provincia":"Chaco",
+    "codigo_postal":"42009898"
+  },
+  {
+    "documento":"43-007-611",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida Ciudad Autónoma de Buenos Aires N° 733  ",
+    "provincia":"Neuquén",
+    "codigo_postal":null
+  },
+  {
+    "documento":"24.225.304",
+    "direccion_normalizada":null,
+    "direccion_original":"  Calle Comodoro Rivadavia N° 613  ",
+    "provincia":"Tucumán",
+    "codigo_postal":"76002198"
+  },
+  {
+    "documento":"28.410.559",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 1 N° 974",
+    "provincia":"Santa Fe",
+    "codigo_postal":"50001847"
+  },
+  {
+    "documento":"35 980 162",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle San Luis N° 528",
+    "provincia":"Buenos Aires",
+    "codigo_postal":null
+  },
+  {
+    "documento":"23 622 597",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle  Santiago del Estero N° 5916",
+    "provincia":"Tucumán",
+    "codigo_postal":null
+  },
+  {
+    "documento":"43547809",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Saavedra N° 658",
+    "provincia":"Entre Ríos",
+    "codigo_postal":null
+  },
+  {
+    "documento":"35913789",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida La Rioja N° 58",
+    "provincia":"Misiones",
+    "codigo_postal":"34008762"
+  },
+  {
+    "documento":"42 325 123",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard Santa Fe N° 69",
+    "provincia":"Córdoba",
+    "codigo_postal":"10043911"
+  },
+  {
+    "documento":"29.347.198",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Chilecito N° 263",
+    "provincia":"Tucumán",
+    "codigo_postal":"50002817"
+  },
+  {
+    "documento":"24 806 722",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 4 N° 528",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"58812282"
+  },
+  {
+    "documento":"40005950",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Pte. Perón N° 5140",
+    "provincia":"Tucumán",
+    "codigo_postal":null
+  },
+  {
+    "documento":"23-720-843",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 8 N° 36",
+    "provincia":"Santa Fe",
+    "codigo_postal":"55008062"
+  },
+  {
+    "documento":"36 689 482",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle  7 N° 3663",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"19007223"
+  },
+  {
+    "documento":"30 504 571",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 1 N° 859",
+    "provincia":"Entre Ríos",
+    "codigo_postal":null
+  },
+  {
+    "documento":"39 759 241",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 9 N° 239",
+    "provincia":"Misiones",
+    "codigo_postal":"57001329"
+  },
+  {
+    "documento":"41.657.472",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Salta N° 63",
+    "provincia":"Chaco",
+    "codigo_postal":"76006204"
+  },
+  {
+    "documento":"42-855-046",
+    "direccion_normalizada":null,
+    "direccion_original":"  Diagonal Alvear N° 895  ",
+    "provincia":"Chaco",
+    "codigo_postal":"55007688"
+  },
+  {
+    "documento":"22574665",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Santa Rosa N° 968",
+    "provincia":"Santa Fe",
+    "codigo_postal":"94108785"
+  },
+  {
+    "documento":"31523859",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal  Tucumán N° 844",
+    "provincia":"Salta",
+    "codigo_postal":"94004862"
+  },
+  {
+    "documento":"41-169-040",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. Rosario N° 512",
+    "provincia":"Santa Fe",
+    "codigo_postal":"47000319"
+  },
+  {
+    "documento":"42 217 569",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Entre Ríos N° 94",
+    "provincia":"Misiones",
+    "codigo_postal":"20004196"
+  },
+  {
+    "documento":"20-611-715",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal San Miguel de Tucumán N° 9913",
+    "provincia":"Córdoba",
+    "codigo_postal":"46004505"
+  },
+  {
+    "documento":"37667469",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida J.M. de Rosas N° 8838",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"91030362"
+  },
+  {
+    "documento":"29 560 594",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Mendoza N° 2875",
+    "provincia":"Salta",
+    "codigo_postal":"42009246"
+  },
+  {
+    "documento":"26.700.743",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Comodoro Rivadavia N° 28",
+    "provincia":"Tucumán",
+    "codigo_postal":"47000374"
+  },
+  {
+    "documento":"23.077.396",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Chilecito N° 2393",
+    "provincia":null,
+    "codigo_postal":null
+  },
+  {
+    "documento":"41-809-061",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 8 N° 98",
+    "provincia":null,
+    "codigo_postal":null
+  },
+  {
+    "documento":"44 401 950",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida 2 N° 208  ",
+    "provincia":"Chaco",
+    "codigo_postal":"34005057"
+  },
+  {
+    "documento":"28.118.096",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 130 A N° 9477",
+    "provincia":"Misiones",
+    "codigo_postal":"94106194"
+  },
+  {
+    "documento":"20 682 306",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Santiago del Estero N° 17",
+    "provincia":"Córdoba",
+    "codigo_postal":"20008870"
+  },
+  {
+    "documento":"21-487-658",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 1 N° 397",
+    "provincia":null,
+    "codigo_postal":"76005534"
+  },
+  {
+    "documento":"21-406-130",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 3 N° 7078",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"10041284"
+  },
+  {
+    "documento":"32 348 674",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle  Malvinas Argentinas N° 488",
+    "provincia":"Tucumán",
+    "codigo_postal":"10048385"
+  },
+  {
+    "documento":"40.214.978",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida La Rioja N° 555",
+    "provincia":"Chaco",
+    "codigo_postal":"53006597"
+  },
+  {
+    "documento":"34-594-181",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard Neuquén N° 344",
+    "provincia":"Neuquén",
+    "codigo_postal":"85005450"
+  },
+  {
+    "documento":"27-918-690",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. San Juan N° 1028",
+    "provincia":"Santa Fe",
+    "codigo_postal":"94107768"
+  },
+  {
+    "documento":"28375577",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Santa Cruz N° 1790",
+    "provincia":"Neuquén",
+    "codigo_postal":"54008981"
+  },
+  {
+    "documento":"24.115.029",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida La Rioja N° 266",
+    "provincia":"Misiones",
+    "codigo_postal":"40006574"
+  },
+  {
+    "documento":"43.884.350",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Catamarca N° 626",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"47003196"
+  },
+  {
+    "documento":"22892911",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Tierra del Fuego N° 3144",
+    "provincia":"Córdoba",
+    "codigo_postal":null
+  },
+  {
+    "documento":"38.498.673",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Alem N° 847",
+    "provincia":"Mendoza",
+    "codigo_postal":"47003693"
+  },
+  {
+    "documento":"22-646-099",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Constitución N° 5725",
+    "provincia":"Neuquén",
+    "codigo_postal":"30002689"
+  },
+  {
+    "documento":"40-305-092",
+    "direccion_normalizada":null,
+    "direccion_original":"  Calle Ushuaia N° 933  ",
+    "provincia":"Salta",
+    "codigo_postal":"40003012"
+  },
+  {
+    "documento":"38-306-542",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Santa Cruz N° 23",
+    "provincia":"Chaco",
+    "codigo_postal":"50007137"
+  },
+  {
+    "documento":"44-104-258",
+    "direccion_normalizada":null,
+    "direccion_original":"  Calle San Salvador de Jujuy N° 4467  ",
+    "provincia":"Mendoza",
+    "codigo_postal":null
+  },
+  {
+    "documento":"40 648 640",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal J.B. Alberdi N° 524",
+    "provincia":"Misiones",
+    "codigo_postal":"85005749"
+  },
+  {
+    "documento":"23 021 546",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard Chaco N° 1572",
+    "provincia":"Córdoba",
+    "codigo_postal":"44005829"
+  },
+  {
+    "documento":"33-530-961",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Bahía Blanca N° 231",
+    "provincia":"Tucumán",
+    "codigo_postal":"30009330"
+  },
+  {
+    "documento":"24317226",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Córdoba N° 3398",
+    "provincia":"Santa Fe",
+    "codigo_postal":"53604584"
+  },
+  {
+    "documento":"24.997.619",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Rawson N° 291",
+    "provincia":"Misiones",
+    "codigo_postal":null
+  },
+  {
+    "documento":"20-558-243",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Resistencia N° 2439",
+    "provincia":"Neuquén",
+    "codigo_postal":"80002833"
+  },
+  {
+    "documento":"25 721 435",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Chubut N° 81",
+    "provincia":"Salta",
+    "codigo_postal":null
+  },
+  {
+    "documento":"44690601",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Entre Ríos N° 494",
+    "provincia":"Misiones",
+    "codigo_postal":"63006695"
+  },
+  {
+    "documento":"41-585-871",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 4 N° 850",
+    "provincia":"Chaco",
+    "codigo_postal":"76003297"
+  },
+  {
+    "documento":"44-215-038",
+    "direccion_normalizada":null,
+    "direccion_original":"Av.  J.J. Castelli N° 368",
+    "provincia":"Tucumán",
+    "codigo_postal":"94005066"
+  },
+  {
+    "documento":"34-843-679",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal J.M. de Rosas N° 57",
+    "provincia":"Mendoza",
+    "codigo_postal":"47006705"
+  },
+  {
+    "documento":"41.405.867",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Catamarca N° 7643",
+    "provincia":"Santa Fe",
+    "codigo_postal":"80004377"
+  },
+  {
+    "documento":"36.020.513",
+    "direccion_normalizada":null,
+    "direccion_original":"  Blv. Santa Rosa N° 35  ",
+    "provincia":"Santa Fe",
+    "codigo_postal":"83003663"
+  },
+  {
+    "documento":"36.622.325",
+    "direccion_normalizada":null,
+    "direccion_original":"  Calle Comodoro Rivadavia N° 171  ",
+    "provincia":"Chaco",
+    "codigo_postal":null
+  },
+  {
+    "documento":"29.154.893",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 3 N° 229",
+    "provincia":"Mendoza",
+    "codigo_postal":"83006111"
+  },
+  {
+    "documento":"34-351-339",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Santa Fe N° 52",
+    "provincia":"Tucumán",
+    "codigo_postal":null
+  },
+  {
+    "documento":"20-383-719",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 2 N° 606",
+    "provincia":"Tucumán",
+    "codigo_postal":"94101200"
+  },
+  {
+    "documento":"36.045.122",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida Güemes N° 787  ",
+    "provincia":"Neuquén",
+    "codigo_postal":null
+  },
+  {
+    "documento":"43-614-472",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Entre Ríos N° 27",
+    "provincia":"Mendoza",
+    "codigo_postal":"54009102"
+  },
+  {
+    "documento":"34947918",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal  Santiago del Estero N° 161",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"31001091"
+  },
+  {
+    "documento":"31560470",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 1 N° 1083",
+    "provincia":"Salta",
+    "codigo_postal":"85000326"
+  },
+  {
+    "documento":"32 666 675",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle  Santiago del Estero N° 9213",
+    "provincia":"Santa Fe",
+    "codigo_postal":null
+  },
+  {
+    "documento":"20-762-870",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Chilecito N° 4338",
+    "provincia":null,
+    "codigo_postal":"20009421"
+  },
+  {
+    "documento":"20.524.985",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. Saavedra N° 114",
+    "provincia":"Chaco",
+    "codigo_postal":"85004281"
+  },
+  {
+    "documento":"21.893.947",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida  6 N° 6685",
+    "provincia":"Misiones",
+    "codigo_postal":"85003406"
+  },
+  {
+    "documento":"39.853.054",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino Mar del Plata N° 51",
+    "provincia":"Tucumán",
+    "codigo_postal":"54002775"
+  },
+  {
+    "documento":"27-561-308",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Santa Fe N° 1140",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"34006634"
+  },
+  {
+    "documento":"23.102.576",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 3 N° 8616",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"91033722"
+  },
+  {
+    "documento":"26376137",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Belgrano N° 742",
+    "provincia":"Misiones",
+    "codigo_postal":"76000912"
+  },
+  {
+    "documento":"36 685 857",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Viedma N° 51",
+    "provincia":null,
+    "codigo_postal":"53002214"
+  },
+  {
+    "documento":"44 159 591",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. Saavedra N° 66",
+    "provincia":"Chaco",
+    "codigo_postal":"57005937"
+  },
+  {
+    "documento":"24 696 228",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 6 N° 6332",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"63001894"
+  },
+  {
+    "documento":"43.728.673",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida Resistencia N° 866  ",
+    "provincia":"Misiones",
+    "codigo_postal":"94107052"
+  },
+  {
+    "documento":"29-218-769",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 4 N° 813",
+    "provincia":"Mendoza",
+    "codigo_postal":"91035100"
+  },
+  {
+    "documento":"28 969 929",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Neuquén N° 728",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"46002776"
+  },
+  {
+    "documento":"21882904",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Paraná N° 73",
+    "provincia":"Mendoza",
+    "codigo_postal":null
+  },
+  {
+    "documento":"35-955-142",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. Santa Rosa N° 585",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"10042461"
+  },
+  {
+    "documento":"43 914 626",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal  2 N° 571",
+    "provincia":"Córdoba",
+    "codigo_postal":"94105202"
+  },
+  {
+    "documento":"34.666.248",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Saavedra N° 6191",
+    "provincia":"Mendoza",
+    "codigo_postal":"55009743"
+  },
+  {
+    "documento":"42 806 774",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard San Luis N° 392",
+    "provincia":"Santa Fe",
+    "codigo_postal":"63000055"
+  },
+  {
+    "documento":"20-174-322",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Santa Fe N° 79",
+    "provincia":"Misiones",
+    "codigo_postal":"31000178"
+  },
+  {
+    "documento":"32926439",
+    "direccion_normalizada":null,
+    "direccion_original":"  Av. Belgrano N° 7855  ",
+    "provincia":"Tucumán",
+    "codigo_postal":null
+  },
+  {
+    "documento":"34-129-849",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Pte. Perón N° 8424",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"94108999"
+  },
+  {
+    "documento":"31 057 585",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino Pte. Perón N° 32",
+    "provincia":"Salta",
+    "codigo_postal":"63000798"
+  },
+  {
+    "documento":"36.475.471",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. San Salvador de Jujuy N° 114",
+    "provincia":null,
+    "codigo_postal":"33007045"
+  },
+  {
+    "documento":"27 034 632",
+    "direccion_normalizada":null,
+    "direccion_original":"  Diagonal Rivadavia N° 5373  ",
+    "provincia":"Salta",
+    "codigo_postal":"63009176"
+  },
+  {
+    "documento":"36 080 448",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Rivadavia N° 728",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"40009935"
+  },
+  {
+    "documento":"41 643 655",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Ushuaia N° 339",
+    "provincia":"Neuquén",
+    "codigo_postal":"53004403"
+  },
+  {
+    "documento":"36199109",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv.  Corrientes N° 983",
+    "provincia":"Mendoza",
+    "codigo_postal":null
+  },
+  {
+    "documento":"44 226 096",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Entre Ríos N° 746",
+    "provincia":"Mendoza",
+    "codigo_postal":"90007360"
+  },
+  {
+    "documento":"34 306 582",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino San Ferando del Valle de Catamarca N° 46",
+    "provincia":"Chaco",
+    "codigo_postal":null
+  },
+  {
+    "documento":"26-904-981",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Resistencia N° 822",
+    "provincia":"Misiones",
+    "codigo_postal":"10048490"
+  },
+  {
+    "documento":"33171591",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 4 N° 65",
+    "provincia":"Santa Fe",
+    "codigo_postal":"83003884"
+  },
+  {
+    "documento":"32.526.073",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 126 A N° 43",
+    "provincia":"Santa Fe",
+    "codigo_postal":"42003685"
+  },
+  {
+    "documento":"32047355",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle  Tierra del Fuego N° 87",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"33003061"
+  },
+  {
+    "documento":"27-544-493",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Alvear N° 242",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"44003701"
+  },
+  {
+    "documento":"34.809.804",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 2 N° 2792",
+    "provincia":"Córdoba",
+    "codigo_postal":"40004244"
+  },
+  {
+    "documento":"27.950.590",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Santiago del Estero N° 3030",
+    "provincia":"Neuquén",
+    "codigo_postal":"35006325"
+  },
+  {
+    "documento":"30-860-013",
+    "direccion_normalizada":null,
+    "direccion_original":"  Diagonal Malvinas Argentinas N° 31  ",
+    "provincia":"Santa Fe",
+    "codigo_postal":"94004488"
+  },
+  {
+    "documento":"30.807.772",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle J.B. Alberdi N° 561",
+    "provincia":"Córdoba",
+    "codigo_postal":null
+  },
+  {
+    "documento":"32 383 973",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal San Martin N° 928",
+    "provincia":"Salta",
+    "codigo_postal":"94004217"
+  },
+  {
+    "documento":"29-010-601",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag. La Rioja N° 88",
+    "provincia":null,
+    "codigo_postal":"80008878"
+  },
+  {
+    "documento":"35318206",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. La Pampa N° 480",
+    "provincia":"Córdoba",
+    "codigo_postal":"53609415"
+  },
+  {
+    "documento":"33-299-016",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Córdoba N° 256",
+    "provincia":null,
+    "codigo_postal":null
+  },
+  {
+    "documento":"34.170.504",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv.  Chubut N° 1098",
+    "provincia":"Santa Fe",
+    "codigo_postal":"58810911"
+  },
+  {
+    "documento":"38900916",
+    "direccion_normalizada":null,
+    "direccion_original":"  Boulevard 146 A N° 3437  ",
+    "provincia":"Córdoba",
+    "codigo_postal":"47005288"
+  },
+  {
+    "documento":"31 795 578",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal La Pampa N° 958",
+    "provincia":"Tucumán",
+    "codigo_postal":"53605056"
+  },
+  {
+    "documento":"33-144-982",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Güemes N° 125",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"80008632"
+  },
+  {
+    "documento":"39 071 681",
+    "direccion_normalizada":null,
+    "direccion_original":"  Blv. San Juan N° 118  ",
+    "provincia":null,
+    "codigo_postal":"85007913"
+  },
+  {
+    "documento":"36-999-031",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 3 N° 7811",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"33007655"
+  },
+  {
+    "documento":"42852436",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Paraná N° 922",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"94100073"
+  },
+  {
+    "documento":"24007842",
+    "direccion_normalizada":null,
+    "direccion_original":"  Diag. 101 Bis N° 474  ",
+    "provincia":"Tucumán",
+    "codigo_postal":"83005055"
+  },
+  {
+    "documento":"31 241 104",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Paraná N° 319",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"58810571"
+  },
+  {
+    "documento":"42619728",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 3 N° 4851",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"20001988"
+  },
+  {
+    "documento":"34.071.698",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Belgrano N° 777",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"83002778"
+  },
+  {
+    "documento":"33452805",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 7 N° 514",
+    "provincia":"Tucumán",
+    "codigo_postal":null
+  },
+  {
+    "documento":"36.554.437",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Buenos Aires N° 9827",
+    "provincia":"Salta",
+    "codigo_postal":"33006401"
+  },
+  {
+    "documento":"37.777.624",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Corrientes N° 626",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"34002462"
+  },
+  {
+    "documento":"36.959.341",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Salta N° 349",
+    "provincia":"Salta",
+    "codigo_postal":"31006185"
+  },
+  {
+    "documento":"29.125.324",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino Posadas N° 672",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"53604460"
+  },
+  {
+    "documento":"28892190",
+    "direccion_normalizada":null,
+    "direccion_original":"  Calle 3 N° 671  ",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"34005212"
+  },
+  {
+    "documento":"25834033",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Tucumán N° 378",
+    "provincia":"Mendoza",
+    "codigo_postal":"36001145"
+  },
+  {
+    "documento":"41149276",
+    "direccion_normalizada":null,
+    "direccion_original":"Av.  Rivadavia N° 54",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"94101293"
+  },
+  {
+    "documento":"39 256 358",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 3 N° 91",
+    "provincia":null,
+    "codigo_postal":null
+  },
+  {
+    "documento":"29 902 086",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag. 3 N° 9259",
+    "provincia":"Mendoza",
+    "codigo_postal":"30008984"
+  },
+  {
+    "documento":"32-834-505",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard 1 N° 2828",
+    "provincia":"Tucumán",
+    "codigo_postal":"80006046"
+  },
+  {
+    "documento":"39.595.416",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Malvinas Argentinas N° 279",
+    "provincia":"Neuquén",
+    "codigo_postal":"54005402"
+  },
+  {
+    "documento":"25.828.808",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 6 N° 371",
+    "provincia":"Neuquén",
+    "codigo_postal":"80009017"
+  },
+  {
+    "documento":"36-516-388",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Jujuy N° 362",
+    "provincia":"Mendoza",
+    "codigo_postal":"53605681"
+  },
+  {
+    "documento":"30857838",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 6 N° 17",
+    "provincia":"Salta",
+    "codigo_postal":"35009831"
+  },
+  {
+    "documento":"25 284 953",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Alvear N° 31",
+    "provincia":"Tucumán",
+    "codigo_postal":"35002910"
+  },
+  {
+    "documento":"39 221 146",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal San Juan N° 5545",
+    "provincia":"Mendoza",
+    "codigo_postal":"91032283"
+  },
+  {
+    "documento":"22-977-150",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Alvear N° 846",
+    "provincia":"Salta",
+    "codigo_postal":"10048493"
+  },
+  {
+    "documento":"32-707-485",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. San Martin N° 445",
+    "provincia":"Córdoba",
+    "codigo_postal":"33003063"
+  },
+  {
+    "documento":"44561343",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 5 N° 44",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"91038452"
+  },
+  {
+    "documento":"43-394-039",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. San Luis N° 9752",
+    "provincia":"Córdoba",
+    "codigo_postal":null
+  },
+  {
+    "documento":"26699974",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Corrientes N° 661",
+    "provincia":"Tucumán",
+    "codigo_postal":"85001649"
+  },
+  {
+    "documento":"32-799-176",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Saavedra N° 492",
+    "provincia":"Córdoba",
+    "codigo_postal":"10041693"
+  },
+  {
+    "documento":"39.787.935",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Río Negro N° 178",
+    "provincia":"Tucumán",
+    "codigo_postal":"57002929"
+  },
+  {
+    "documento":"36.847.729",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 4 N° 385",
+    "provincia":"Salta",
+    "codigo_postal":"54003203"
+  },
+  {
+    "documento":"39-966-486",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Saavedra N° 655",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"58810162"
+  },
+  {
+    "documento":"34079232",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Belgrano N° 72",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"50001903"
+  },
+  {
+    "documento":"39 193 914",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida  Salta N° 93",
+    "provincia":"Chaco",
+    "codigo_postal":"20000615"
+  },
+  {
+    "documento":"30-168-836",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Jujuy N° 4728",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"53002215"
+  },
+  {
+    "documento":"26 306 075",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Mitre N° 19",
+    "provincia":"Tucumán",
+    "codigo_postal":"63006847"
+  },
+  {
+    "documento":"37592126",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard Malvinas Argentinas N° 549",
+    "provincia":"Chaco",
+    "codigo_postal":"42002365"
+  },
+  {
+    "documento":"21.025.530",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 3 N° 3484",
+    "provincia":"Córdoba",
+    "codigo_postal":null
+  },
+  {
+    "documento":"39.201.794",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida Posadas N° 573  ",
+    "provincia":"Santa Fe",
+    "codigo_postal":"19004067"
+  },
+  {
+    "documento":"30-249-526",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida La Pampa N° 19",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"19000784"
+  },
+  {
+    "documento":"42965094",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Entre Ríos N° 18",
+    "provincia":"Mendoza",
+    "codigo_postal":"63001424"
+  },
+  {
+    "documento":"40 133 776",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida San Juan N° 4517",
+    "provincia":"Neuquén",
+    "codigo_postal":"35006078"
+  },
+  {
+    "documento":"44.378.968",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag. San Miguel de Tucumán N° 9231",
+    "provincia":"Tucumán",
+    "codigo_postal":"83007543"
+  },
+  {
+    "documento":"42-807-362",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal San Juan N° 8398",
+    "provincia":"Córdoba",
+    "codigo_postal":"91034764"
+  },
+  {
+    "documento":"40825715",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 7 N° 581",
+    "provincia":"Salta",
+    "codigo_postal":"53603720"
+  },
+  {
+    "documento":"24-805-805",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Jujuy N° 49",
+    "provincia":"Santa Fe",
+    "codigo_postal":null
+  },
+  {
+    "documento":"22.954.177",
+    "direccion_normalizada":null,
+    "direccion_original":"Av.  Chaco N° 39",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"80004584"
+  },
+  {
+    "documento":"20.138.372",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 5 N° 877",
+    "provincia":"Tucumán",
+    "codigo_postal":"50008460"
+  },
+  {
+    "documento":"37-586-469",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. San Luis N° 18",
+    "provincia":null,
+    "codigo_postal":"83001344"
+  },
+  {
+    "documento":"27086368",
+    "direccion_normalizada":null,
+    "direccion_original":"  Diagonal Mitre N° 5119  ",
+    "provincia":"Córdoba",
+    "codigo_postal":"94008998"
+  },
+  {
+    "documento":"33 984 667",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida San Luis N° 94",
+    "provincia":"Misiones",
+    "codigo_postal":null
+  },
+  {
+    "documento":"23520337",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 1 N° 247",
+    "provincia":null,
+    "codigo_postal":null
+  },
+  {
+    "documento":"36-128-405",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida Omar Nuñez N° 717  ",
+    "provincia":"Córdoba",
+    "codigo_postal":null
+  },
+  {
+    "documento":"27 756 452",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal  2 N° 14",
+    "provincia":"Córdoba",
+    "codigo_postal":"50004936"
+  },
+  {
+    "documento":"24.643.746",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Río Negro N° 127",
+    "provincia":"Chaco",
+    "codigo_postal":"80006793"
+  },
+  {
+    "documento":"34.151.240",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Pte. Perón N° 7693",
+    "provincia":"Santa Fe",
+    "codigo_postal":null
+  },
+  {
+    "documento":"42.966.805",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Alem N° 494",
+    "provincia":"Misiones",
+    "codigo_postal":"33005736"
+  },
+  {
+    "documento":"42-476-246",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Santa Fe N° 463",
+    "provincia":"Neuquén",
+    "codigo_postal":"57001192"
+  },
+  {
+    "documento":"35 746 723",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard Río Gallegos N° 36",
+    "provincia":"Mendoza",
+    "codigo_postal":"63000376"
+  },
+  {
+    "documento":"22 953 456",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Saavedra N° 54",
+    "provincia":"Neuquén",
+    "codigo_postal":"80008723"
+  },
+  {
+    "documento":"41 964 596",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 1 N° 4643",
+    "provincia":"Chaco",
+    "codigo_postal":"91035104"
+  },
+  {
+    "documento":"31-454-044",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino Buenos Aires N° 871",
+    "provincia":"Salta",
+    "codigo_postal":null
+  },
+  {
+    "documento":"33.183.418",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida 1 N° 828  ",
+    "provincia":"Neuquén",
+    "codigo_postal":null
+  },
+  {
+    "documento":"37796074",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard Córdoba N° 212",
+    "provincia":"Neuquén",
+    "codigo_postal":"76004983"
+  },
+  {
+    "documento":"40.434.437",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 1 N° 854",
+    "provincia":"Misiones",
+    "codigo_postal":"53604820"
+  },
+  {
+    "documento":"43.886.539",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 8 N° 141",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"20003651"
+  },
+  {
+    "documento":"39 555 733",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle J.B. Alberdi N° 9234",
+    "provincia":"Tucumán",
+    "codigo_postal":"55009394"
+  },
+  {
+    "documento":"28.407.432",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino 6 N° 484",
+    "provincia":"Mendoza",
+    "codigo_postal":"63005578"
+  },
+  {
+    "documento":"43251076",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal J.M. de Rosas N° 873",
+    "provincia":"Chaco",
+    "codigo_postal":"10041904"
+  },
+  {
+    "documento":"41-730-936",
+    "direccion_normalizada":null,
+    "direccion_original":"  Diagonal Ciudad Autónoma de Buenos Aires N° 542  ",
+    "provincia":"Misiones",
+    "codigo_postal":"35002302"
+  },
+  {
+    "documento":"28.866.409",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Santa Fe N° 688",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"20003324"
+  },
+  {
+    "documento":"30 105 078",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida J.B. Alberdi N° 723",
+    "provincia":"Córdoba",
+    "codigo_postal":"19007392"
+  },
+  {
+    "documento":"31-108-749",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 1 N° 9117",
+    "provincia":"Mendoza",
+    "codigo_postal":"80003546"
+  },
+  {
+    "documento":"21-338-058",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Ciudad Autónoma de Buenos Aires N° 260",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"57001276"
+  },
+  {
+    "documento":"29.946.673",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Bahía Blanca N° 99",
+    "provincia":"Mendoza",
+    "codigo_postal":"35005082"
+  },
+  {
+    "documento":"38 044 037",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 1 N° 12",
+    "provincia":"Misiones",
+    "codigo_postal":null
+  },
+  {
+    "documento":"33 677 886",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 8 N° 353",
+    "provincia":"Neuquén",
+    "codigo_postal":"63001632"
+  },
+  {
+    "documento":"36872408",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Neuquén N° 27",
+    "provincia":"Chaco",
+    "codigo_postal":"57008889"
+  },
+  {
+    "documento":"38-311-474",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida  7 N° 6699",
+    "provincia":"Neuquén",
+    "codigo_postal":null
+  },
+  {
+    "documento":"27-048-205",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Santa Cruz N° 8615",
+    "provincia":"Neuquén",
+    "codigo_postal":"53006297"
+  },
+  {
+    "documento":"38 416 387",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal San Juan N° 626",
+    "provincia":"Mendoza",
+    "codigo_postal":"31004930"
+  },
+  {
+    "documento":"30 663 126",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Salta N° 776",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"46004687"
+  },
+  {
+    "documento":"34-633-895",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino 7 N° 3271",
+    "provincia":"Neuquén",
+    "codigo_postal":"42009120"
+  },
+  {
+    "documento":"38.073.022",
+    "direccion_normalizada":null,
+    "direccion_original":"  Av. Tucumán N° 95  ",
+    "provincia":"Neuquén",
+    "codigo_postal":"58818187"
+  },
+  {
+    "documento":"38 108 559",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Entre Ríos N° 951",
+    "provincia":"Mendoza",
+    "codigo_postal":"40009208"
+  },
+  {
+    "documento":"25.564.786",
+    "direccion_normalizada":null,
+    "direccion_original":"Av.  Buenos Aires N° 391",
+    "provincia":"Mendoza",
+    "codigo_postal":"33003230"
+  },
+  {
+    "documento":"26-938-186",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 3 N° 6237",
+    "provincia":"Tucumán",
+    "codigo_postal":"90008815"
+  },
+  {
+    "documento":"25 833 431",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag. Buenos Aires N° 113",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"50004582"
+  },
+  {
+    "documento":"36.838.854",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. Santiago del Estero N° 6178",
+    "provincia":"Mendoza",
+    "codigo_postal":"19006732"
+  },
+  {
+    "documento":"42 656 939",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Constitución N° 2096",
+    "provincia":"Neuquén",
+    "codigo_postal":"57001829"
+  },
+  {
+    "documento":"37 335 584",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Alem N° 2932",
+    "provincia":"Salta",
+    "codigo_postal":"76006815"
+  },
+  {
+    "documento":"26-103-019",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Rosario N° 287",
+    "provincia":"Mendoza",
+    "codigo_postal":"35004500"
+  },
+  {
+    "documento":"25018440",
+    "direccion_normalizada":null,
+    "direccion_original":"  Diagonal 8 N° 83  ",
+    "provincia":"Neuquén",
+    "codigo_postal":"94000001"
+  },
+  {
+    "documento":"42 768 673",
+    "direccion_normalizada":null,
+    "direccion_original":"  Diagonal Malvinas Argentinas N° 41  ",
+    "provincia":"Neuquén",
+    "codigo_postal":null
+  },
+  {
+    "documento":"27801837",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 5 N° 921",
+    "provincia":"Buenos Aires",
+    "codigo_postal":null
+  },
+  {
+    "documento":"33-718-564",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. 4 N° 951",
+    "provincia":"Salta",
+    "codigo_postal":"30009025"
+  },
+  {
+    "documento":"36.188.931",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Belgrano N° 38",
+    "provincia":"Córdoba",
+    "codigo_postal":"46001844"
+  },
+  {
+    "documento":"25428943",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle  J.M. de Rosas N° 492",
+    "provincia":"Chaco",
+    "codigo_postal":null
+  },
+  {
+    "documento":"27-441-374",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 7 N° 69",
+    "provincia":"Chaco",
+    "codigo_postal":"34007812"
+  },
+  {
+    "documento":"37-386-339",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Mitre N° 3647",
+    "provincia":"Santa Fe",
+    "codigo_postal":"20004890"
+  },
+  {
+    "documento":"42 470 129",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Salta N° 9995",
+    "provincia":"Mendoza",
+    "codigo_postal":"46007086"
+  },
+  {
+    "documento":"39290668",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 8 N° 19",
+    "provincia":"Misiones",
+    "codigo_postal":"10040900"
+  },
+  {
+    "documento":"32 652 714",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 4 N° 283",
+    "provincia":"Salta",
+    "codigo_postal":null
+  },
+  {
+    "documento":"27-715-175",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 1 N° 881",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"36008482"
+  },
+  {
+    "documento":"31.862.764",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Alvear N° 463",
+    "provincia":"Mendoza",
+    "codigo_postal":null
+  },
+  {
+    "documento":"23579898",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Rosario N° 84",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"30004835"
+  },
+  {
+    "documento":"29 218 510",
+    "direccion_normalizada":null,
+    "direccion_original":"  Diagonal San Martin N° 7732  ",
+    "provincia":"Chaco",
+    "codigo_postal":"54000542"
+  },
+  {
+    "documento":"43.029.703",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Santiago del Estero N° 61",
+    "provincia":"Entre Ríos",
+    "codigo_postal":null
+  },
+  {
+    "documento":"27-957-069",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida 9 N° 84  ",
+    "provincia":"Chaco",
+    "codigo_postal":null
+  },
+  {
+    "documento":"27669427",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Rosario N° 846",
+    "provincia":"Salta",
+    "codigo_postal":"85005098"
+  },
+  {
+    "documento":"37-347-875",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 3 N° 5870",
+    "provincia":"Córdoba",
+    "codigo_postal":null
+  },
+  {
+    "documento":"38-802-227",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Río Negro N° 988",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"42006481"
+  },
+  {
+    "documento":"22 630 919",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle San Juan N° 332",
+    "provincia":"Córdoba",
+    "codigo_postal":"50004287"
+  },
+  {
+    "documento":"41-911-483",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Ciudad Autónoma de Buenos Aires N° 387",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"94103836"
+  },
+  {
+    "documento":"44960314",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle  Ciudad Autónoma de Buenos Aires N° 863",
+    "provincia":"Córdoba",
+    "codigo_postal":null
+  },
+  {
+    "documento":"33-081-068",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Salta N° 3576",
+    "provincia":"Entre Ríos",
+    "codigo_postal":null
+  },
+  {
+    "documento":"29 140 711",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 2 N° 58",
+    "provincia":"Tucumán",
+    "codigo_postal":null
+  },
+  {
+    "documento":"23 004 934",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 9 N° 584",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"34002036"
+  },
+  {
+    "documento":"30053260",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida  2 N° 857",
+    "provincia":"Salta",
+    "codigo_postal":"36008631"
+  },
+  {
+    "documento":"40.982.358",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Formosa N° 155",
+    "provincia":"Chaco",
+    "codigo_postal":null
+  },
+  {
+    "documento":"26-301-168",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Chubut N° 95",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"34006255"
+  },
+  {
+    "documento":"31 472 691",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle  Rosario N° 18",
+    "provincia":"Santa Fe",
+    "codigo_postal":"42000263"
+  },
+  {
+    "documento":"35.775.508",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida Corrientes N° 27  ",
+    "provincia":"Mendoza",
+    "codigo_postal":"31008243"
+  },
+  {
+    "documento":"23.152.784",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida 1 N° 4149  ",
+    "provincia":"Mendoza",
+    "codigo_postal":"54001764"
+  },
+  {
+    "documento":"23.789.250",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 5 N° 91",
+    "provincia":"Chaco",
+    "codigo_postal":"30004489"
+  },
+  {
+    "documento":"28.345.734",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 6 N° 29",
+    "provincia":"Misiones",
+    "codigo_postal":"94003153"
+  },
+  {
+    "documento":"34.720.963",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino Rawson N° 3715",
+    "provincia":"Chaco",
+    "codigo_postal":"20004527"
+  },
+  {
+    "documento":"44 575 346",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Rawson N° 264",
+    "provincia":null,
+    "codigo_postal":"54005040"
+  },
+  {
+    "documento":"26225497",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Salta N° 1021",
+    "provincia":"Misiones",
+    "codigo_postal":"90003335"
+  },
+  {
+    "documento":"30805334",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. San Juan N° 702",
+    "provincia":"Neuquén",
+    "codigo_postal":"20008495"
+  },
+  {
+    "documento":"40-936-975",
+    "direccion_normalizada":null,
+    "direccion_original":"  Av. J.M. de Rosas N° 888  ",
+    "provincia":"Chaco",
+    "codigo_postal":"46003211"
+  },
+  {
+    "documento":"33-957-073",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Alvear N° 752",
+    "provincia":"Córdoba",
+    "codigo_postal":"57009787"
+  },
+  {
+    "documento":"26.480.013",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 8 N° 967",
+    "provincia":"Córdoba",
+    "codigo_postal":"33000933"
+  },
+  {
+    "documento":"31.325.052",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 7 N° 29",
+    "provincia":"Mendoza",
+    "codigo_postal":null
+  },
+  {
+    "documento":"44-983-903",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Santa Fe N° 59",
+    "provincia":null,
+    "codigo_postal":"44005306"
+  },
+  {
+    "documento":"30566447",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. 8 N° 718",
+    "provincia":"Neuquén",
+    "codigo_postal":"58811198"
+  },
+  {
+    "documento":"39 142 372",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal San Salvador de Jujuy N° 34",
+    "provincia":"Neuquén",
+    "codigo_postal":"94005617"
+  },
+  {
+    "documento":"31-220-254",
+    "direccion_normalizada":null,
+    "direccion_original":"  Calle Buenos Aires N° 1720  ",
+    "provincia":"Buenos Aires",
+    "codigo_postal":null
+  },
+  {
+    "documento":"25-019-072",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag. Salta N° 421",
+    "provincia":"Salta",
+    "codigo_postal":"91030091"
+  },
+  {
+    "documento":"21 654 605",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino La Plata N° 265",
+    "provincia":"Mendoza",
+    "codigo_postal":"94006182"
+  },
+  {
+    "documento":"28130745",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Tierra del Fuego N° 941",
+    "provincia":"Neuquén",
+    "codigo_postal":"90006577"
+  },
+  {
+    "documento":"31 734 535",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Belgrano N° 7767",
+    "provincia":"Neuquén",
+    "codigo_postal":"58814916"
+  },
+  {
+    "documento":"20-460-812",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Chubut N° 45",
+    "provincia":"Misiones",
+    "codigo_postal":"94109365"
+  },
+  {
+    "documento":"43446334",
+    "direccion_normalizada":null,
+    "direccion_original":"Av.  3 N° 416",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"47000149"
+  },
+  {
+    "documento":"42-158-435",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. 3 N° 9170",
+    "provincia":"Neuquén",
+    "codigo_postal":"30001894"
+  },
+  {
+    "documento":"35367468",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. Jujuy N° 733",
+    "provincia":"Tucumán",
+    "codigo_postal":"33004336"
+  },
+  {
+    "documento":"22-080-700",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Tucumán N° 219",
+    "provincia":"Santa Fe",
+    "codigo_postal":"31000926"
+  },
+  {
+    "documento":"40.550.357",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Mitre N° 39",
+    "provincia":"Misiones",
+    "codigo_postal":"35002399"
+  },
+  {
+    "documento":"43.103.303",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Omar Nuñez N° 964",
+    "provincia":"Córdoba",
+    "codigo_postal":"76003745"
+  },
+  {
+    "documento":"20-989-296",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle La Rioja N° 187",
+    "provincia":"Neuquén",
+    "codigo_postal":"63001140"
+  },
+  {
+    "documento":"40.010.544",
+    "direccion_normalizada":null,
+    "direccion_original":"  Av. Alem N° 199  ",
+    "provincia":"Salta",
+    "codigo_postal":"47008860"
+  },
+  {
+    "documento":"21 081 444",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 8 N° 164",
+    "provincia":"Chaco",
+    "codigo_postal":"44000537"
+  },
+  {
+    "documento":"35.352.660",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 4 N° 1641",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"63006081"
+  },
+  {
+    "documento":"44668214",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino  Río Negro N° 729",
+    "provincia":"Santa Fe",
+    "codigo_postal":"58812600"
+  },
+  {
+    "documento":"37.346.622",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. San Miguel de Tucumán N° 3452",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"42000835"
+  },
+  {
+    "documento":"26 775 713",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Río Gallegos N° 813",
+    "provincia":"Córdoba",
+    "codigo_postal":"46009106"
+  },
+  {
+    "documento":"37.168.677",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. 5 N° 9116",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"54007153"
+  },
+  {
+    "documento":"34-973-941",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 2 N° 4380",
+    "provincia":"Misiones",
+    "codigo_postal":"35003455"
+  },
+  {
+    "documento":"27 277 078",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino Neuquén N° 57",
+    "provincia":null,
+    "codigo_postal":"20006882"
+  },
+  {
+    "documento":"40-242-901",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 1 N° 925",
+    "provincia":"Neuquén",
+    "codigo_postal":"83001776"
+  },
+  {
+    "documento":"39-426-885",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Neuquén N° 8539",
+    "provincia":"Chaco",
+    "codigo_postal":"85003844"
+  },
+  {
+    "documento":"37 684 955",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 8 N° 78",
+    "provincia":"Tucumán",
+    "codigo_postal":"80003480"
+  },
+  {
+    "documento":"39-298-586",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Entre Ríos N° 615",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"94003543"
+  },
+  {
+    "documento":"44.745.332",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle  Chaco N° 5582",
+    "provincia":"Tucumán",
+    "codigo_postal":"42008826"
+  },
+  {
+    "documento":"43-012-830",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Córdoba N° 646",
+    "provincia":"Chaco",
+    "codigo_postal":"91033591"
+  },
+  {
+    "documento":"41 045 356",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle G. Brown N° 712",
+    "provincia":"Neuquén",
+    "codigo_postal":"80005709"
+  },
+  {
+    "documento":"31864697",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard  Mitre N° 4697",
+    "provincia":"Tucumán",
+    "codigo_postal":"55005991"
+  },
+  {
+    "documento":"33887158",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle  Posadas N° 315",
+    "provincia":"Mendoza",
+    "codigo_postal":"34009207"
+  },
+  {
+    "documento":"36.195.489",
+    "direccion_normalizada":null,
+    "direccion_original":"  Boulevard J.M. de Rosas N° 860  ",
+    "provincia":"Santa Fe",
+    "codigo_postal":"83002699"
+  },
+  {
+    "documento":"37526985",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Belgrano N° 77",
+    "provincia":null,
+    "codigo_postal":"94009964"
+  },
+  {
+    "documento":"27-041-252",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. Tierra del Fuego N° 3736",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"76008428"
+  },
+  {
+    "documento":"38-204-242",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida Mendoza N° 65  ",
+    "provincia":"Chaco",
+    "codigo_postal":"83006932"
+  },
+  {
+    "documento":"21693022",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino Santa Rosa N° 864",
+    "provincia":"Mendoza",
+    "codigo_postal":"83001408"
+  },
+  {
+    "documento":"35.626.143",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard Paraná N° 572",
+    "provincia":"Santa Fe",
+    "codigo_postal":"83009323"
+  },
+  {
+    "documento":"33.155.918",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. San Martin N° 93",
+    "provincia":"Santa Fe",
+    "codigo_postal":"35003426"
+  },
+  {
+    "documento":"37043962",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 9 N° 224",
+    "provincia":"Salta",
+    "codigo_postal":"83008069"
+  },
+  {
+    "documento":"36 185 807",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle San Ferando del Valle de Catamarca N° 575",
+    "provincia":"Córdoba",
+    "codigo_postal":"33007261"
+  },
+  {
+    "documento":"23 836 038",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle  4 N° 9024",
+    "provincia":"Salta",
+    "codigo_postal":"94006072"
+  },
+  {
+    "documento":"27.301.839",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. San Martin N° 85",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"34008389"
+  },
+  {
+    "documento":"34-587-018",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Güemes N° 23",
+    "provincia":null,
+    "codigo_postal":"31009538"
+  },
+  {
+    "documento":"23-680-864",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Constitución N° 8210",
+    "provincia":"Santa Fe",
+    "codigo_postal":"54008040"
+  },
+  {
+    "documento":"32 089 255",
+    "direccion_normalizada":null,
+    "direccion_original":"  Diag. Santa Fe N° 208  ",
+    "provincia":"Salta",
+    "codigo_postal":"63001299"
+  },
+  {
+    "documento":"33 953 793",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle J.M. de Rosas N° 1943",
+    "provincia":"Buenos Aires",
+    "codigo_postal":null
+  },
+  {
+    "documento":"36-835-225",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Omar Nuñez N° 935",
+    "provincia":"Córdoba",
+    "codigo_postal":"33002641"
+  },
+  {
+    "documento":"29 375 791",
+    "direccion_normalizada":null,
+    "direccion_original":"  Av. Buenos Aires N° 5370  ",
+    "provincia":"Neuquén",
+    "codigo_postal":"83006561"
+  },
+  {
+    "documento":"20 361 830",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 1 N° 650",
+    "provincia":"Neuquén",
+    "codigo_postal":"10048761"
+  },
+  {
+    "documento":"22 060 838",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 1 N° 311",
+    "provincia":"Córdoba",
+    "codigo_postal":"94003859"
+  },
+  {
+    "documento":"29-427-853",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Mitre N° 78",
+    "provincia":"Mendoza",
+    "codigo_postal":"40001434"
+  },
+  {
+    "documento":"31504069",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag. San Luis N° 95",
+    "provincia":"Santa Fe",
+    "codigo_postal":"33002394"
+  },
+  {
+    "documento":"41-550-706",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Güemes N° 641",
+    "provincia":"Chaco",
+    "codigo_postal":"44000027"
+  },
+  {
+    "documento":"29 690 258",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal  Neuquén N° 655",
+    "provincia":"Tucumán",
+    "codigo_postal":null
+  },
+  {
+    "documento":"41 956 117",
+    "direccion_normalizada":null,
+    "direccion_original":"   Avenida J.B. Alberdi N° 16  ",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"40006101"
+  },
+  {
+    "documento":"23 486 549",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal G. Brown N° 4312",
+    "provincia":"Mendoza",
+    "codigo_postal":"55003113"
+  },
+  {
+    "documento":"24025763",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. Mitre N° 3131",
+    "provincia":"Córdoba",
+    "codigo_postal":"20000016"
+  },
+  {
+    "documento":"34-327-185",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino Mitre N° 8321",
+    "provincia":"Santa Fe",
+    "codigo_postal":"85004149"
+  },
+  {
+    "documento":"40 478 333",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Santa Fe N° 44",
+    "provincia":"Córdoba",
+    "codigo_postal":"42005076"
+  },
+  {
+    "documento":"20 629 641",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Buenos Aires N° 679",
+    "provincia":"Misiones",
+    "codigo_postal":"42008397"
+  },
+  {
+    "documento":"33553062",
+    "direccion_normalizada":null,
+    "direccion_original":"Av.  Alem N° 54",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"44002053"
+  },
+  {
+    "documento":"37-939-081",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida G. Brown N° 1686",
+    "provincia":"Tucumán",
+    "codigo_postal":"50000777"
+  },
+  {
+    "documento":"32 054 802",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Santiago del Estero N° 74",
+    "provincia":"Misiones",
+    "codigo_postal":"46002072"
+  },
+  {
+    "documento":"35076250",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Güemes N° 130",
+    "provincia":"Misiones",
+    "codigo_postal":"94006292"
+  },
+  {
+    "documento":"21.237.409",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida Córdoba N° 93  ",
+    "provincia":"Tucumán",
+    "codigo_postal":"10048177"
+  },
+  {
+    "documento":"39832095",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Paraná N° 3626",
+    "provincia":"Salta",
+    "codigo_postal":"40000299"
+  },
+  {
+    "documento":"24-608-010",
+    "direccion_normalizada":null,
+    "direccion_original":"Av.  Santiago del Estero N° 133",
+    "provincia":"Santa Fe",
+    "codigo_postal":null
+  },
+  {
+    "documento":"23 354 364",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Jujuy N° 742",
+    "provincia":"Chaco",
+    "codigo_postal":null
+  },
+  {
+    "documento":"37 551 882",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Tucumán N° 837",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"76002552"
+  },
+  {
+    "documento":"37790526",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 8 N° 476",
+    "provincia":"Santa Fe",
+    "codigo_postal":"36006178"
+  },
+  {
+    "documento":"25.916.445",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag. Saavedra N° 3951",
+    "provincia":"Misiones",
+    "codigo_postal":"53000321"
+  },
+  {
+    "documento":"23894498",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Chaco N° 814",
+    "provincia":"Mendoza",
+    "codigo_postal":"85002061"
+  },
+  {
+    "documento":"32.600.775",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Chaco N° 1272",
+    "provincia":"Chaco",
+    "codigo_postal":"94006385"
+  },
+  {
+    "documento":"26-785-071",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 1 N° 427",
+    "provincia":"Mendoza",
+    "codigo_postal":"53007895"
+  },
+  {
+    "documento":"41.407.701",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 125 Bis N° 68",
+    "provincia":"Salta",
+    "codigo_postal":"80003371"
+  },
+  {
+    "documento":"39.443.687",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Río Gallegos N° 21",
+    "provincia":"Salta",
+    "codigo_postal":"34004902"
+  },
+  {
+    "documento":"23 288 307",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Ciudad Autónoma de Buenos Aires N° 66",
+    "provincia":null,
+    "codigo_postal":null
+  },
+  {
+    "documento":"35410974",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 3 N° 3291",
+    "provincia":"Córdoba",
+    "codigo_postal":"20001644"
+  },
+  {
+    "documento":"29 951 908",
+    "direccion_normalizada":null,
+    "direccion_original":"  Blv. Corrientes N° 267  ",
+    "provincia":"Entre Ríos",
+    "codigo_postal":null
+  },
+  {
+    "documento":"40774671",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Mendoza N° 577",
+    "provincia":"Córdoba",
+    "codigo_postal":null
+  },
+  {
+    "documento":"43.583.518",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Neuquén N° 12",
+    "provincia":"Córdoba",
+    "codigo_postal":null
+  },
+  {
+    "documento":"29 806 764",
+    "direccion_normalizada":null,
+    "direccion_original":"  Calle 6 N° 305  ",
+    "provincia":"Tucumán",
+    "codigo_postal":"20002179"
+  },
+  {
+    "documento":"23.758.921",
+    "direccion_normalizada":null,
+    "direccion_original":"  Camino Saavedra N° 9494  ",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"80003486"
+  },
+  {
+    "documento":"27-795-636",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 8 N° 27",
+    "provincia":"Tucumán",
+    "codigo_postal":null
+  },
+  {
+    "documento":"29668585",
+    "direccion_normalizada":null,
+    "direccion_original":"  Calle 3 N° 7384  ",
+    "provincia":"Santa Fe",
+    "codigo_postal":null
+  },
+  {
+    "documento":"39.277.865",
+    "direccion_normalizada":null,
+    "direccion_original":"   Calle Buenos Aires N° 120  ",
+    "provincia":"Santa Fe",
+    "codigo_postal":"42008285"
+  },
+  {
+    "documento":"36.757.650",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Formosa N° 8170",
+    "provincia":"Neuquén",
+    "codigo_postal":"10045397"
+  },
+  {
+    "documento":"34-834-600",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 6 N° 61",
+    "provincia":"Chaco",
+    "codigo_postal":"53609866"
+  },
+  {
+    "documento":"26.548.138",
+    "direccion_normalizada":null,
+    "direccion_original":"  Camino San Luis N° 3880  ",
+    "provincia":"Neuquén",
+    "codigo_postal":"53007067"
+  },
+  {
+    "documento":"33.339.832",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Resistencia N° 5546",
+    "provincia":"Chaco",
+    "codigo_postal":"94106820"
+  },
+  {
+    "documento":"25 495 891",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Merlo N° 784",
+    "provincia":"Salta",
+    "codigo_postal":"94000682"
+  },
+  {
+    "documento":"33.908.782",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Rawson N° 6635",
+    "provincia":"Tucumán",
+    "codigo_postal":"54002235"
+  },
+  {
+    "documento":"35.550.863",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 1 N° 942",
+    "provincia":"Tucumán",
+    "codigo_postal":"54002165"
+  },
+  {
+    "documento":"28212456",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Santiago del Estero N° 9270",
+    "provincia":"Chaco",
+    "codigo_postal":"94005871"
+  },
+  {
+    "documento":"44593964",
+    "direccion_normalizada":null,
+    "direccion_original":"Av.  Malvinas Argentinas N° 58",
+    "provincia":"Salta",
+    "codigo_postal":"46009218"
+  },
+  {
+    "documento":"29786623",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Pte. Perón N° 12",
+    "provincia":"Tucumán",
+    "codigo_postal":"76009259"
+  },
+  {
+    "documento":"37-932-170",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Córdoba N° 268",
+    "provincia":"Mendoza",
+    "codigo_postal":"53009089"
+  },
+  {
+    "documento":"43140908",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Santa Fe N° 867",
+    "provincia":"Chaco",
+    "codigo_postal":"90006998"
+  },
+  {
+    "documento":"31.477.130",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 3 N° 86",
+    "provincia":"Córdoba",
+    "codigo_postal":null
+  },
+  {
+    "documento":"20 631 038",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 140 A N° 9884",
+    "provincia":"Córdoba",
+    "codigo_postal":null
+  },
+  {
+    "documento":"26.711.706",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal  Rivadavia N° 347",
+    "provincia":"Neuquén",
+    "codigo_postal":"58819484"
+  },
+  {
+    "documento":"39398947",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Salta N° 366",
+    "provincia":"Chaco",
+    "codigo_postal":"34009598"
+  },
+  {
+    "documento":"23.601.212",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida San Martin N° 47",
+    "provincia":"Santa Fe",
+    "codigo_postal":"44001457"
+  },
+  {
+    "documento":"44230882",
+    "direccion_normalizada":null,
+    "direccion_original":"  Boulevard 7 N° 99  ",
+    "provincia":"Salta",
+    "codigo_postal":"30000715"
+  },
+  {
+    "documento":"35-961-064",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Santa Cruz N° 387",
+    "provincia":"Neuquén",
+    "codigo_postal":"90008676"
+  },
+  {
+    "documento":"25661411",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle San Martin N° 59",
+    "provincia":"Neuquén",
+    "codigo_postal":"91038209"
+  },
+  {
+    "documento":"33-429-675",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal  Alvear N° 648",
+    "provincia":"Chaco",
+    "codigo_postal":"50006191"
+  },
+  {
+    "documento":"44756404",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Formosa N° 9523",
+    "provincia":"Córdoba",
+    "codigo_postal":"53609876"
+  },
+  {
+    "documento":"35.637.097",
+    "direccion_normalizada":null,
+    "direccion_original":"  Av. 5 N° 630  ",
+    "provincia":"Salta",
+    "codigo_postal":"42009968"
+  },
+  {
+    "documento":"32 627 759",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Santa Rosa N° 2884",
+    "provincia":"Chaco",
+    "codigo_postal":"57002258"
+  },
+  {
+    "documento":"38 581 904",
+    "direccion_normalizada":null,
+    "direccion_original":"   Calle Rivadavia N° 7481  ",
+    "provincia":"Tucumán",
+    "codigo_postal":null
+  },
+  {
+    "documento":"32-294-682",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Entre Ríos N° 67",
+    "provincia":"Mendoza",
+    "codigo_postal":"46002350"
+  },
+  {
+    "documento":"43085156",
+    "direccion_normalizada":null,
+    "direccion_original":"Av.  Río Negro N° 913",
+    "provincia":null,
+    "codigo_postal":"94100566"
+  },
+  {
+    "documento":"30 620 458",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida J.J. Castelli N° 463",
+    "provincia":"Entre Ríos",
+    "codigo_postal":null
+  },
+  {
+    "documento":"26 769 896",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 4 N° 274",
+    "provincia":"Córdoba",
+    "codigo_postal":"35004825"
+  },
+  {
+    "documento":"29172605",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Mendoza N° 23",
+    "provincia":"Mendoza",
+    "codigo_postal":"50004286"
+  },
+  {
+    "documento":"42.533.822",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Corrientes N° 964",
+    "provincia":"Neuquén",
+    "codigo_postal":"83006325"
+  },
+  {
+    "documento":"44381155",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Alvear N° 9728",
+    "provincia":"Córdoba",
+    "codigo_postal":"35003289"
+  },
+  {
+    "documento":"29.631.618",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Mendoza N° 553",
+    "provincia":"Chaco",
+    "codigo_postal":"30006338"
+  },
+  {
+    "documento":"21.241.639",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal La Rioja N° 538",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"31006241"
+  },
+  {
+    "documento":"29998521",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Santa Fe N° 949",
+    "provincia":"Misiones",
+    "codigo_postal":"35008572"
+  },
+  {
+    "documento":"37-624-805",
+    "direccion_normalizada":null,
+    "direccion_original":"  Camino 4 N° 521  ",
+    "provincia":"Salta",
+    "codigo_postal":"46002926"
+  },
+  {
+    "documento":"29 212 279",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Rosario N° 13",
+    "provincia":"Mendoza",
+    "codigo_postal":"42003589"
+  },
+  {
+    "documento":"32 180 192",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Comodoro Rivadavia N° 59",
+    "provincia":"Mendoza",
+    "codigo_postal":"80003818"
+  },
+  {
+    "documento":"43-508-798",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino 7 N° 813",
+    "provincia":"Tucumán",
+    "codigo_postal":null
+  },
+  {
+    "documento":"27.059.399",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Santa Rosa N° 55",
+    "provincia":"Chaco",
+    "codigo_postal":"46008509"
+  },
+  {
+    "documento":"34172251",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. Formosa N° 63",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"94007443"
+  },
+  {
+    "documento":"41.511.706",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Entre Ríos N° 799",
+    "provincia":"Santa Fe",
+    "codigo_postal":null
+  },
+  {
+    "documento":"30 717 256",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino Pte. Perón N° 83",
+    "provincia":"Santa Fe",
+    "codigo_postal":"40001797"
+  },
+  {
+    "documento":"39.139.131",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Catamarca N° 319",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"19003859"
+  },
+  {
+    "documento":"22-988-400",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Constitución N° 112",
+    "provincia":"Mendoza",
+    "codigo_postal":null
+  },
+  {
+    "documento":"36 581 531",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Saavedra N° 164",
+    "provincia":null,
+    "codigo_postal":"34001547"
+  },
+  {
+    "documento":"35.132.266",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 6 N° 53",
+    "provincia":"Mendoza",
+    "codigo_postal":null
+  },
+  {
+    "documento":"28597504",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 5 N° 65",
+    "provincia":"Salta",
+    "codigo_postal":"36009367"
+  },
+  {
+    "documento":"38775731",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida San Luis N° 3034  ",
+    "provincia":"Tucumán",
+    "codigo_postal":"90006750"
+  },
+  {
+    "documento":"29-428-817",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida G. Brown N° 167",
+    "provincia":"Santa Fe",
+    "codigo_postal":"85004214"
+  },
+  {
+    "documento":"34763601",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard Resistencia N° 66",
+    "provincia":"Chaco",
+    "codigo_postal":null
+  },
+  {
+    "documento":"36 280 594",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal San Juan N° 69",
+    "provincia":"Misiones",
+    "codigo_postal":"57009878"
+  },
+  {
+    "documento":"27126832",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle San Salvador de Jujuy N° 8326",
+    "provincia":"Córdoba",
+    "codigo_postal":"85002704"
+  },
+  {
+    "documento":"30.856.145",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Rawson N° 275",
+    "provincia":"Neuquén",
+    "codigo_postal":"47003888"
+  },
+  {
+    "documento":"44.639.675",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. Alem N° 324",
+    "provincia":"Córdoba",
+    "codigo_postal":"46002258"
+  },
+  {
+    "documento":"33385442",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard 8 N° 762",
+    "provincia":"Salta",
+    "codigo_postal":"63000598"
+  },
+  {
+    "documento":"40.250.556",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Alem N° 188",
+    "provincia":"Córdoba",
+    "codigo_postal":"30007874"
+  },
+  {
+    "documento":"34 566 177",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv.  Mitre N° 1555",
+    "provincia":"Misiones",
+    "codigo_postal":"42002275"
+  },
+  {
+    "documento":"36-025-978",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. G. Brown N° 39",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"58814859"
+  },
+  {
+    "documento":"35-591-284",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal San Juan N° 89",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"36005942"
+  },
+  {
+    "documento":"39 703 443",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal  Malvinas Argentinas N° 604",
+    "provincia":null,
+    "codigo_postal":"34009116"
+  },
+  {
+    "documento":"42 005 029",
+    "direccion_normalizada":null,
+    "direccion_original":"  Blv. Santa Rosa N° 74  ",
+    "provincia":"Salta",
+    "codigo_postal":"10042000"
+  },
+  {
+    "documento":"26402255",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Chaco N° 569",
+    "provincia":"Misiones",
+    "codigo_postal":"30004539"
+  },
+  {
+    "documento":"35 904 434",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle J.M. de Rosas N° 354",
+    "provincia":"Neuquén",
+    "codigo_postal":"76003215"
+  },
+  {
+    "documento":"23 444 816",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard  2 N° 55",
+    "provincia":"Buenos Aires",
+    "codigo_postal":null
+  },
+  {
+    "documento":"41 753 347",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida San Miguel de Tucumán N° 352",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"19008368"
+  },
+  {
+    "documento":"42-983-916",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle San Martin N° 983",
+    "provincia":"Santa Fe",
+    "codigo_postal":"54001444"
+  },
+  {
+    "documento":"42 382 700",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Río Negro N° 456",
+    "provincia":"Buenos Aires",
+    "codigo_postal":null
+  },
+  {
+    "documento":"42.713.929",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Mitre N° 663",
+    "provincia":"Mendoza",
+    "codigo_postal":"42003677"
+  },
+  {
+    "documento":"21-566-198",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Saavedra N° 461",
+    "provincia":"Córdoba",
+    "codigo_postal":"44006202"
+  },
+  {
+    "documento":"23418124",
+    "direccion_normalizada":null,
+    "direccion_original":"  Calle Formosa N° 717  ",
+    "provincia":"Chaco",
+    "codigo_postal":null
+  },
+  {
+    "documento":"31.227.565",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 1 N° 198",
+    "provincia":"Córdoba",
+    "codigo_postal":"76008328"
+  },
+  {
+    "documento":"41.120.515",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida  Santa Cruz N° 58",
+    "provincia":"Misiones",
+    "codigo_postal":null
+  },
+  {
+    "documento":"24884998",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 6 N° 1850",
+    "provincia":"Neuquén",
+    "codigo_postal":"85002049"
+  },
+  {
+    "documento":"42-158-059",
+    "direccion_normalizada":null,
+    "direccion_original":"  Diagonal Omar Nuñez N° 2697  ",
+    "provincia":"Misiones",
+    "codigo_postal":"19006018"
+  },
+  {
+    "documento":"41.605.005",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 4 N° 48",
+    "provincia":"Santa Fe",
+    "codigo_postal":"63004723"
+  },
+  {
+    "documento":"37-168-850",
+    "direccion_normalizada":null,
+    "direccion_original":"   Avenida J.M. de Rosas N° 7843  ",
+    "provincia":"Salta",
+    "codigo_postal":"36000827"
+  },
+  {
+    "documento":"32-515-094",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Formosa N° 92",
+    "provincia":"Neuquén",
+    "codigo_postal":"55001722"
+  },
+  {
+    "documento":"37.894.197",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle  5 N° 977",
+    "provincia":"Mendoza",
+    "codigo_postal":"53607545"
+  },
+  {
+    "documento":"43 878 690",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Merlo N° 4437",
+    "provincia":"Misiones",
+    "codigo_postal":"53602629"
+  },
+  {
+    "documento":"36 737 866",
+    "direccion_normalizada":null,
+    "direccion_original":"  Av. Constitución N° 661  ",
+    "provincia":"Misiones",
+    "codigo_postal":"31002918"
+  },
+  {
+    "documento":"35883177",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Saavedra N° 5161",
+    "provincia":"Misiones",
+    "codigo_postal":"46008316"
+  },
+  {
+    "documento":"30-175-719",
+    "direccion_normalizada":null,
+    "direccion_original":"Av.  Salta N° 74",
+    "provincia":null,
+    "codigo_postal":"33002717"
+  },
+  {
+    "documento":"21 499 295",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Omar Nuñez N° 646",
+    "provincia":"Chaco",
+    "codigo_postal":"76007337"
+  },
+  {
+    "documento":"44-423-068",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 3 N° 952",
+    "provincia":"Chaco",
+    "codigo_postal":"40009920"
+  },
+  {
+    "documento":"43729983",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida 1 N° 36  ",
+    "provincia":"Chaco",
+    "codigo_postal":null
+  },
+  {
+    "documento":"37.846.241",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida  Alem N° 762",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"58816216"
+  },
+  {
+    "documento":"37-713-443",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida  San Miguel de Tucumán N° 387",
+    "provincia":"Tucumán",
+    "codigo_postal":"54009143"
+  },
+  {
+    "documento":"30.914.944",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 7 N° 35",
+    "provincia":"Córdoba",
+    "codigo_postal":"90002553"
+  },
+  {
+    "documento":"27 935 325",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal G. Brown N° 846",
+    "provincia":"Buenos Aires",
+    "codigo_postal":null
+  },
+  {
+    "documento":"28.264.996",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida  Catamarca N° 29",
+    "provincia":"Salta",
+    "codigo_postal":"53607732"
+  },
+  {
+    "documento":"35-591-135",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal  J.B. Alberdi N° 13",
+    "provincia":"Mendoza",
+    "codigo_postal":"34003095"
+  },
+  {
+    "documento":"44802863",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag. San Ferando del Valle de Catamarca N° 82",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"42004979"
+  },
+  {
+    "documento":"43 748 286",
+    "direccion_normalizada":null,
+    "direccion_original":"   Boulevard 9 N° 331  ",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"35007997"
+  },
+  {
+    "documento":"25 822 902",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Saavedra N° 697",
+    "provincia":"Salta",
+    "codigo_postal":"35009271"
+  },
+  {
+    "documento":"43388450",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Güemes N° 28",
+    "provincia":"Mendoza",
+    "codigo_postal":"19005397"
+  },
+  {
+    "documento":"44.085.691",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Tucumán N° 94",
+    "provincia":"Salta",
+    "codigo_postal":"58811375"
+  },
+  {
+    "documento":"25.720.262",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag. San Luis N° 6895",
+    "provincia":"Tucumán",
+    "codigo_postal":"83008832"
+  },
+  {
+    "documento":"43-252-745",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida  Entre Ríos N° 7464",
+    "provincia":"Chaco",
+    "codigo_postal":null
+  },
+  {
+    "documento":"44.200.136",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. Alem N° 67",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"33003200"
+  },
+  {
+    "documento":"22.497.804",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard 191 Bis N° 5712",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"94008797"
+  },
+  {
+    "documento":"31435416",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida San Salvador de Jujuy N° 769",
+    "provincia":"Córdoba",
+    "codigo_postal":null
+  },
+  {
+    "documento":"43265424",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv.  Ciudad Autónoma de Buenos Aires N° 2310",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"90008600"
+  },
+  {
+    "documento":"33.794.495",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal La Rioja N° 5367",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"10044436"
+  },
+  {
+    "documento":"23445693",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag.  J.J. Castelli N° 94",
+    "provincia":"Santa Fe",
+    "codigo_postal":"20009951"
+  },
+  {
+    "documento":"30 457 804",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv.  La Plata N° 789",
+    "provincia":"Misiones",
+    "codigo_postal":"76005239"
+  },
+  {
+    "documento":"37015716",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard Malvinas Argentinas N° 6370",
+    "provincia":"Neuquén",
+    "codigo_postal":"10042929"
+  },
+  {
+    "documento":"31-262-896",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 4 N° 15",
+    "provincia":"Mendoza",
+    "codigo_postal":"54000143"
+  },
+  {
+    "documento":"31 123 801",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 6 N° 8217",
+    "provincia":"Chaco",
+    "codigo_postal":null
+  },
+  {
+    "documento":"21473201",
+    "direccion_normalizada":null,
+    "direccion_original":"  Av. Güemes N° 8434  ",
+    "provincia":"Tucumán",
+    "codigo_postal":"40000967"
+  },
+  {
+    "documento":"32714537",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle  Pte. Perón N° 1548",
+    "provincia":"Neuquén",
+    "codigo_postal":"91039719"
+  },
+  {
+    "documento":"24.846.341",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Salta N° 134",
+    "provincia":"Neuquén",
+    "codigo_postal":"47006022"
+  },
+  {
+    "documento":"30.995.136",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. Rivadavia N° 997",
+    "provincia":"Chaco",
+    "codigo_postal":"91032176"
+  },
+  {
+    "documento":"33-023-006",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 6 N° 62",
+    "provincia":"Neuquén",
+    "codigo_postal":"94002019"
+  },
+  {
+    "documento":"35.169.289",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag. Chubut N° 3356",
+    "provincia":"Córdoba",
+    "codigo_postal":"80001661"
+  },
+  {
+    "documento":"21 380 527",
+    "direccion_normalizada":null,
+    "direccion_original":"  Av. San Miguel de Tucumán N° 311  ",
+    "provincia":"Mendoza",
+    "codigo_postal":null
+  },
+  {
+    "documento":"29882378",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag. Paraná N° 291",
+    "provincia":"Tucumán",
+    "codigo_postal":"53002587"
+  },
+  {
+    "documento":"26.396.898",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. G. Brown N° 776",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"91039304"
+  },
+  {
+    "documento":"25 009 043",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Alvear N° 95",
+    "provincia":"Córdoba",
+    "codigo_postal":"63006538"
+  },
+  {
+    "documento":"43 419 022",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Corrientes N° 381",
+    "provincia":"Chaco",
+    "codigo_postal":"54002748"
+  },
+  {
+    "documento":"34 064 250",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Belgrano N° 817",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"47004211"
+  },
+  {
+    "documento":"39 256 174",
+    "direccion_normalizada":null,
+    "direccion_original":"Av.  Catamarca N° 157",
+    "provincia":"Santa Fe",
+    "codigo_postal":"10048682"
+  },
+  {
+    "documento":"43 119 827",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Rosario N° 85",
+    "provincia":"Buenos Aires",
+    "codigo_postal":null
+  },
+  {
+    "documento":"25269235",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Santiago del Estero N° 5483",
+    "provincia":"Salta",
+    "codigo_postal":"85004620"
+  },
+  {
+    "documento":"39-296-864",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Bahía Blanca N° 386",
+    "provincia":"Mendoza",
+    "codigo_postal":"57005561"
+  },
+  {
+    "documento":"35 441 902",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Güemes N° 4467",
+    "provincia":"Santa Fe",
+    "codigo_postal":"30003995"
+  },
+  {
+    "documento":"34 498 085",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle J.B. Alberdi N° 66",
+    "provincia":"Misiones",
+    "codigo_postal":"94009701"
+  },
+  {
+    "documento":"44.240.036",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Ciudad Autónoma de Buenos Aires N° 19",
+    "provincia":"Salta",
+    "codigo_postal":"53001243"
+  },
+  {
+    "documento":"35507767",
+    "direccion_normalizada":null,
+    "direccion_original":"  Calle J.J. Castelli N° 161  ",
+    "provincia":"Córdoba",
+    "codigo_postal":"40005858"
+  },
+  {
+    "documento":"35 577 495",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 8 N° 246",
+    "provincia":"Santa Fe",
+    "codigo_postal":null
+  },
+  {
+    "documento":"24 165 829",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Formosa N° 561",
+    "provincia":"Misiones",
+    "codigo_postal":"76002027"
+  },
+  {
+    "documento":"37544755",
+    "direccion_normalizada":null,
+    "direccion_original":"   Av. 7 N° 315  ",
+    "provincia":"Mendoza",
+    "codigo_postal":"63001592"
+  },
+  {
+    "documento":"20-488-551",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino Tucumán N° 27",
+    "provincia":"Misiones",
+    "codigo_postal":"90008740"
+  },
+  {
+    "documento":"26.360.159",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino 7 N° 274",
+    "provincia":"Salta",
+    "codigo_postal":"85009071"
+  },
+  {
+    "documento":"29-343-487",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Corrientes N° 9282",
+    "provincia":"Neuquén",
+    "codigo_postal":null
+  },
+  {
+    "documento":"41 168 616",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Catamarca N° 468",
+    "provincia":"Neuquén",
+    "codigo_postal":null
+  },
+  {
+    "documento":"36891973",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 3 N° 391",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"50002034"
+  },
+  {
+    "documento":"41543250",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino 6 N° 13",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"90000109"
+  },
+  {
+    "documento":"29678947",
+    "direccion_normalizada":null,
+    "direccion_original":"Camino Corrientes N° 7492",
+    "provincia":"Mendoza",
+    "codigo_postal":"40006797"
+  },
+  {
+    "documento":"34843168",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard Rivadavia N° 142",
+    "provincia":"Misiones",
+    "codigo_postal":"63004915"
+  },
+  {
+    "documento":"22 622 765",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal  109 B N° 8789",
+    "provincia":"Mendoza",
+    "codigo_postal":"83005546"
+  },
+  {
+    "documento":"32 065 567",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Chaco N° 1463",
+    "provincia":"Córdoba",
+    "codigo_postal":"90004712"
+  },
+  {
+    "documento":"25.127.073",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle  Neuquén N° 49",
+    "provincia":"Mendoza",
+    "codigo_postal":null
+  },
+  {
+    "documento":"36-800-697",
+    "direccion_normalizada":null,
+    "direccion_original":"  Calle Belgrano N° 13  ",
+    "provincia":"Córdoba",
+    "codigo_postal":"94001810"
+  },
+  {
+    "documento":"32.912.618",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida  4 N° 3453",
+    "provincia":"Salta",
+    "codigo_postal":"10046831"
+  },
+  {
+    "documento":"32127051",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 143 Bis N° 958",
+    "provincia":"Salta",
+    "codigo_postal":null
+  },
+  {
+    "documento":"37.399.215",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard La Pampa N° 153",
+    "provincia":"Córdoba",
+    "codigo_postal":"55000808"
+  },
+  {
+    "documento":"24-788-669",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Entre Ríos N° 685",
+    "provincia":"Salta",
+    "codigo_postal":null
+  },
+  {
+    "documento":"25.725.535",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 5 N° 3833",
+    "provincia":"Mendoza",
+    "codigo_postal":null
+  },
+  {
+    "documento":"28 702 406",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Comodoro Rivadavia N° 4631",
+    "provincia":"Neuquén",
+    "codigo_postal":"91038067"
+  },
+  {
+    "documento":"20318987",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 3 N° 575",
+    "provincia":"Tucumán",
+    "codigo_postal":"90000735"
+  },
+  {
+    "documento":"34-410-072",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal  Saavedra N° 450",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"19004584"
+  },
+  {
+    "documento":"43 431 337",
+    "direccion_normalizada":null,
+    "direccion_original":"Av.  Belgrano N° 711",
+    "provincia":"Chaco",
+    "codigo_postal":null
+  },
+  {
+    "documento":"41-410-185",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Tierra del Fuego N° 628",
+    "provincia":"Córdoba",
+    "codigo_postal":"10040962"
+  },
+  {
+    "documento":"35976000",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. La Plata N° 88",
+    "provincia":"Tucumán",
+    "codigo_postal":"33008576"
+  },
+  {
+    "documento":"35.663.311",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Bahía Blanca N° 970",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"85004703"
+  },
+  {
+    "documento":"29.407.248",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 3 N° 719",
+    "provincia":"Mendoza",
+    "codigo_postal":"33000533"
+  },
+  {
+    "documento":"41-608-602",
+    "direccion_normalizada":null,
+    "direccion_original":"  Av. Entre Ríos N° 608  ",
+    "provincia":"Córdoba",
+    "codigo_postal":"35007466"
+  },
+  {
+    "documento":"39.870.950",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Güemes N° 629",
+    "provincia":"Mendoza",
+    "codigo_postal":null
+  },
+  {
+    "documento":"32.248.167",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle G. Brown N° 387",
+    "provincia":"Chaco",
+    "codigo_postal":"55003270"
+  },
+  {
+    "documento":"43587652",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal La Rioja N° 303",
+    "provincia":"Tucumán",
+    "codigo_postal":"19004666"
+  },
+  {
+    "documento":"31.178.476",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 2 N° 327",
+    "provincia":"Tucumán",
+    "codigo_postal":"34005901"
+  },
+  {
+    "documento":"20 723 628",
+    "direccion_normalizada":null,
+    "direccion_original":"  Avenida Omar Nuñez N° 752  ",
+    "provincia":"Misiones",
+    "codigo_postal":null
+  },
+  {
+    "documento":"39474444",
+    "direccion_normalizada":null,
+    "direccion_original":"  Av. Catamarca N° 166  ",
+    "provincia":"Mendoza",
+    "codigo_postal":"40004004"
+  },
+  {
+    "documento":"39316685",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard 4 N° 214",
+    "provincia":"Misiones",
+    "codigo_postal":null
+  },
+  {
+    "documento":"41 037 707",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Tucumán N° 79",
+    "provincia":"Córdoba",
+    "codigo_postal":"31003152"
+  },
+  {
+    "documento":"29 234 717",
+    "direccion_normalizada":null,
+    "direccion_original":"Diag.  Alvear N° 9586",
+    "provincia":"Neuquén",
+    "codigo_postal":"50009980"
+  },
+  {
+    "documento":"39.893.718",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida  San Luis N° 84",
+    "provincia":"Misiones",
+    "codigo_postal":"44009769"
+  },
+  {
+    "documento":"38 658 282",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Jujuy N° 5289",
+    "provincia":null,
+    "codigo_postal":"44003137"
+  },
+  {
+    "documento":"21.313.426",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Merlo N° 8836",
+    "provincia":"Misiones",
+    "codigo_postal":null
+  },
+  {
+    "documento":"28-332-809",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Comodoro Rivadavia N° 24",
+    "provincia":"Entre Ríos",
+    "codigo_postal":null
+  },
+  {
+    "documento":"42233736",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 9 N° 1881",
+    "provincia":"Neuquén",
+    "codigo_postal":"53604077"
+  },
+  {
+    "documento":"41.802.627",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 2 N° 5218",
+    "provincia":"Mendoza",
+    "codigo_postal":"90003256"
+  },
+  {
+    "documento":"37.160.657",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 4 N° 147",
+    "provincia":"Córdoba",
+    "codigo_postal":"91038994"
+  },
+  {
+    "documento":"22-985-477",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Santa Fe N° 468",
+    "provincia":"Córdoba",
+    "codigo_postal":"85007014"
+  },
+  {
+    "documento":"36428874",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 5 N° 86",
+    "provincia":"Santa Fe",
+    "codigo_postal":"94106203"
+  },
+  {
+    "documento":"37 840 292",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Córdoba N° 73",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"19008782"
+  },
+  {
+    "documento":"43 715 828",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Merlo N° 774",
+    "provincia":"Mendoza",
+    "codigo_postal":"76006020"
+  },
+  {
+    "documento":"33-640-372",
+    "direccion_normalizada":null,
+    "direccion_original":"  Av. 7 N° 448  ",
+    "provincia":"Chaco",
+    "codigo_postal":"80008135"
+  },
+  {
+    "documento":"42.717.459",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 6 N° 855",
+    "provincia":"Entre Ríos",
+    "codigo_postal":"94102117"
+  },
+  {
+    "documento":"37720478",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Formosa N° 143",
+    "provincia":"Salta",
+    "codigo_postal":"58818894"
+  },
+  {
+    "documento":"31.340.008",
+    "direccion_normalizada":null,
+    "direccion_original":"  Blv. 5 N° 320  ",
+    "provincia":"Misiones",
+    "codigo_postal":"20001864"
+  },
+  {
+    "documento":"40 728 206",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Santa Fe N° 22",
+    "provincia":null,
+    "codigo_postal":"33002217"
+  },
+  {
+    "documento":"37.753.534",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 6 N° 176",
+    "provincia":"Salta",
+    "codigo_postal":"55008397"
+  },
+  {
+    "documento":"34 716 036",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Mitre N° 34",
+    "provincia":"Santa Fe",
+    "codigo_postal":"53000820"
+  },
+  {
+    "documento":"25.379.194",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida 150 A N° 82",
+    "provincia":"Salta",
+    "codigo_postal":null
+  },
+  {
+    "documento":"33.047.590",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Belgrano N° 42",
+    "provincia":"Salta",
+    "codigo_postal":null
+  },
+  {
+    "documento":"29-712-888",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Santiago del Estero N° 65",
+    "provincia":"Mendoza",
+    "codigo_postal":null
+  },
+  {
+    "documento":"23.458.283",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle  8 N° 4059",
+    "provincia":"Santa Fe",
+    "codigo_postal":"55007942"
+  },
+  {
+    "documento":"21 709 778",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Rosario N° 115",
+    "provincia":"Tucumán",
+    "codigo_postal":"33008276"
+  },
+  {
+    "documento":"43 876 850",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle 176 B N° 3817",
+    "provincia":"Neuquén",
+    "codigo_postal":"54000409"
+  },
+  {
+    "documento":"32-199-762",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard 4 N° 715",
+    "provincia":"Neuquén",
+    "codigo_postal":"90001419"
+  },
+  {
+    "documento":"32886558",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Neuquén N° 701",
+    "provincia":"Córdoba",
+    "codigo_postal":"80005607"
+  },
+  {
+    "documento":"38.498.673",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Alem N° 847",
+    "provincia":"Mendoza",
+    "codigo_postal":"35007488"
+  },
+  {
+    "documento":"31.477.130",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. 3 N° 86",
+    "provincia":"Córdoba",
+    "codigo_postal":"31006517"
+  },
+  {
+    "documento":"39.870.950",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Güemes N° 629",
+    "provincia":"Mendoza",
+    "codigo_postal":null
+  },
+  {
+    "documento":"42 325 123",
+    "direccion_normalizada":null,
+    "direccion_original":"Boulevard Santa Fe N° 69",
+    "provincia":"Córdoba",
+    "codigo_postal":"20009668"
+  },
+  {
+    "documento":"31 795 578",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal La Pampa N° 958",
+    "provincia":"Tucumán",
+    "codigo_postal":"58814960"
+  },
+  {
+    "documento":"42 470 129",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Salta N° 9995",
+    "provincia":"Mendoza",
+    "codigo_postal":"53008421"
+  },
+  {
+    "documento":"43.148.116",
+    "direccion_normalizada":null,
+    "direccion_original":"Blv. Córdoba N° 7794",
+    "provincia":"Buenos Aires",
+    "codigo_postal":"10042851"
+  },
+  {
+    "documento":"26402255",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle Chaco N° 569",
+    "provincia":"Misiones",
+    "codigo_postal":null
+  },
+  {
+    "documento":"29.347.198",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Chilecito N° 263",
+    "provincia":"Tucumán",
+    "codigo_postal":"50008820"
+  },
+  {
+    "documento":"41 045 356",
+    "direccion_normalizada":null,
+    "direccion_original":"Calle G. Brown N° 712",
+    "provincia":"Neuquén",
+    "codigo_postal":"50008688"
+  },
+  {
+    "documento":"29 174 617",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Bahía Blanca N° 7993",
+    "provincia":"Salta",
+    "codigo_postal":"85000624"
+  },
+  {
+    "documento":"24317226",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Córdoba N° 3398",
+    "provincia":"Santa Fe",
+    "codigo_postal":"53602879"
+  },
+  {
+    "documento":"22892911",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal Tierra del Fuego N° 3144",
+    "provincia":"Córdoba",
+    "codigo_postal":"63000911"
+  },
+  {
+    "documento":"31.340.008",
+    "direccion_normalizada":null,
+    "direccion_original":"  Blv. 5 N° 320  ",
+    "provincia":"Misiones",
+    "codigo_postal":null
+  },
+  {
+    "documento":"20 361 830",
+    "direccion_normalizada":null,
+    "direccion_original":"Diagonal 1 N° 650",
+    "provincia":"Neuquén",
+    "codigo_postal":null
+  },
+  {
+    "documento":"33 984 667",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida San Luis N° 94",
+    "provincia":"Misiones",
+    "codigo_postal":"90003760"
+  },
+  {
+    "documento":"23 576 476",
+    "direccion_normalizada":null,
+    "direccion_original":"Av. Ciudad Autónoma de Buenos Aires N° 47",
+    "provincia":"Misiones",
+    "codigo_postal":"35003045"
+  },
+  {
+    "documento":"32-799-176",
+    "direccion_normalizada":null,
+    "direccion_original":"Avenida Saavedra N° 492",
+    "provincia":"Córdoba",
+    "codigo_postal":"46005025"
+  }
+]

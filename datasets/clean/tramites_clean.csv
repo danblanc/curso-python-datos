@@ -1,0 +1,1501 @@
+id_tramite,documento_solicitante,tipo_tramite,estado,fecha_inicio,fecha_resolucion,monto_asociado,provincia
+1,37894197,Baja De Comercio,En revisión,2025-05-19,,9989.48,Tucumán
+2,29234717,Reclamo Administrativo,Aprobado,2025-08-12,2026-01-24,26426.26,Buenos Aires
+3,27544493,Baja De Comercio,Observado,2023-01-16,2023-02-21,39822.32,Salta
+4,44200136,Baja De Comercio,Observado,2024-11-25,2025-01-30,0.0,Santa Fe
+5,27811165,Renovación De Licencia,En revisión,2025-03-07,,0.0,Tucumán
+6,39870950,Cambio De Domicilio,Iniciado,2023-09-18,,32160.96,Tucumán
+7,32666675,Cambio De Domicilio,Aprobado,2024-03-10,2024-03-17,32607.95,Entre Ríos
+8,43103303,Solicitud De Subsidio,Iniciado,2023-01-13,,0.0,Buenos Aires
+9,43148116,Solicitud De Subsidio,Aprobado,2024-10-06,2024-07-09,27100.74,Neuquén
+10,43884350,Certificado De Residencia,Rechazado,2025-07-28,2025-10-20,10593.97,Salta
+11,36475471,Reclamo Administrativo,Rechazado,2023-07-25,2023-08-24,0.0,Santa Fe
+12,38900916,Baja De Comercio,En revisión,2025-08-10,,15852.93,Salta
+13,37777624,Cambio De Domicilio,Iniciado,2025-11-29,,5461.57,Buenos Aires
+14,32799176,Alta De Comercio,Iniciado,2024-03-20,,7042.86,Tucumán
+15,24696228,Renovación De Licencia,Observado,2025-12-23,2025-12-25,10514.92,Neuquén
+16,28597504,Baja De Comercio,En revisión,2024-05-11,,0.0,Misiones
+17,41405867,Alta De Comercio,Iniciado,2023-10-15,,25821.35,Santa Fe
+18,26671884,Reclamo Administrativo,En revisión,2024-04-26,,0.0,Salta
+19,40648640,Cambio De Domicilio,Rechazado,2025-03-26,2025-04-17,4276.35,Entre Ríos
+20,42855046,Baja De Comercio,Iniciado,2024-12-18,,30180.77,Santa Fe
+21,23789250,Solicitud De Subsidio,Observado,2024-07-17,2024-08-23,40630.61,Córdoba
+22,31541238,Baja De Comercio,En revisión,2024-05-01,,19834.68,Chaco
+23,41784860,Solicitud De Subsidio,Iniciado,2025-12-27,,0.0,Salta
+24,23836038,Inscripción Registral,Aprobado,2023-07-24,2023-09-26,21223.65,Misiones
+25,25720262,Reclamo Administrativo,Observado,2024-09-01,2024-03-18,0.0,Buenos Aires
+26,32707485,Baja De Comercio,Iniciado,2025-08-12,,45612.42,Santa Fe
+27,23004934,Reclamo Administrativo,Rechazado,2025-04-25,2025-05-14,0.0,Santa Fe
+28,39832095,Reclamo Administrativo,Iniciado,2024-05-14,,35219.39,Córdoba
+29,35883177,Baja De Comercio,Observado,2023-04-16,2023-05-07,1117.65,Salta
+30,34666248,Solicitud De Subsidio,En revisión,2025-07-26,,36266.59,Buenos Aires
+31,27669427,Baja De Comercio,Iniciado,2025-04-15,,20121.34,Chaco
+32,43587652,Cambio De Domicilio,Aprobado,2023-10-15,2023-12-28,48669.56,Santa Fe
+33,34079232,Baja De Comercio,Rechazado,2025-06-05,2025-07-25,16002.89,Salta
+34,32526073,Reclamo Administrativo,Iniciado,2024-12-04,,0.0,Neuquén
+35,40242901,Alta De Comercio,Iniciado,2023-01-28,,30056.98,Tucumán
+36,37777624,Renovación De Licencia,Observado,2024-08-17,2024-09-12,48844.83,Neuquén
+37,30914944,Solicitud De Subsidio,Iniciado,2023-04-14,,37708.13,Misiones
+38,29902086,Baja De Comercio,Aprobado,2025-03-12,2026-01-23,44877.3,Misiones
+39,34666248,Reclamo Administrativo,Iniciado,2025-06-27,,0.0,Chaco
+40,40005950,Cambio De Domicilio,Iniciado,2023-12-05,,0.0,Misiones
+41,39256174,Inscripción Registral,Observado,2025-02-19,2025-05-14,14896.66,Salta
+42,38058086,Baja De Comercio,Rechazado,2023-05-19,2023-06-19,7559.81,Misiones
+43,41169040,Solicitud De Subsidio,Rechazado,2024-01-16,2024-01-29,29037.33,Córdoba
+44,39071681,Solicitud De Subsidio,Rechazado,2024-10-05,2024-06-13,48598.19,Entre Ríos
+45,27669427,Baja De Comercio,Rechazado,2024-08-28,2024-10-20,18997.31,Misiones
+46,30856145,Cambio De Domicilio,Aprobado,2025-10-25,2026-01-21,0.0,Salta
+47,23622597,Alta De Comercio,En revisión,2025-11-24,,23690.19,Chaco
+48,22646099,Reclamo Administrativo,Iniciado,2025-11-29,,0.0,Entre Ríos
+49,28264996,Certificado De Residencia,En revisión,2023-07-19,,23001.64,Chaco
+50,28969929,Reclamo Administrativo,En revisión,2025-06-16,,39583.18,Mendoza
+51,29174617,Reclamo Administrativo,En revisión,2025-08-27,,0.0,Córdoba
+52,36188931,Reclamo Administrativo,Rechazado,2024-07-13,2024-07-24,0.0,Salta
+53,31864697,Certificado De Residencia,Aprobado,2023-05-06,2023-06-27,18057.27,Salta
+54,43148116,Inscripción Registral,Observado,2025-01-15,2025-02-04,44876.81,Chaco
+55,28130745,Reclamo Administrativo,Iniciado,2025-04-29,,49417.81,Santa Fe
+56,30856145,Reclamo Administrativo,Observado,2023-06-08,2023-08-19,17730.23,Neuquén
+57,20495191,Alta De Comercio,Aprobado,2025-03-26,2025-12-05,20814.15,Misiones
+58,29172605,Certificado De Residencia,Observado,2024-07-29,2024-10-09,0.0,Salta
+59,37790526,Reclamo Administrativo,Aprobado,2025-05-04,2025-07-28,0.0,Buenos Aires
+60,26711706,Certificado De Residencia,Iniciado,2024-08-09,,0.0,Chaco
+61,41608602,Alta De Comercio,Rechazado,2024-03-08,2024-08-18,45445.68,Salta
+62,20385239,Solicitud De Subsidio,Aprobado,2023-02-21,2023-03-22,0.0,Salta
+63,33068673,Inscripción Registral,Iniciado,2024-06-08,,47978.45,Mendoza
+64,20723628,Reclamo Administrativo,Rechazado,2024-08-13,2024-07-09,46999.89,Santa Fe
+65,33908782,Alta De Comercio,Aprobado,2025-01-29,2025-06-04,42230.02,Tucumán
+66,32248167,Cambio De Domicilio,En revisión,2025-12-27,,0.0,Neuquén
+67,32926439,Alta De Comercio,Iniciado,2023-07-02,,0.0,Chaco
+68,33953793,Solicitud De Subsidio,En revisión,2023-06-23,,36452.47,Salta
+69,34633895,Renovación De Licencia,Iniciado,2025-01-15,,23226.82,Córdoba
+70,44159591,Alta De Comercio,Aprobado,2024-11-26,2024-12-30,0.0,Córdoba
+71,43388450,Alta De Comercio,Iniciado,2025-07-29,,19075.09,Chaco
+72,44226096,Renovación De Licencia,En revisión,2023-05-09,,49690.11,Neuquén
+73,20361830,Alta De Comercio,Observado,2025-10-16,2025-10-17,26140.75,Mendoza
+74,41550706,Renovación De Licencia,Iniciado,2025-02-23,,11378.18,Santa Fe
+75,37335584,Inscripción Registral,Aprobado,2024-08-15,2024-10-16,22085.07,Mendoza
+76,31108749,Reclamo Administrativo,En revisión,2025-11-11,,0.0,Chaco
+77,29212279,Solicitud De Subsidio,Rechazado,2024-04-09,2024-03-06,21750.99,Entre Ríos
+78,30962874,Solicitud De Subsidio,Rechazado,2023-10-08,2023-01-09,0.0,Entre Ríos
+79,29631618,Cambio De Domicilio,En revisión,2023-02-23,,7679.46,Buenos Aires
+80,20460812,Cambio De Domicilio,Iniciado,2025-11-27,,44987.83,Salta
+81,29218510,Alta De Comercio,Observado,2024-03-14,2024-11-04,34265.53,Entre Ríos
+82,25828808,Certificado De Residencia,En revisión,2024-02-03,,0.0,Santa Fe
+83,33984667,Solicitud De Subsidio,Aprobado,2024-07-25,2024-09-10,14576.11,Salta
+84,27313676,Alta De Comercio,Observado,2024-04-06,2024-06-13,0.0,Entre Ríos
+85,26548138,Inscripción Registral,Iniciado,2024-06-05,,19969.71,Chaco
+86,43252745,Alta De Comercio,Iniciado,2023-12-19,,0.0,Córdoba
+87,22080700,Inscripción Registral,Rechazado,2025-03-01,2025-03-30,0.0,Buenos Aires
+88,44575346,Solicitud De Subsidio,Iniciado,2023-11-25,,0.0,Entre Ríos
+89,35955142,Alta De Comercio,Observado,2023-03-23,2023-05-15,48829.3,Chaco
+90,20138372,Alta De Comercio,Iniciado,2025-02-14,,33144.3,Mendoza
+91,24806722,Renovación De Licencia,Iniciado,2025-01-01,,33689.7,Salta
+92,37777624,Solicitud De Subsidio,Rechazado,2023-08-17,2023-08-31,0.0,Entre Ríos
+93,26785071,Reclamo Administrativo,Rechazado,2025-03-14,2025-02-06,21443.15,Neuquén
+94,34594181,Alta De Comercio,En revisión,2024-10-12,,0.0,Buenos Aires
+95,36737866,Alta De Comercio,Observado,2023-03-15,2023-12-05,7955.69,Misiones
+96,34973941,Alta De Comercio,Iniciado,2025-06-04,,36734.08,Tucumán
+97,36959341,Certificado De Residencia,Rechazado,2023-06-03,2023-06-26,32494.07,Mendoza
+98,33530961,Solicitud De Subsidio,Iniciado,2024-06-10,,0.0,Neuquén
+99,28212456,Certificado De Residencia,Rechazado,2023-06-25,2023-08-15,0.0,Neuquén
+100,37347875,Solicitud De Subsidio,Iniciado,2025-11-30,,0.0,Santa Fe
+101,37168677,Certificado De Residencia,Rechazado,2025-05-12,2025-12-24,0.0,Córdoba
+102,30807772,Certificado De Residencia,Iniciado,2025-07-12,,43724.32,Buenos Aires
+103,28749844,Cambio De Domicilio,Observado,2024-04-03,2024-05-31,5449.63,Entre Ríos
+104,40250556,Solicitud De Subsidio,Rechazado,2023-06-24,2023-08-08,23208.16,Tucumán
+105,34973941,Certificado De Residencia,Observado,2024-03-04,2024-06-27,7821.07,Mendoza
+106,44159591,Inscripción Registral,Aprobado,2024-10-09,2024-12-12,46072.04,Córdoba
+107,36188931,Baja De Comercio,Observado,2023-09-30,2023-11-27,19855.8,Tucumán
+108,26480013,Alta De Comercio,En revisión,2024-01-19,,28549.79,Entre Ríos
+109,38802227,Certificado De Residencia,Iniciado,2023-05-09,,34205.69,Tucumán
+110,39316685,Alta De Comercio,En revisión,2025-11-05,,0.0,Neuquén
+111,41405867,Reclamo Administrativo,Iniciado,2023-06-03,,0.0,Tucumán
+112,31262896,Solicitud De Subsidio,Observado,2024-03-15,2024-04-04,0.0,Mendoza
+113,29117246,Reclamo Administrativo,Rechazado,2025-03-05,2025-04-20,46049.61,Santa Fe
+114,28332809,Baja De Comercio,Rechazado,2024-03-10,2024-12-29,0.0,Tucumán
+115,22574665,Certificado De Residencia,Aprobado,2025-06-01,2025-03-20,5254.09,Entre Ríos
+116,31123801,Reclamo Administrativo,Aprobado,2023-08-14,2023-10-13,0.0,Salta
+117,42217569,Solicitud De Subsidio,En revisión,2023-05-06,,6800.11,Neuquén
+118,29140711,Reclamo Administrativo,Iniciado,2023-10-29,,33668.92,Misiones
+119,23444816,Alta De Comercio,Iniciado,2023-12-25,,41186.04,Entre Ríos
+120,29651317,Renovación De Licencia,Iniciado,2024-11-28,,28321.44,Santa Fe
+121,40825715,Renovación De Licencia,En revisión,2024-07-24,,0.0,Neuquén
+122,41585871,Certificado De Residencia,Observado,2024-07-28,2024-10-08,0.0,Salta
+123,30914944,Solicitud De Subsidio,En revisión,2025-04-24,,21901.51,Santa Fe
+124,44159591,Certificado De Residencia,En revisión,2024-10-17,,0.0,Neuquén
+125,25720262,Alta De Comercio,Aprobado,2023-12-09,2023-07-12,0.0,Córdoba
+126,28332809,Renovación De Licencia,Rechazado,2024-04-24,2024-04-26,48158.43,Chaco
+127,37386339,Inscripción Registral,Iniciado,2025-06-19,,45176.25,Misiones
+128,27348572,Inscripción Registral,En revisión,2024-08-15,,35901.53,Tucumán
+129,34720963,Certificado De Residencia,Rechazado,2024-10-29,2024-07-11,29013.93,Misiones
+130,30663126,Inscripción Registral,En revisión,2023-06-18,,2723.99,Santa Fe
+131,27756452,Certificado De Residencia,Iniciado,2025-08-21,,38115.51,Mendoza
+132,24115029,Reclamo Administrativo,En revisión,2025-04-05,,0.0,Buenos Aires
+133,23622597,Renovación De Licencia,Rechazado,2025-02-27,2025-04-16,35086.92,Neuquén
+134,20723628,Certificado De Residencia,En revisión,2025-08-16,,0.0,Misiones
+135,25834033,Alta De Comercio,Iniciado,2025-11-05,,40595.44,Entre Ríos
+136,37932170,Inscripción Registral,Observado,2023-02-14,2023-04-25,41703.94,Chaco
+137,30457804,Baja De Comercio,Aprobado,2025-06-07,2025-08-21,31460.8,Neuquén
+138,40005950,Solicitud De Subsidio,En revisión,2023-10-07,,0.0,Misiones
+139,37346622,Solicitud De Subsidio,Iniciado,2024-11-17,,3863.66,Tucumán
+140,35913789,Reclamo Administrativo,Observado,2024-04-11,2024-06-24,46877.88,Buenos Aires
+141,33068673,Renovación De Licencia,Aprobado,2023-04-07,2023-08-27,46246.63,Buenos Aires
+142,42476246,Renovación De Licencia,Rechazado,2025-02-16,2025-02-26,30108.31,Córdoba
+143,41608602,Alta De Comercio,Rechazado,2025-05-08,2025-08-22,32691.68,Tucumán
+144,27086368,Renovación De Licencia,Iniciado,2024-06-17,,34256.09,Misiones
+145,37846241,Baja De Comercio,Iniciado,2023-11-15,,0.0,Córdoba
+146,23486549,Cambio De Domicilio,Aprobado,2024-07-26,2024-08-20,11742.73,Misiones
+147,22985477,Renovación De Licencia,Iniciado,2023-04-07,,0.0,Santa Fe
+148,23579898,Solicitud De Subsidio,Iniciado,2025-12-03,,0.0,Córdoba
+149,29347198,Cambio De Domicilio,Aprobado,2025-11-16,2026-01-25,0.0,Mendoza
+150,20488551,Alta De Comercio,Aprobado,2025-05-08,2025-09-15,35422.33,Tucumán
+151,40005950,Cambio De Domicilio,En revisión,2023-09-22,,6576.03,Santa Fe
+152,38099899,Certificado De Residencia,En revisión,2025-07-19,,0.0,Tucumán
+153,39870950,Alta De Comercio,Rechazado,2024-06-25,2024-03-08,25020.2,Salta
+154,28597504,Baja De Comercio,Iniciado,2025-02-07,,0.0,Entre Ríos
+155,44895713,Solicitud De Subsidio,Observado,2024-04-18,2024-01-06,36426.42,Salta
+156,39803169,Solicitud De Subsidio,Iniciado,2023-04-03,,28843.83,Misiones
+157,34633895,Certificado De Residencia,En revisión,2023-04-26,,0.0,Tucumán
+158,22574665,Solicitud De Subsidio,En revisión,2025-04-23,,0.0,Tucumán
+159,31108749,Solicitud De Subsidio,Observado,2025-11-07,2025-07-13,0.0,Buenos Aires
+160,36835225,Cambio De Domicilio,Rechazado,2025-03-13,2025-06-03,14184.06,Entre Ríos
+161,30962874,Solicitud De Subsidio,Rechazado,2025-09-17,2025-11-10,0.0,Neuquén
+162,36569018,Baja De Comercio,En revisión,2024-02-12,,2576.8,Buenos Aires
+163,30663126,Inscripción Registral,Aprobado,2023-12-27,2023-12-30,5903.59,Córdoba
+164,29882378,Inscripción Registral,Iniciado,2024-12-31,,32273.41,Santa Fe
+165,23637385,Inscripción Registral,Aprobado,2023-03-10,2023-12-20,0.0,Buenos Aires
+166,44226096,Renovación De Licencia,Aprobado,2024-01-26,2024-01-02,25784.41,Misiones
+167,23458283,Baja De Comercio,Aprobado,2023-01-15,2023-02-12,47951.95,Neuquén
+168,31123801,Reclamo Administrativo,Observado,2025-02-19,2025-11-05,33130.29,Entre Ríos
+169,26103019,Solicitud De Subsidio,En revisión,2024-06-15,,12532.13,Entre Ríos
+170,36128405,Alta De Comercio,Rechazado,2024-03-10,2024-11-13,18413.12,Misiones
+171,29347198,Certificado De Residencia,Aprobado,2023-08-31,2023-11-23,0.0,Salta
+172,32199762,Solicitud De Subsidio,En revisión,2024-04-19,,6339.22,Misiones
+173,35955142,Cambio De Domicilio,Observado,2023-10-19,2023-12-22,8755.16,Misiones
+174,42158059,Reclamo Administrativo,Iniciado,2025-12-28,,0.0,Misiones
+175,23288307,Solicitud De Subsidio,Rechazado,2025-06-23,2025-08-08,29778.16,Buenos Aires
+176,43547809,Certificado De Residencia,Aprobado,2024-06-18,2024-08-15,35155.63,Neuquén
+177,35169289,Inscripción Registral,Iniciado,2024-10-26,,0.0,Neuquén
+178,32652714,Inscripción Registral,Iniciado,2024-11-09,,14620.23,Santa Fe
+179,24696228,Cambio De Domicilio,Iniciado,2024-10-26,,28969.32,Córdoba
+180,38204242,Certificado De Residencia,Aprobado,2025-11-08,2025-02-09,14779.7,Neuquén
+181,43884350,Baja De Comercio,En revisión,2024-12-31,,27832.09,Santa Fe
+182,42670288,Cambio De Domicilio,Observado,2023-02-16,2023-02-22,0.0,Neuquén
+183,29172605,Solicitud De Subsidio,Rechazado,2023-04-29,2023-05-07,44499.55,Córdoba
+184,39853054,Alta De Comercio,Aprobado,2025-07-06,2025-09-30,8258.0,Chaco
+185,25009043,Inscripción Registral,Iniciado,2024-04-12,,5471.72,Misiones
+186,31734535,Renovación De Licencia,En revisión,2023-04-18,,7275.3,Mendoza
+187,32834505,Certificado De Residencia,Aprobado,2023-04-14,2023-06-14,0.0,Misiones
+188,26306075,Cambio De Domicilio,Iniciado,2025-11-24,,0.0,Salta
+189,43876850,Certificado De Residencia,En revisión,2023-09-19,,42114.25,Chaco
+190,25822902,Solicitud De Subsidio,Rechazado,2024-09-27,2024-12-13,48164.49,Tucumán
+191,35637097,Alta De Comercio,Rechazado,2025-02-15,2025-03-29,33200.34,Salta
+192,20383719,Cambio De Domicilio,Rechazado,2024-10-23,2024-12-25,25620.63,Salta
+193,29651317,Reclamo Administrativo,Observado,2025-11-06,2025-07-23,20234.64,Tucumán
+194,28264996,Solicitud De Subsidio,En revisión,2025-02-25,,11454.85,Misiones
+195,26699974,Inscripción Registral,Iniciado,2023-02-13,,0.0,Salta
+196,37667469,Alta De Comercio,Aprobado,2024-09-12,2025-01-24,27005.9,Misiones
+197,29668585,Inscripción Registral,En revisión,2024-04-27,,11172.95,Buenos Aires
+198,38099899,Alta De Comercio,Iniciado,2024-05-19,,0.0,Buenos Aires
+199,23520337,Reclamo Administrativo,En revisión,2025-03-08,,41005.65,Córdoba
+200,29347198,Reclamo Administrativo,Iniciado,2023-02-10,,37261.27,Santa Fe
+201,44401950,Inscripción Registral,Observado,2024-03-12,2024-02-05,0.0,Tucumán
+202,37753534,Cambio De Domicilio,Rechazado,2025-05-31,2025-07-19,14578.94,Misiones
+203,39555733,Reclamo Administrativo,Rechazado,2025-03-26,2025-03-29,11591.01,Salta
+204,27756452,Solicitud De Subsidio,Rechazado,2024-04-17,2024-06-04,0.0,Chaco
+205,26402255,Certificado De Residencia,En revisión,2025-09-21,,0.0,Tucumán
+206,37684955,Renovación De Licencia,En revisión,2023-08-25,,37874.38,Misiones
+207,23445693,Certificado De Residencia,Aprobado,2023-07-17,2023-09-10,35113.15,Buenos Aires
+208,34306582,Alta De Comercio,Observado,2024-11-21,2024-07-12,8950.74,Chaco
+209,26376137,Alta De Comercio,Observado,2023-12-27,2024-02-19,26362.77,Entre Ríos
+210,28332809,Inscripción Registral,En revisión,2023-11-17,,23412.57,Santa Fe
+211,32526073,Baja De Comercio,Observado,2024-03-27,2024-05-27,0.0,Mendoza
+212,30857838,Inscripción Registral,Iniciado,2023-02-01,,31436.15,Córdoba
+213,33155918,Cambio De Domicilio,Observado,2024-05-15,2024-06-13,29431.19,Neuquén
+214,33908782,Cambio De Domicilio,Aprobado,2025-02-09,2025-11-13,0.0,Tucumán
+215,28332809,Inscripción Registral,Iniciado,2024-01-28,,0.0,Mendoza
+216,21025530,Baja De Comercio,Iniciado,2025-01-17,,0.0,Córdoba
+217,35501353,Certificado De Residencia,En revisión,2024-01-21,,16690.92,Córdoba
+218,33183418,Certificado De Residencia,Observado,2025-11-23,2026-01-13,26768.93,Mendoza
+219,27544493,Certificado De Residencia,Aprobado,2023-10-30,2023-11-18,28116.3,Entre Ríos
+220,33144982,Certificado De Residencia,Iniciado,2025-08-05,,11082.11,Mendoza
+221,25916445,Renovación De Licencia,Aprobado,2023-12-22,2024-01-14,0.0,Tucumán
+222,35352660,Solicitud De Subsidio,Iniciado,2025-04-02,,0.0,Chaco
+223,36757650,Solicitud De Subsidio,Iniciado,2024-11-26,,48571.46,Chaco
+224,36025978,Renovación De Licencia,Rechazado,2025-04-21,2025-05-14,0.0,Santa Fe
+225,39759241,Inscripción Registral,Rechazado,2023-06-25,2023-11-07,32927.71,Entre Ríos
+226,28130745,Inscripción Registral,En revisión,2024-03-09,,21110.75,Buenos Aires
+227,23864454,Baja De Comercio,En revisión,2025-08-03,,0.0,Neuquén
+228,36516388,Solicitud De Subsidio,Observado,2024-10-12,2025-02-01,17401.9,Córdoba
+229,41802627,Baja De Comercio,Rechazado,2025-03-22,2025-03-04,29761.85,Santa Fe
+230,43148116,Certificado De Residencia,En revisión,2025-04-04,,15735.22,Mendoza
+231,31560470,Baja De Comercio,Aprobado,2025-05-05,2025-12-05,20992.15,Tucumán
+232,30857838,Solicitud De Subsidio,En revisión,2023-08-07,,5074.4,Entre Ríos
+233,35626143,Baja De Comercio,Observado,2024-01-07,2024-08-28,0.0,Salta
+234,38204242,Alta De Comercio,Aprobado,2023-08-04,2023-05-05,0.0,Córdoba
+235,43119827,Inscripción Registral,En revisión,2024-01-21,,33086.09,Entre Ríos
+236,24115029,Inscripción Registral,Aprobado,2024-08-12,2024-08-14,45700.87,Chaco
+237,43431337,Certificado De Residencia,En revisión,2025-05-31,,36682.27,Mendoza
+238,29946673,Solicitud De Subsidio,Aprobado,2025-11-23,2026-02-08,21338.81,Neuquén
+239,33339832,Solicitud De Subsidio,Observado,2023-12-13,2023-12-17,33338.62,Buenos Aires
+240,37667469,Certificado De Residencia,Aprobado,2023-01-12,2023-12-20,0.0,Santa Fe
+241,23789250,Reclamo Administrativo,Aprobado,2025-09-28,2025-09-10,34393.32,Entre Ríos
+242,39031404,Reclamo Administrativo,Rechazado,2023-10-04,2023-01-05,41651.68,Córdoba
+243,39443687,Reclamo Administrativo,En revisión,2024-03-20,,41079.66,Salta
+244,24317226,Renovación De Licencia,Rechazado,2024-11-11,2025-01-19,18772.06,Buenos Aires
+245,31340008,Baja De Comercio,Rechazado,2024-01-12,2024-12-11,10956.0,Entre Ríos
+246,32600775,Solicitud De Subsidio,En revisión,2025-08-04,,2223.92,Salta
+247,39071681,Certificado De Residencia,En revisión,2023-10-08,,0.0,Salta
+248,33658665,Certificado De Residencia,En revisión,2025-07-26,,32863.95,Salta
+249,29174617,Certificado De Residencia,Aprobado,2024-06-15,2024-09-08,42286.34,Córdoba
+250,39071681,Alta De Comercio,Rechazado,2024-01-05,2024-03-14,47435.96,Tucumán
+251,25828808,Certificado De Residencia,Observado,2024-04-24,2024-12-07,0.0,Chaco
+252,23444816,Inscripción Registral,Aprobado,2024-01-31,2024-07-02,33912.32,Buenos Aires
+253,25725535,Renovación De Licencia,Aprobado,2023-06-24,2023-07-17,31981.14,Entre Ríos
+254,27313676,Alta De Comercio,Observado,2023-04-07,2023-08-24,0.0,Chaco
+255,43886539,Inscripción Registral,Observado,2023-01-18,2023-01-04,30663.0,Córdoba
+256,25916445,Reclamo Administrativo,Observado,2023-07-27,2023-07-08,0.0,Córdoba
+257,29212279,Solicitud De Subsidio,Iniciado,2023-07-12,,0.0,Neuquén
+258,32515094,Reclamo Administrativo,En revisión,2024-08-07,,14204.26,Neuquén
+259,34834600,Solicitud De Subsidio,En revisión,2024-04-12,,10753.25,Santa Fe
+260,25428943,Inscripción Registral,Aprobado,2023-11-21,2024-01-20,1394.61,Córdoba
+261,37347875,Inscripción Registral,Observado,2024-05-09,2024-11-03,17476.06,Chaco
+262,20174322,Reclamo Administrativo,Rechazado,2023-07-14,2023-09-16,33204.58,Córdoba
+263,35591135,Solicitud De Subsidio,Observado,2024-08-11,2024-12-23,0.0,Neuquén
+264,32199762,Reclamo Administrativo,En revisión,2023-03-25,,0.0,Chaco
+265,42966805,Alta De Comercio,Rechazado,2023-04-13,2023-06-21,49610.48,Santa Fe
+266,41643655,Reclamo Administrativo,Rechazado,2025-02-18,2025-04-30,31698.65,Entre Ríos
+267,31262896,Certificado De Residencia,Observado,2025-09-28,2025-06-12,8269.91,Salta
+268,38802227,Inscripción Registral,Iniciado,2024-12-27,,0.0,Neuquén
+269,44756404,Cambio De Domicilio,Rechazado,2025-07-22,2025-09-13,47301.71,Mendoza
+270,27544493,Inscripción Registral,Observado,2023-09-06,2023-08-29,0.0,Entre Ríos
+271,31454044,Inscripción Registral,En revisión,2024-08-01,,0.0,Neuquén
+272,41753347,Certificado De Residencia,Rechazado,2024-01-23,2024-02-24,0.0,Neuquén
+273,26775713,Renovación De Licencia,En revisión,2023-05-26,,43419.6,Salta
+274,28410559,Alta De Comercio,Rechazado,2024-02-26,2024-03-31,0.0,Salta
+275,38058086,Certificado De Residencia,Aprobado,2025-07-14,2025-09-04,0.0,Neuquén
+276,44104258,Baja De Comercio,En revisión,2025-03-17,,0.0,Córdoba
+277,26402255,Inscripción Registral,Rechazado,2025-08-17,2025-09-18,39475.01,Neuquén
+278,25428943,Baja De Comercio,Observado,2025-05-24,2025-05-29,44068.44,Tucumán
+279,40936975,Solicitud De Subsidio,En revisión,2024-02-11,,0.0,Santa Fe
+280,21882904,Solicitud De Subsidio,Observado,2025-11-28,2026-05-01,0.0,Buenos Aires
+281,30663126,Reclamo Administrativo,Aprobado,2023-12-21,2024-02-25,32370.65,Misiones
+282,31220254,Baja De Comercio,Observado,2023-04-09,2023-10-22,0.0,Córdoba
+283,31864697,Baja De Comercio,En revisión,2025-06-23,,32674.83,Chaco
+284,37840292,Cambio De Domicilio,Iniciado,2023-09-27,,33380.08,Córdoba
+285,44668214,Renovación De Licencia,Observado,2023-06-19,2023-06-28,13175.57,Mendoza
+286,27086368,Solicitud De Subsidio,Rechazado,2025-12-22,2026-01-14,0.0,Tucumán
+287,29651317,Certificado De Residencia,En revisión,2023-01-29,,16283.49,Mendoza
+288,30175719,Cambio De Domicilio,Iniciado,2023-03-09,,0.0,Buenos Aires
+289,23458283,Certificado De Residencia,Rechazado,2025-01-31,2025-02-15,12961.51,Tucumán
+290,25720262,Solicitud De Subsidio,En revisión,2023-08-28,,0.0,Tucumán
+291,39893718,Alta De Comercio,Observado,2025-08-16,2025-09-25,16300.77,Chaco
+292,22497804,Solicitud De Subsidio,En revisión,2024-04-27,,17450.37,Santa Fe
+293,39256358,Cambio De Domicilio,Iniciado,2025-07-06,,16340.79,Córdoba
+294,23152784,Baja De Comercio,Observado,2023-09-06,2023-06-07,38436.67,Santa Fe
+295,27034632,Reclamo Administrativo,Aprobado,2023-11-21,2024-01-27,23863.09,Tucumán
+296,40478333,Inscripción Registral,En revisión,2025-11-22,,21552.25,Salta
+297,39031404,Inscripción Registral,Rechazado,2025-07-27,2025-04-08,1464.24,Mendoza
+298,38311474,Reclamo Administrativo,Aprobado,2024-06-13,2024-07-31,31069.01,Tucumán
+299,22892911,Certificado De Residencia,Iniciado,2024-04-25,,39170.78,Chaco
+300,30105078,Renovación De Licencia,Aprobado,2024-09-01,2024-11-18,14164.29,Tucumán
+301,38306542,Alta De Comercio,Rechazado,2025-12-29,2026-01-16,43760.56,Neuquén
+302,30857838,Solicitud De Subsidio,Observado,2023-07-30,2023-11-08,0.0,Entre Ríos
+303,20361830,Cambio De Domicilio,Rechazado,2023-07-23,2023-08-20,10349.77,Tucumán
+304,36872408,Reclamo Administrativo,Observado,2024-07-21,2024-07-24,0.0,Misiones
+305,37939081,Renovación De Licencia,Iniciado,2024-03-13,,14491.0,Córdoba
+306,42325123,Alta De Comercio,Observado,2024-09-22,2024-04-10,30696.56,Córdoba
+307,29998521,Inscripción Registral,Aprobado,2025-09-15,2025-11-14,22975.33,Salta
+308,43186770,Renovación De Licencia,Rechazado,2024-02-28,2024-12-05,0.0,Mendoza
+309,32199762,Inscripción Registral,Aprobado,2023-10-14,2023-12-22,0.0,Buenos Aires
+310,34843168,Inscripción Registral,Observado,2025-05-22,2025-05-28,46459.04,Mendoza
+311,34720963,Cambio De Domicilio,En revisión,2024-03-02,,1851.17,Chaco
+312,41405867,Reclamo Administrativo,Rechazado,2025-05-27,2025-05-31,0.0,Salta
+313,31795578,Alta De Comercio,Iniciado,2024-04-17,,6457.74,Neuquén
+314,33953793,Inscripción Registral,Aprobado,2024-04-02,2024-03-29,0.0,Salta
+315,32627759,Alta De Comercio,Rechazado,2025-10-10,2025-10-23,0.0,Salta
+316,41605005,Solicitud De Subsidio,Iniciado,2023-09-15,,0.0,Neuquén
+317,22642648,Baja De Comercio,En revisión,2024-08-14,,3528.48,Tucumán
+318,20629641,Reclamo Administrativo,Observado,2023-03-26,2023-05-19,37227.35,Santa Fe
+319,41550706,Renovación De Licencia,Iniciado,2025-01-29,,15650.21,Tucumán
+320,42158435,Inscripción Registral,Iniciado,2023-12-19,,2194.03,Salta
+321,29977515,Baja De Comercio,Observado,2025-06-25,2025-08-13,0.0,Salta
+322,42560013,Certificado De Residencia,Iniciado,2025-08-02,,7153.07,Buenos Aires
+323,44983903,Solicitud De Subsidio,Rechazado,2025-05-21,2025-07-21,47866.82,Córdoba
+324,30175719,Baja De Comercio,Rechazado,2024-09-25,2024-12-08,37287.67,Tucumán
+325,24115029,Solicitud De Subsidio,En revisión,2023-04-16,,33583.64,Neuquén
+326,42656939,Baja De Comercio,En revisión,2025-01-10,,31778.07,Santa Fe
+327,20495191,Cambio De Domicilio,En revisión,2025-12-15,,16465.35,Chaco
+328,36195489,Reclamo Administrativo,En revisión,2025-02-14,,0.0,Chaco
+329,20558243,Inscripción Registral,Aprobado,2024-09-08,2024-01-11,17378.66,Misiones
+330,39703443,Inscripción Registral,Iniciado,2023-04-25,,39206.74,Buenos Aires
+331,28702406,Alta De Comercio,En revisión,2025-06-23,,6751.81,Chaco
+332,27059399,Baja De Comercio,Observado,2023-07-09,2023-09-18,0.0,Buenos Aires
+333,36516388,Baja De Comercio,Aprobado,2024-01-17,2024-03-25,34837.89,Santa Fe
+334,32054802,Cambio De Domicilio,En revisión,2025-07-02,,0.0,Salta
+335,40982358,Certificado De Residencia,Rechazado,2025-05-12,2026-10-02,0.0,Córdoba
+336,21338058,Renovación De Licencia,Observado,2025-06-18,2025-12-09,0.0,Mendoza
+337,40774671,Reclamo Administrativo,En revisión,2023-03-09,,0.0,Tucumán
+338,26376137,Baja De Comercio,Rechazado,2023-10-22,2023-07-11,33775.78,Buenos Aires
+339,20558243,Certificado De Residencia,Observado,2025-05-07,2025-08-14,41200.9,Neuquén
+340,36025978,Solicitud De Subsidio,En revisión,2024-05-18,,0.0,Chaco
+341,29172605,Certificado De Residencia,Observado,2024-04-24,2024-05-16,4884.36,Neuquén
+342,29427853,Certificado De Residencia,En revisión,2024-09-10,,0.0,Tucumán
+343,27441374,Reclamo Administrativo,Aprobado,2023-12-03,2023-06-02,1139.84,Chaco
+344,40434437,Solicitud De Subsidio,Observado,2025-12-26,2026-02-28,30528.08,Salta
+345,31099514,Alta De Comercio,Observado,2023-01-25,2023-08-02,18354.69,Neuquén
+346,38581904,Certificado De Residencia,Rechazado,2024-06-05,2024-12-05,0.0,Neuquén
+347,42852436,Inscripción Registral,Iniciado,2024-12-13,,46073.15,Chaco
+348,38044037,Solicitud De Subsidio,Aprobado,2025-09-07,2025-04-12,23181.13,Tucumán
+349,44226096,Inscripción Registral,En revisión,2024-05-06,,0.0,Chaco
+350,20611715,Cambio De Domicilio,Aprobado,2025-12-02,2025-03-30,0.0,Salta
+351,39142372,Reclamo Administrativo,Observado,2023-11-03,2023-05-14,17854.4,Entre Ríos
+352,36199109,Cambio De Domicilio,En revisión,2024-01-24,,37960.14,Salta
+353,42325123,Solicitud De Subsidio,En revisión,2025-11-11,,26874.97,Salta
+354,28375577,Alta De Comercio,Aprobado,2023-10-30,2024-01-17,0.0,Santa Fe
+355,36188931,Cambio De Domicilio,Iniciado,2023-03-10,,0.0,Buenos Aires
+356,40982358,Certificado De Residencia,En revisión,2025-08-09,,28037.96,Mendoza
+357,39398947,Reclamo Administrativo,En revisión,2023-01-31,,35483.92,Tucumán
+358,29998521,Cambio De Domicilio,Aprobado,2024-10-16,2024-12-02,0.0,Mendoza
+359,32912618,Inscripción Registral,Observado,2024-04-16,2024-03-05,36019.44,Misiones
+360,24805805,Renovación De Licencia,Rechazado,2025-04-16,2025-05-21,0.0,Santa Fe
+361,23449181,Renovación De Licencia,Observado,2023-05-27,2023-07-24,3656.95,Tucumán
+362,37840292,Certificado De Residencia,Aprobado,2024-09-03,2024-03-13,11152.6,Misiones
+363,44575346,Reclamo Administrativo,Aprobado,2024-12-25,2025-01-24,0.0,Entre Ríos
+364,31477130,Alta De Comercio,Iniciado,2023-06-12,,36653.83,Mendoza
+365,33984667,Renovación De Licencia,En revisión,2025-02-02,,0.0,Salta
+366,37720478,Baja De Comercio,Rechazado,2023-11-30,2024-01-22,0.0,Salta
+367,29946673,Cambio De Domicilio,Rechazado,2023-12-09,2023-09-24,17316.15,Misiones
+368,27048205,Renovación De Licencia,Iniciado,2025-05-24,,0.0,Misiones
+369,33658665,Renovación De Licencia,Iniciado,2024-07-10,,0.0,Neuquén
+370,33794495,Inscripción Registral,En revisión,2024-03-21,,30186.06,Chaco
+371,31795578,Certificado De Residencia,Observado,2025-04-19,2025-05-09,40456.64,Tucumán
+372,38498673,Alta De Comercio,Aprobado,2025-09-12,2026-07-03,49868.42,Chaco
+373,35976000,Alta De Comercio,Rechazado,2024-04-10,2024-01-12,7498.38,Chaco
+374,37777624,Alta De Comercio,Rechazado,2025-02-08,2025-08-08,37967.71,Tucumán
+375,42158435,Solicitud De Subsidio,En revisión,2025-11-29,,0.0,Buenos Aires
+376,44085691,Reclamo Administrativo,Iniciado,2023-02-28,,49618.22,Buenos Aires
+377,26360159,Solicitud De Subsidio,Iniciado,2025-06-04,,37093.22,Buenos Aires
+378,34720963,Reclamo Administrativo,Rechazado,2024-05-10,2024-10-30,0.0,Santa Fe
+379,44378968,Certificado De Residencia,Aprobado,2025-04-28,2025-05-08,0.0,Córdoba
+380,41911483,Inscripción Registral,Iniciado,2023-03-19,,41415.32,Salta
+381,36471155,Solicitud De Subsidio,En revisión,2023-11-03,,10641.38,Tucumán
+382,31477130,Reclamo Administrativo,Iniciado,2024-03-29,,40927.87,Neuquén
+383,43148116,Certificado De Residencia,Rechazado,2023-06-26,2023-07-02,0.0,Chaco
+384,41784860,Baja De Comercio,En revisión,2023-02-08,,0.0,Neuquén
+385,38073022,Reclamo Administrativo,Iniciado,2025-12-08,,27960.12,Santa Fe
+386,25269235,Alta De Comercio,Iniciado,2025-04-27,,0.0,Córdoba
+387,37796074,Certificado De Residencia,Rechazado,2025-12-19,2026-08-03,0.0,Buenos Aires
+388,32926439,Inscripción Registral,Aprobado,2025-04-07,2025-08-06,0.0,Tucumán
+389,32714537,Inscripción Registral,Iniciado,2023-02-02,,0.0,Mendoza
+390,23576476,Baja De Comercio,Observado,2025-10-14,2025-11-20,34395.76,Misiones
+391,28749844,Inscripción Registral,Observado,2025-03-08,2025-03-30,45125.22,Buenos Aires
+392,37790526,Reclamo Administrativo,Iniciado,2023-12-30,,0.0,Misiones
+393,43547809,Certificado De Residencia,Iniciado,2023-04-14,,34437.69,Mendoza
+394,43388450,Certificado De Residencia,Observado,2024-03-17,2024-04-19,0.0,Santa Fe
+395,23288307,Reclamo Administrativo,Aprobado,2025-06-02,2025-02-27,23266.64,Misiones
+396,37586469,Inscripción Registral,Rechazado,2025-01-20,2025-06-02,44239.28,Chaco
+397,28597504,Reclamo Administrativo,Rechazado,2025-05-31,2025-07-30,0.0,Mendoza
+398,31504069,Reclamo Administrativo,Rechazado,2024-02-22,2024-03-05,19945.06,Misiones
+399,40250556,Cambio De Domicilio,Aprobado,2024-03-06,2024-08-22,46887.54,Chaco
+400,20794046,Solicitud De Subsidio,En revisión,2025-07-16,,28965.92,Santa Fe
+401,26711706,Certificado De Residencia,Aprobado,2023-07-20,2023-09-18,0.0,Buenos Aires
+402,41140039,Cambio De Domicilio,Aprobado,2023-07-12,2023-12-19,42113.59,Entre Ríos
+403,43876850,Solicitud De Subsidio,Rechazado,2023-07-14,2023-09-13,0.0,Salta
+404,25721435,Solicitud De Subsidio,Observado,2024-04-16,2024-05-07,0.0,Buenos Aires
+405,20524985,Renovación De Licencia,Rechazado,2023-03-10,2023-03-12,0.0,Chaco
+406,37160657,Inscripción Registral,Aprobado,2023-10-04,2023-05-24,31389.54,Santa Fe
+407,38306542,Inscripción Registral,En revisión,2023-10-13,,18058.24,Chaco
+408,37039896,Inscripción Registral,Observado,2023-08-08,2023-10-23,49110.8,Buenos Aires
+409,25822902,Solicitud De Subsidio,Aprobado,2024-01-20,2024-11-02,0.0,Chaco
+410,36689482,Renovación De Licencia,Aprobado,2024-09-12,2025-02-18,45274.47,Buenos Aires
+411,25018440,Reclamo Administrativo,Rechazado,2023-03-31,2023-05-13,36096.3,Chaco
+412,31862764,Alta De Comercio,Aprobado,2024-05-09,2024-05-20,40632.38,Córdoba
+413,40434437,Baja De Comercio,Iniciado,2023-04-13,,0.0,Buenos Aires
+414,41045356,Inscripción Registral,Observado,2023-10-10,2023-10-20,0.0,Córdoba
+415,33452805,Alta De Comercio,Iniciado,2025-08-20,,0.0,Buenos Aires
+416,23720843,Cambio De Domicilio,Rechazado,2023-08-03,2023-04-19,0.0,Tucumán
+417,43148116,Alta De Comercio,Iniciado,2024-02-09,,13531.45,Neuquén
+418,36959341,Alta De Comercio,Iniciado,2025-01-17,,42506.51,Mendoza
+419,26904981,Solicitud De Subsidio,Rechazado,2023-04-15,2023-06-07,21612.9,Mendoza
+420,36891973,Solicitud De Subsidio,Iniciado,2023-02-01,,0.0,Entre Ríos
+421,25703704,Renovación De Licencia,Observado,2025-12-14,2026-08-02,35054.76,Córdoba
+422,36428874,Inscripción Registral,Aprobado,2023-01-14,2023-02-24,16017.0,Mendoza
+423,27086368,Reclamo Administrativo,Observado,2023-12-24,2024-01-15,46210.58,Salta
+424,42382700,Reclamo Administrativo,Rechazado,2023-02-12,2024-01-29,19382.14,Santa Fe
+425,26548138,Baja De Comercio,Aprobado,2025-05-26,2025-05-28,1311.27,Tucumán
+426,37684955,Baja De Comercio,En revisión,2024-09-14,,11773.09,Chaco
+427,29212279,Inscripción Registral,Rechazado,2024-02-15,2024-07-03,35448.19,Santa Fe
+428,42966805,Reclamo Administrativo,Observado,2023-03-17,2023-05-20,31759.68,Tucumán
+429,29631618,Solicitud De Subsidio,Observado,2023-08-07,2023-07-24,18793.59,Córdoba
+430,28898649,Inscripción Registral,Rechazado,2024-11-27,2025-01-14,39446.9,Neuquén
+431,26775713,Inscripción Registral,En revisión,2024-06-29,,0.0,Neuquén
+432,42158059,Reclamo Administrativo,Iniciado,2024-09-08,,4524.73,Neuquén
+433,36838854,Solicitud De Subsidio,Iniciado,2025-04-12,,0.0,Mendoza
+434,40825715,Baja De Comercio,Iniciado,2023-04-17,,24492.54,Misiones
+435,30857838,Alta De Comercio,En revisión,2025-01-18,,0.0,Misiones
+436,23579898,Reclamo Administrativo,En revisión,2023-06-19,,0.0,Buenos Aires
+437,20819580,Certificado De Residencia,Rechazado,2024-02-14,2024-02-25,0.0,Tucumán
+438,35591284,Certificado De Residencia,Aprobado,2023-07-13,2023-08-08,0.0,Buenos Aires
+439,40010544,Reclamo Administrativo,Observado,2024-04-27,2024-06-28,20079.12,Buenos Aires
+440,23579898,Renovación De Licencia,Aprobado,2025-07-15,2025-09-26,0.0,Santa Fe
+441,34594181,Cambio De Domicilio,Observado,2025-04-25,2025-05-16,17238.82,Córdoba
+442,25720262,Reclamo Administrativo,Rechazado,2024-07-09,2024-09-17,0.0,Tucumán
+443,37586469,Renovación De Licencia,En revisión,2025-10-06,,0.0,Mendoza
+444,32926439,Inscripción Registral,En revisión,2024-02-05,,1453.16,Chaco
+445,20794046,Renovación De Licencia,Rechazado,2024-12-11,2025-01-22,854.04,Neuquén
+446,23486549,Renovación De Licencia,Observado,2025-10-21,2025-12-11,0.0,Mendoza
+447,38311474,Reclamo Administrativo,Aprobado,2025-08-30,2025-09-25,1926.47,Misiones
+448,44593964,Reclamo Administrativo,En revisión,2025-05-19,,10407.06,Tucumán
+449,26306075,Cambio De Domicilio,Observado,2023-12-05,2023-06-20,0.0,Santa Fe
+450,34973941,Inscripción Registral,En revisión,2025-10-20,,0.0,Chaco
+451,44423068,Alta De Comercio,Observado,2025-10-20,2026-01-05,31154.2,Tucumán
+452,41455603,Alta De Comercio,Aprobado,2023-04-29,2023-06-25,32465.72,Entre Ríos
+453,42325123,Solicitud De Subsidio,Aprobado,2025-01-17,2025-12-03,7520.99,Mendoza
+454,41585871,Certificado De Residencia,Iniciado,2024-10-08,,6073.04,Chaco
+455,33047590,Alta De Comercio,Observado,2023-03-07,2023-08-07,20178.18,Buenos Aires
+456,43265424,Renovación De Licencia,Rechazado,2023-04-20,2023-06-19,0.0,Tucumán
+457,20794046,Renovación De Licencia,Aprobado,2023-07-31,2023-08-25,39702.21,Buenos Aires
+458,27669427,Certificado De Residencia,Aprobado,2023-06-20,2023-02-07,33100.77,Misiones
+459,37399215,Reclamo Administrativo,En revisión,2024-02-11,,18919.44,Tucumán
+460,35955142,Inscripción Registral,Rechazado,2024-01-05,2024-01-04,44296.23,Entre Ríos
+461,23418124,Baja De Comercio,Rechazado,2024-12-05,2024-07-21,30140.23,Santa Fe
+462,37720478,Cambio De Domicilio,En revisión,2024-12-22,,41260.45,Misiones
+463,20318987,Renovación De Licencia,Iniciado,2025-06-29,,37115.71,Entre Ríos
+464,43748286,Reclamo Administrativo,Iniciado,2025-08-05,,29062.46,Córdoba
+465,20138372,Cambio De Domicilio,Rechazado,2025-10-30,2025-11-19,0.0,Tucumán
+466,37796074,Alta De Comercio,Rechazado,2025-01-02,2025-02-10,0.0,Santa Fe
+467,35980162,Reclamo Administrativo,Iniciado,2023-03-13,,1023.14,Entre Ríos
+468,23288307,Renovación De Licencia,Aprobado,2023-09-27,2023-10-24,0.0,Chaco
+469,23894498,Certificado De Residencia,Observado,2023-04-06,2023-06-17,48157.03,Córdoba
+470,43878690,Alta De Comercio,Aprobado,2025-11-17,2026-01-26,12448.24,Buenos Aires
+471,22080700,Certificado De Residencia,Aprobado,2024-06-21,2024-08-31,0.0,Buenos Aires
+472,24846341,Certificado De Residencia,Rechazado,2025-05-19,2025-05-28,0.0,Misiones
+473,43388450,Solicitud De Subsidio,En revisión,2023-02-15,,14869.19,Córdoba
+474,31057585,Cambio De Domicilio,Iniciado,2023-06-03,,38899.14,Santa Fe
+475,21237409,Inscripción Registral,Iniciado,2025-11-12,,35834.48,Córdoba
+476,40214978,Certificado De Residencia,En revisión,2024-10-06,,39819.7,Misiones
+477,24025763,Solicitud De Subsidio,Observado,2025-12-07,2025-07-26,0.0,Entre Ríos
+478,43878690,Baja De Comercio,Rechazado,2024-12-23,2025-02-26,0.0,Mendoza
+479,29428817,Certificado De Residencia,Observado,2025-06-04,2025-05-24,0.0,Mendoza
+480,21882904,Reclamo Administrativo,Aprobado,2024-09-10,2024-10-27,0.0,Misiones
+481,36838854,Inscripción Registral,Observado,2025-07-17,2025-09-23,9839.02,Chaco
+482,26306075,Baja De Comercio,Iniciado,2023-10-04,,0.0,Misiones
+483,23622597,Inscripción Registral,Observado,2024-12-18,2025-09-01,3453.81,Entre Ríos
+484,27795636,Reclamo Administrativo,Iniciado,2025-09-25,,0.0,Neuquén
+485,35169289,Baja De Comercio,Rechazado,2024-08-09,2024-11-30,38768.41,Buenos Aires
+486,33429675,Baja De Comercio,Iniciado,2025-07-02,,0.0,Entre Ríos
+487,34720963,Certificado De Residencia,Observado,2024-07-25,2024-11-10,0.0,Chaco
+488,31864697,Alta De Comercio,Observado,2025-08-04,2025-06-14,43800.2,Mendoza
+489,39142372,Inscripción Registral,Aprobado,2024-05-12,2025-05-01,26124.75,Tucumán
+490,22892911,Baja De Comercio,Rechazado,2023-06-11,2024-01-31,35774.74,Mendoza
+491,42983916,Cambio De Domicilio,Observado,2023-05-29,2023-04-08,44420.03,Entre Ríos
+492,28407432,Certificado De Residencia,Rechazado,2025-04-16,2025-06-17,0.0,Salta
+493,29407248,Certificado De Residencia,Rechazado,2023-11-17,2023-11-18,0.0,Salta
+494,25822902,Inscripción Registral,Observado,2024-11-16,2024-11-30,6584.37,Buenos Aires
+495,28063933,Baja De Comercio,Iniciado,2024-03-18,,10642.19,Neuquén
+496,25703704,Solicitud De Subsidio,Iniciado,2024-02-17,,11909.17,Neuquén
+497,42656939,Baja De Comercio,Observado,2024-06-21,2024-06-08,9006.2,Salta
+498,32707485,Alta De Comercio,Observado,2024-06-21,2024-09-08,5236.34,Mendoza
+499,37796074,Cambio De Domicilio,Rechazado,2023-12-19,2024-03-07,12319.15,Neuquén
+500,20361830,Alta De Comercio,Rechazado,2024-06-14,2024-11-08,7944.08,Neuquén
+501,37551882,Solicitud De Subsidio,Iniciado,2024-01-03,,22114.19,Entre Ríos
+502,35367468,Certificado De Residencia,Iniciado,2024-06-28,,0.0,Salta
+503,27950590,Reclamo Administrativo,Rechazado,2025-11-05,2025-07-06,44973.4,Chaco
+504,20794046,Alta De Comercio,Observado,2023-11-11,2023-12-13,28797.0,Buenos Aires
+505,43388450,Alta De Comercio,Rechazado,2025-01-19,2025-03-18,11813.56,Tucumán
+506,21499295,Renovación De Licencia,En revisión,2023-02-03,,0.0,Santa Fe
+507,26700743,Solicitud De Subsidio,Observado,2025-06-29,2025-09-27,0.0,Salta
+508,39290668,Baja De Comercio,En revisión,2023-07-25,,43654.6,Neuquén
+509,38900916,Baja De Comercio,Aprobado,2023-04-08,2023-06-18,0.0,Córdoba
+510,26103019,Certificado De Residencia,En revisión,2025-03-09,,8059.57,Mendoza
+511,41439587,Renovación De Licencia,Aprobado,2025-03-29,2025-04-20,8766.56,Santa Fe
+512,37796074,Solicitud De Subsidio,Observado,2024-09-17,2024-04-11,0.0,Mendoza
+513,34306582,Baja De Comercio,Observado,2023-09-07,2023-07-15,26680.21,Salta
+514,29407248,Certificado De Residencia,Observado,2023-10-12,2024-01-31,26411.79,Misiones
+515,23445693,Cambio De Domicilio,En revisión,2023-02-22,,0.0,Salta
+516,25916445,Certificado De Residencia,Rechazado,2023-01-31,2023-11-03,22059.11,Santa Fe
+517,30856145,Solicitud De Subsidio,Observado,2025-11-24,2025-12-12,0.0,Chaco
+518,29946673,Inscripción Registral,Rechazado,2024-02-26,2024-04-18,0.0,Santa Fe
+519,40214978,Reclamo Administrativo,Aprobado,2024-01-21,2024-09-03,18061.33,Chaco
+520,36586173,Solicitud De Subsidio,Rechazado,2024-08-11,2024-08-20,7723.98,Tucumán
+521,25703704,Inscripción Registral,Iniciado,2025-06-21,,20468.9,Chaco
+522,38204242,Alta De Comercio,Observado,2025-01-19,2025-02-03,0.0,Misiones
+523,41802627,Baja De Comercio,Observado,2024-04-20,2024-04-29,36706.77,Santa Fe
+524,44159591,Solicitud De Subsidio,En revisión,2024-10-07,,2573.64,Santa Fe
+525,29902086,Reclamo Administrativo,Rechazado,2025-07-18,2025-09-29,0.0,Buenos Aires
+526,25833431,Certificado De Residencia,Rechazado,2024-07-11,2024-07-20,40678.64,Entre Ríos
+527,24884998,Inscripción Registral,Aprobado,2025-01-15,2025-03-30,40406.35,Mendoza
+528,20138372,Inscripción Registral,Iniciado,2023-02-18,,48651.68,Buenos Aires
+529,42470129,Cambio De Domicilio,Aprobado,2023-08-23,2023-09-25,45306.15,Misiones
+530,32714537,Reclamo Administrativo,Aprobado,2024-05-15,2024-07-07,12503.46,Córdoba
+531,31220254,Baja De Comercio,Iniciado,2023-07-23,,48928.75,Entre Ríos
+532,25721435,Reclamo Administrativo,Aprobado,2023-08-31,2023-01-10,0.0,Neuquén
+533,32526073,Reclamo Administrativo,Aprobado,2023-12-17,2024-01-07,4574.36,Santa Fe
+534,37399215,Baja De Comercio,Rechazado,2025-02-20,2025-04-25,0.0,Entre Ríos
+535,32089255,Inscripción Registral,Observado,2024-06-26,2024-07-08,49415.14,Mendoza
+536,30807772,Alta De Comercio,Rechazado,2024-09-17,2024-11-19,23385.66,Santa Fe
+537,34064250,Solicitud De Subsidio,Iniciado,2024-02-11,,42681.74,Chaco
+538,40250556,Reclamo Administrativo,Aprobado,2023-02-19,2023-04-26,10922.09,Santa Fe
+539,27313676,Baja De Comercio,Iniciado,2024-02-22,,6742.43,Tucumán
+540,37168677,Reclamo Administrativo,Aprobado,2025-09-12,2025-11-26,0.0,Chaco
+541,36295441,Alta De Comercio,Aprobado,2023-05-08,2023-05-29,19783.17,Chaco
+542,36757650,Reclamo Administrativo,Aprobado,2023-11-15,2024-01-12,0.0,Tucumán
+543,35961064,Baja De Comercio,Iniciado,2025-09-17,,12381.16,Tucumán
+544,22977150,Inscripción Registral,En revisión,2024-12-23,,0.0,Misiones
+545,39221146,Reclamo Administrativo,En revisión,2025-09-29,,38600.74,Buenos Aires
+546,36025978,Renovación De Licencia,Observado,2023-12-29,2024-03-09,20663.15,Córdoba
+547,37894197,Cambio De Domicilio,Rechazado,2023-07-13,2023-11-09,13602.67,Buenos Aires
+548,33984667,Cambio De Domicilio,Observado,2024-02-03,2024-04-04,0.0,Buenos Aires
+549,42325123,Reclamo Administrativo,Aprobado,2023-08-09,2023-11-16,25083.46,Misiones
+550,39870950,Reclamo Administrativo,Aprobado,2025-01-10,2025-10-16,1203.46,Entre Ríos
+551,28407432,Baja De Comercio,Rechazado,2024-03-16,2024-03-19,8512.14,Santa Fe
+552,22060838,Solicitud De Subsidio,Iniciado,2023-06-20,,0.0,Córdoba
+553,27811165,Baja De Comercio,En revisión,2024-10-17,,17207.73,Misiones
+554,21566198,Alta De Comercio,Observado,2024-11-11,2024-11-27,9231.73,Misiones
+555,31108749,Alta De Comercio,Iniciado,2023-10-10,,0.0,Misiones
+556,39256358,Reclamo Administrativo,Rechazado,2025-10-06,2025-12-26,0.0,Chaco
+557,38498673,Cambio De Domicilio,Iniciado,2025-01-15,,19670.14,Mendoza
+558,28063933,Inscripción Registral,Iniciado,2025-02-16,,32611.48,Buenos Aires
+559,25019072,Alta De Comercio,Rechazado,2025-09-14,2025-09-25,27902.46,Entre Ríos
+560,44690601,Inscripción Registral,Observado,2023-06-12,2023-11-12,15025.84,Buenos Aires
+561,23152784,Reclamo Administrativo,En revisión,2025-10-26,,17327.09,Córdoba
+562,36891973,Reclamo Administrativo,Aprobado,2024-12-16,2024-12-26,16723.82,Santa Fe
+563,24165829,Inscripción Registral,Observado,2025-09-27,2025-12-13,38515.94,Córdoba
+564,31241104,Alta De Comercio,Observado,2024-03-24,2024-04-21,15918.68,Misiones
+565,23720843,Solicitud De Subsidio,Observado,2023-01-12,2023-03-27,0.0,Salta
+566,23077396,Baja De Comercio,Aprobado,2025-06-20,2025-07-25,5788.02,Chaco
+567,20361830,Cambio De Domicilio,Rechazado,2024-02-17,2024-04-27,9663.9,Córdoba
+568,28749844,Baja De Comercio,Rechazado,2025-11-07,2025-08-08,761.68,Tucumán
+569,37753534,Renovación De Licencia,En revisión,2023-07-27,,30856.27,Misiones
+570,33081068,Solicitud De Subsidio,Aprobado,2025-03-05,2025-05-21,0.0,Neuquén
+571,43265424,Reclamo Administrativo,Iniciado,2023-05-10,,34719.35,Neuquén
+572,44690601,Cambio De Domicilio,En revisión,2023-01-12,,36697.0,Santa Fe
+573,30249526,Cambio De Domicilio,Aprobado,2025-01-28,2025-12-02,0.0,Santa Fe
+574,21882904,Inscripción Registral,Iniciado,2023-02-15,,33146.25,Chaco
+575,39221146,Cambio De Domicilio,En revisión,2025-04-20,,0.0,Buenos Aires
+576,29946673,Renovación De Licencia,Iniciado,2023-05-22,,0.0,Córdoba
+577,37347875,Reclamo Administrativo,En revisión,2025-01-25,,39391.91,Neuquén
+578,36025978,Certificado De Residencia,Aprobado,2023-03-19,2023-04-27,0.0,Chaco
+579,40133776,Certificado De Residencia,Rechazado,2023-06-05,2023-05-24,5936.31,Misiones
+580,33677886,Reclamo Administrativo,Iniciado,2023-06-24,,28574.22,Mendoza
+581,23579898,Baja De Comercio,Aprobado,2025-05-16,2025-06-17,47951.77,Misiones
+582,35637097,Baja De Comercio,Observado,2023-03-14,2023-04-27,12932.8,Neuquén
+583,30857838,Inscripción Registral,Rechazado,2024-10-08,2024-04-11,31418.65,Entre Ríos
+584,21798822,Inscripción Registral,Aprobado,2023-03-07,2023-08-18,0.0,Córdoba
+585,27918690,Cambio De Domicilio,Observado,2025-03-21,2025-04-08,5579.45,Misiones
+586,22988400,Cambio De Domicilio,En revisión,2025-11-12,,0.0,Neuquén
+587,43140908,Certificado De Residencia,Iniciado,2025-02-21,,0.0,Córdoba
+588,23077396,Cambio De Domicilio,Aprobado,2025-01-31,2025-04-18,27283.22,Buenos Aires
+589,25822902,Inscripción Registral,En revisión,2023-11-08,,0.0,Neuquén
+590,42470129,Inscripción Registral,Iniciado,2023-10-11,,0.0,Neuquén
+591,43186770,Cambio De Domicilio,Aprobado,2025-07-25,2025-08-19,0.0,Tucumán
+592,23444816,Cambio De Domicilio,Iniciado,2023-10-14,,6334.87,Mendoza
+593,41956117,Baja De Comercio,Aprobado,2025-04-13,2025-07-10,0.0,Santa Fe
+594,32627759,Cambio De Domicilio,Iniciado,2024-08-03,,21045.12,Santa Fe
+595,36838854,Inscripción Registral,Observado,2025-08-27,2025-07-11,47704.1,Neuquén
+596,38775731,Renovación De Licencia,Aprobado,2023-10-08,2023-09-20,19088.54,Córdoba
+597,23458283,Baja De Comercio,Iniciado,2023-05-04,,36981.68,Córdoba
+598,29234717,Baja De Comercio,Rechazado,2025-07-15,2025-04-09,0.0,Buenos Aires
+599,33023006,Cambio De Domicilio,Observado,2023-08-08,2023-10-17,13353.08,Santa Fe
+600,33144982,Baja De Comercio,Iniciado,2024-07-21,,26138.78,Córdoba
+601,32294682,Inscripción Registral,Observado,2023-09-02,2023-02-20,49641.22,Buenos Aires
+602,22382132,Renovación De Licencia,Iniciado,2024-06-08,,16463.58,Neuquén
+603,30504571,Certificado De Residencia,Iniciado,2023-02-05,,39290.66,Entre Ríos
+604,39803169,Inscripción Registral,Observado,2023-11-02,2023-02-15,39837.13,Tucumán
+605,33081068,Certificado De Residencia,Aprobado,2024-02-29,2024-03-21,7953.57,Tucumán
+606,37015716,Renovación De Licencia,Observado,2023-02-04,2023-04-08,0.0,Tucumán
+607,28407432,Alta De Comercio,Rechazado,2025-01-29,2025-03-15,20556.58,Mendoza
+608,39398947,Cambio De Domicilio,En revisión,2023-03-15,,33235.53,Santa Fe
+609,37753534,Renovación De Licencia,Rechazado,2024-04-22,2024-04-28,10791.87,Neuquén
+610,39316685,Baja De Comercio,Rechazado,2024-02-11,2024-05-01,0.0,Córdoba
+611,43583518,Solicitud De Subsidio,Aprobado,2025-03-19,2025-05-26,25173.14,Misiones
+612,39256358,Alta De Comercio,Rechazado,2024-04-29,2024-05-24,0.0,Salta
+613,30053260,Solicitud De Subsidio,En revisión,2025-04-22,,0.0,Salta
+614,43614472,Solicitud De Subsidio,Aprobado,2024-12-26,2025-04-03,43735.49,Tucumán
+615,29951908,Solicitud De Subsidio,En revisión,2024-05-07,,0.0,Entre Ríos
+616,43012830,Renovación De Licencia,Observado,2025-03-12,2026-01-03,15732.61,Tucumán
+617,25009043,Renovación De Licencia,Observado,2025-04-21,2025-06-28,12451.45,Misiones
+618,33144982,Baja De Comercio,Aprobado,2025-03-04,2025-04-16,2358.28,Buenos Aires
+619,44960314,Cambio De Domicilio,En revisión,2023-02-17,,0.0,Entre Ríos
+620,34843679,Alta De Comercio,Rechazado,2023-01-16,2023-02-14,26547.47,Córdoba
+621,20318987,Cambio De Domicilio,Iniciado,2023-06-17,,0.0,Mendoza
+622,20762870,Renovación De Licencia,Rechazado,2025-07-30,2025-10-21,47832.42,Neuquén
+623,32714537,Alta De Comercio,Rechazado,2023-02-10,2023-11-13,0.0,Buenos Aires
+624,23576476,Alta De Comercio,Observado,2023-07-12,2023-07-26,34575.64,Chaco
+625,26938186,Renovación De Licencia,Aprobado,2024-05-20,2024-05-08,30682.26,Buenos Aires
+626,29347198,Solicitud De Subsidio,Aprobado,2025-09-14,2025-01-12,11951.8,Entre Ríos
+627,38602995,Reclamo Administrativo,Observado,2023-03-03,2023-03-21,47109.21,Misiones
+628,35955142,Inscripción Registral,Iniciado,2024-02-21,,0.0,Buenos Aires
+629,23004934,Reclamo Administrativo,En revisión,2025-02-11,,31708.66,Entre Ríos
+630,22953456,Alta De Comercio,Rechazado,2024-07-07,2024-08-27,0.0,Buenos Aires
+631,41149276,Cambio De Domicilio,Iniciado,2023-04-09,,20192.6,Buenos Aires
+632,41407701,Alta De Comercio,En revisión,2024-11-17,,0.0,Mendoza
+633,33677886,Baja De Comercio,Aprobado,2024-01-03,2024-02-18,31505.73,Misiones
+634,24696228,Solicitud De Subsidio,Observado,2025-02-28,2025-03-27,12483.96,Buenos Aires
+635,26360159,Certificado De Residencia,Rechazado,2023-01-28,2023-02-22,10992.06,Neuquén
+636,36020513,Certificado De Residencia,Iniciado,2024-04-27,,25616.27,Neuquén
+637,23864454,Renovación De Licencia,Aprobado,2025-12-07,2025-08-18,20441.33,Neuquén
+638,32627759,Solicitud De Subsidio,Observado,2024-10-20,2025-02-01,7686.46,Neuquén
+639,32600775,Solicitud De Subsidio,Observado,2023-12-11,2023-12-14,47687.78,Córdoba
+640,34071698,Reclamo Administrativo,En revisión,2023-06-26,,20687.05,Misiones
+641,32515094,Certificado De Residencia,En revisión,2024-08-22,,0.0,Mendoza
+642,26480013,Cambio De Domicilio,Observado,2023-12-14,2024-01-13,44976.83,Misiones
+643,28749844,Reclamo Administrativo,Aprobado,2023-02-05,2023-03-05,17396.32,Santa Fe
+644,44593964,Baja De Comercio,Observado,2023-03-13,2023-04-28,39288.24,Salta
+645,36195489,Renovación De Licencia,Rechazado,2024-07-21,2024-10-10,33764.58,Santa Fe
+646,29125324,Alta De Comercio,Observado,2023-01-20,2023-02-03,0.0,Neuquén
+647,44983903,Renovación De Licencia,Observado,2025-02-27,2025-03-04,0.0,Misiones
+648,32180192,Reclamo Administrativo,Observado,2025-03-03,2025-04-23,41768.66,Misiones
+649,39221146,Inscripción Registral,Iniciado,2023-12-19,,47294.5,Buenos Aires
+650,39290668,Inscripción Registral,Iniciado,2023-12-02,,0.0,Misiones
+651,32834505,Baja De Comercio,Observado,2025-09-14,2025-10-11,0.0,Chaco
+652,22988400,Renovación De Licencia,Rechazado,2025-01-19,2025-06-04,38266.83,Santa Fe
+653,29174617,Certificado De Residencia,En revisión,2023-07-01,,46192.96,Neuquén
+654,23576476,Solicitud De Subsidio,Iniciado,2023-04-01,,46860.44,Tucumán
+655,41784860,Cambio De Domicilio,En revisión,2023-05-03,,47732.57,Santa Fe
+656,22977150,Certificado De Residencia,Aprobado,2024-02-29,2024-04-21,0.0,Santa Fe
+657,41455603,Cambio De Domicilio,Rechazado,2024-12-09,2024-09-27,25039.53,Entre Ríos
+658,21237409,Alta De Comercio,Iniciado,2025-07-27,,0.0,Santa Fe
+659,25379194,Solicitud De Subsidio,Aprobado,2025-04-14,2025-04-21,14131.89,Mendoza
+660,33385442,Alta De Comercio,En revisión,2023-08-02,,26942.0,Chaco
+661,23445693,Alta De Comercio,Observado,2024-08-20,2024-09-11,43969.98,Neuquén
+662,25127073,Solicitud De Subsidio,En revisión,2023-01-22,,28839.73,Chaco
+663,41511706,Cambio De Domicilio,En revisión,2025-06-21,,0.0,Entre Ríos
+664,43140908,Renovación De Licencia,Iniciado,2024-05-06,,20437.68,Córdoba
+665,34566177,Cambio De Domicilio,Rechazado,2024-09-17,2024-12-16,0.0,Misiones
+666,43728673,Baja De Comercio,Iniciado,2024-02-27,,31644.16,Santa Fe
+667,31523859,Inscripción Registral,Rechazado,2025-01-20,2025-04-17,46884.41,Salta
+668,37840292,Baja De Comercio,En revisión,2024-02-28,,16705.93,Chaco
+669,29347198,Solicitud De Subsidio,Iniciado,2025-09-23,,31360.13,Misiones
+670,37039896,Inscripción Registral,En revisión,2023-09-18,,33284.52,Neuquén
+671,31108749,Solicitud De Subsidio,Observado,2024-06-21,2024-07-29,14536.51,Misiones
+672,30995136,Certificado De Residencia,Rechazado,2023-01-10,2023-06-10,12146.41,Chaco
+673,29951908,Baja De Comercio,Rechazado,2025-09-12,2026-04-01,0.0,Neuquén
+674,30962874,Certificado De Residencia,Rechazado,2024-11-28,2025-01-31,25537.37,Santa Fe
+675,36045122,Certificado De Residencia,Aprobado,2024-08-06,2024-08-14,0.0,Mendoza
+676,24025763,Renovación De Licencia,Iniciado,2025-10-09,,19356.49,Chaco
+677,36428874,Baja De Comercio,Iniciado,2024-12-05,,39029.76,Entre Ríos
+678,37335584,Reclamo Administrativo,Aprobado,2025-08-20,2025-09-13,7447.53,Neuquén
+679,23004934,Baja De Comercio,En revisión,2023-03-09,,0.0,Mendoza
+680,43431337,Solicitud De Subsidio,Observado,2023-11-11,2023-11-25,26885.49,Chaco
+681,33144982,Reclamo Administrativo,Aprobado,2025-11-03,2025-04-30,26722.18,Entre Ríos
+682,34594181,Alta De Comercio,En revisión,2025-11-20,,18607.31,Chaco
+683,39296864,Inscripción Registral,Aprobado,2024-01-03,2024-04-20,0.0,Tucumán
+684,24805805,Alta De Comercio,Iniciado,2023-09-10,,0.0,Mendoza
+685,44240036,Alta De Comercio,Aprobado,2023-06-25,2023-08-09,15725.23,Chaco
+686,38498673,Baja De Comercio,Aprobado,2025-03-21,2025-02-05,24054.85,Misiones
+687,20682306,Certificado De Residencia,En revisión,2024-04-17,,1294.81,Santa Fe
+688,22646099,Baja De Comercio,Aprobado,2023-11-25,2023-12-07,34955.9,Misiones
+689,25703704,Renovación De Licencia,Observado,2023-02-16,2023-05-03,12132.99,Misiones
+690,21693022,Inscripción Registral,Rechazado,2024-03-25,2024-04-15,47799.53,Neuquén
+691,24846341,Solicitud De Subsidio,Rechazado,2025-08-21,2025-10-18,24889.24,Entre Ríos
+692,32652714,Inscripción Registral,Observado,2025-07-21,2025-10-10,25350.54,Neuquén
+693,25721435,Reclamo Administrativo,Iniciado,2025-12-17,,7238.2,Buenos Aires
+694,31099514,Inscripción Registral,En revisión,2023-05-17,,0.0,Córdoba
+695,20989296,Inscripción Registral,Aprobado,2024-11-17,2024-11-26,31854.18,Santa Fe
+696,32348674,Reclamo Administrativo,Aprobado,2023-08-16,2023-09-24,48173.22,Mendoza
+697,43085156,Solicitud De Subsidio,Rechazado,2024-03-20,2024-06-10,6921.96,Santa Fe
+698,24025763,Alta De Comercio,Aprobado,2025-08-25,2025-09-21,0.0,Córdoba
+699,29154893,Renovación De Licencia,En revisión,2024-05-19,,3419.73,Córdoba
+700,35441902,Baja De Comercio,En revisión,2024-10-05,,17577.85,Chaco
+701,35550863,Baja De Comercio,Observado,2025-08-11,2025-11-20,0.0,Entre Ríos
+702,38658282,Renovación De Licencia,Aprobado,2024-05-22,2024-07-23,25790.94,Chaco
+703,25916445,Reclamo Administrativo,Observado,2024-05-01,2024-05-02,48037.35,Santa Fe
+704,27348572,Cambio De Domicilio,Rechazado,2024-12-29,2025-03-27,0.0,Neuquén
+705,26306075,Reclamo Administrativo,Rechazado,2023-05-26,2023-06-17,12195.47,Mendoza
+706,27544493,Cambio De Domicilio,Aprobado,2024-03-08,2024-10-26,21184.83,Chaco
+707,25720262,Solicitud De Subsidio,En revisión,2023-09-27,,0.0,Tucumán
+708,34716036,Alta De Comercio,Rechazado,2025-02-19,2025-09-05,633.06,Chaco
+709,24225304,Certificado De Residencia,En revisión,2024-09-14,,11104.74,Entre Ríos
+710,27561308,Cambio De Domicilio,Observado,2025-04-11,2026-01-15,40709.88,Córdoba
+711,20762870,Renovación De Licencia,Aprobado,2025-09-03,2025-04-29,0.0,Misiones
+712,43748286,Certificado De Residencia,Observado,2025-08-05,2025-04-08,33533.72,Mendoza
+713,22622765,Renovación De Licencia,Rechazado,2024-02-02,2024-10-02,0.0,Salta
+714,30504571,Alta De Comercio,Observado,2024-05-22,2024-04-08,43664.33,Córdoba
+715,44664438,Baja De Comercio,En revisión,2025-08-02,,0.0,Tucumán
+716,29882378,Renovación De Licencia,En revisión,2025-05-17,,4591.07,Chaco
+717,23077396,Baja De Comercio,Observado,2024-02-15,2024-01-03,8291.53,Chaco
+718,31477130,Alta De Comercio,Rechazado,2023-12-03,2024-02-26,0.0,Santa Fe
+719,28063933,Renovación De Licencia,Iniciado,2024-06-03,,36288.47,Misiones
+720,41511706,Renovación De Licencia,En revisión,2024-05-29,,21856.7,Misiones
+721,23666460,Alta De Comercio,En revisión,2024-08-17,,0.0,Buenos Aires
+722,39316685,Inscripción Registral,Rechazado,2024-10-05,2024-07-30,0.0,Santa Fe
+723,28749844,Inscripción Registral,Observado,2025-09-17,2025-10-12,40618.0,Buenos Aires
+724,26306075,Renovación De Licencia,Observado,2025-12-11,2026-01-28,0.0,Salta
+725,36835225,Reclamo Administrativo,Observado,2025-10-08,2025-09-21,0.0,Córdoba
+726,36475471,Renovación De Licencia,Iniciado,2024-03-27,,0.0,Mendoza
+727,39474444,Certificado De Residencia,Rechazado,2023-07-08,2023-12-09,0.0,Mendoza
+728,43614472,Alta De Comercio,En revisión,2024-05-01,,13422.56,Buenos Aires
+729,42807362,Renovación De Licencia,Aprobado,2025-01-09,2025-06-09,28439.2,Chaco
+730,24025763,Inscripción Registral,Rechazado,2024-12-23,2025-01-02,14609.66,Mendoza
+731,21338058,Certificado De Residencia,Rechazado,2025-10-23,2025-11-06,0.0,Córdoba
+732,43419022,Reclamo Administrativo,Iniciado,2024-04-17,,0.0,Córdoba
+733,43748286,Renovación De Licencia,En revisión,2025-10-29,,0.0,Buenos Aires
+734,38498673,Renovación De Licencia,Aprobado,2023-01-27,2023-02-04,12701.9,Mendoza
+735,37168677,Solicitud De Subsidio,Iniciado,2023-08-15,,0.0,Salta
+736,34170504,Renovación De Licencia,Iniciado,2024-09-13,,9495.43,Misiones
+737,34587018,Solicitud De Subsidio,Rechazado,2023-07-08,2023-01-09,0.0,Mendoza
+738,25284953,Solicitud De Subsidio,Observado,2025-12-13,2026-03-02,0.0,Neuquén
+739,30962874,Certificado De Residencia,Observado,2025-01-15,2025-02-15,49001.23,Salta
+740,32348674,Renovación De Licencia,Aprobado,2025-04-22,2025-06-04,22623.1,Chaco
+741,36020513,Cambio De Domicilio,Aprobado,2024-03-12,2024-12-08,16094.83,Córdoba
+742,28130745,Solicitud De Subsidio,En revisión,2024-09-21,,39274.63,Chaco
+743,24805805,Alta De Comercio,Iniciado,2025-05-26,,30347.86,Córdoba
+744,20631038,Solicitud De Subsidio,Rechazado,2023-06-14,2023-06-27,0.0,Santa Fe
+745,22080700,Alta De Comercio,Rechazado,2023-12-13,2024-01-06,35718.6,Santa Fe
+746,29998521,Renovación De Licencia,En revisión,2023-09-27,,5731.71,Santa Fe
+747,42670288,Alta De Comercio,Aprobado,2025-03-19,2025-01-04,45091.21,Córdoba
+748,38775731,Solicitud De Subsidio,Iniciado,2025-04-15,,48540.16,Tucumán
+749,44575346,Certificado De Residencia,Observado,2024-06-16,2024-04-07,48639.7,Buenos Aires
+750,32127051,Solicitud De Subsidio,En revisión,2024-10-30,,23978.23,Córdoba
+751,36999031,Solicitud De Subsidio,En revisión,2025-04-15,,38348.17,Santa Fe
+752,29882378,Solicitud De Subsidio,Rechazado,2024-03-08,2024-10-29,23436.27,Neuquén
+753,35883177,Cambio De Domicilio,Iniciado,2024-11-18,,0.0,Neuquén
+754,43085156,Certificado De Residencia,Iniciado,2023-08-02,,24631.59,Misiones
+755,39316685,Inscripción Registral,En revisión,2023-04-17,,29261.17,Salta
+756,24007842,Solicitud De Subsidio,Aprobado,2023-03-13,2023-03-06,36157.57,Salta
+757,44895713,Baja De Comercio,Aprobado,2023-01-24,2023-03-23,8070.99,Salta
+758,44159591,Inscripción Registral,En revisión,2025-04-10,,14123.25,Buenos Aires
+759,31262896,Cambio De Domicilio,Observado,2025-10-08,2025-08-09,49258.12,Santa Fe
+760,20488551,Reclamo Administrativo,Rechazado,2023-12-30,2024-03-17,0.0,Córdoba
+761,38498673,Cambio De Domicilio,En revisión,2023-04-09,,12016.12,Salta
+762,41455603,Renovación De Licencia,Aprobado,2025-10-17,2025-11-10,20330.11,Buenos Aires
+763,32047355,Certificado De Residencia,Aprobado,2024-01-26,2024-03-02,31005.84,Buenos Aires
+764,41149276,Reclamo Administrativo,Aprobado,2025-03-25,2025-04-30,44880.5,Córdoba
+765,39256174,Renovación De Licencia,En revisión,2025-11-14,,23355.39,Córdoba
+766,27801837,Alta De Comercio,Iniciado,2023-03-12,,31316.1,Salta
+767,25833431,Cambio De Domicilio,Observado,2023-03-14,2023-08-05,46550.33,Tucumán
+768,37667469,Inscripción Registral,Aprobado,2024-11-13,2024-12-27,30878.01,Santa Fe
+769,31024831,Renovación De Licencia,Rechazado,2023-12-12,2024-01-28,23986.8,Buenos Aires
+770,37586469,Reclamo Administrativo,Observado,2025-09-17,2025-11-25,12803.37,Santa Fe
+771,32348674,Renovación De Licencia,Observado,2024-04-05,2024-07-18,2933.01,Neuquén
+772,23789250,Baja De Comercio,En revisión,2024-06-01,,46065.17,Tucumán
+773,39474444,Renovación De Licencia,Observado,2023-11-07,2023-05-09,8510.55,Tucumán
+774,25019072,Inscripción Registral,Rechazado,2023-11-29,2024-01-15,38516.27,Mendoza
+775,24846341,Inscripción Registral,Observado,2025-05-28,2025-01-06,39272.32,Santa Fe
+776,44756404,Reclamo Administrativo,Aprobado,2023-06-24,2023-09-22,0.0,Salta
+777,44226096,Solicitud De Subsidio,En revisión,2025-08-22,,21695.01,Chaco
+778,44983903,Alta De Comercio,Rechazado,2023-06-28,2023-07-16,0.0,Córdoba
+779,26700743,Solicitud De Subsidio,Aprobado,2023-05-10,2023-07-14,38144.4,Buenos Aires
+780,38498673,Reclamo Administrativo,Rechazado,2025-09-23,2025-08-12,0.0,Neuquén
+781,41045356,Renovación De Licencia,Aprobado,2024-03-24,2024-05-20,49713.69,Tucumán
+782,32526073,Baja De Comercio,Rechazado,2024-07-09,2024-09-17,11825.97,Chaco
+783,31864697,Renovación De Licencia,En revisión,2024-11-19,,48698.29,Entre Ríos
+784,25833431,Cambio De Domicilio,Observado,2025-05-02,2025-02-28,39947.34,Tucumán
+785,35116395,Reclamo Administrativo,Iniciado,2023-04-11,,0.0,Chaco
+786,39298586,Alta De Comercio,En revisión,2025-07-17,,0.0,Chaco
+787,27957069,Certificado De Residencia,Observado,2023-01-10,2023-12-19,45107.93,Mendoza
+788,40434437,Baja De Comercio,Aprobado,2023-05-05,2023-07-27,9985.59,Misiones
+789,23354364,Certificado De Residencia,En revisión,2025-11-01,,0.0,Córdoba
+790,39443687,Solicitud De Subsidio,En revisión,2025-09-22,,2143.41,Mendoza
+791,43103303,Solicitud De Subsidio,Observado,2023-04-17,2023-06-21,0.0,Córdoba
+792,34064250,Reclamo Administrativo,Iniciado,2023-02-13,,25505.25,Córdoba
+793,26769896,Inscripción Registral,Aprobado,2025-08-21,2025-09-13,3147.62,Misiones
+794,22060838,Certificado De Residencia,Iniciado,2024-06-01,,32268.46,Entre Ríos
+795,33183418,Solicitud De Subsidio,Observado,2024-06-06,2024-06-22,44297.56,Neuquén
+796,29651317,Certificado De Residencia,Aprobado,2025-04-20,2025-05-31,0.0,Mendoza
+797,27313676,Reclamo Administrativo,Iniciado,2024-03-10,,13756.08,Misiones
+798,20138372,Cambio De Domicilio,Observado,2025-12-17,2026-02-13,49273.86,Chaco
+799,23576476,Cambio De Domicilio,Rechazado,2024-02-01,2024-02-22,0.0,Córdoba
+800,43373732,Renovación De Licencia,En revisión,2024-04-27,,23334.8,Buenos Aires
+801,23576476,Certificado De Residencia,Observado,2024-09-18,2024-12-08,27613.18,Mendoza
+802,33553062,Solicitud De Subsidio,Rechazado,2024-04-05,2024-05-16,29686.82,Chaco
+803,27441374,Cambio De Domicilio,Rechazado,2023-01-22,2023-03-04,43384.55,Córdoba
+804,34381858,Certificado De Residencia,Iniciado,2024-06-22,,673.66,Tucumán
+805,44668214,Inscripción Registral,Observado,2025-01-05,2025-02-23,21926.12,Salta
+806,32294682,Inscripción Registral,Aprobado,2024-01-12,2024-01-24,35351.94,Mendoza
+807,31862764,Inscripción Registral,Iniciado,2024-08-01,,30898.87,Neuquén
+808,26103019,Inscripción Registral,Observado,2023-04-04,2023-04-06,0.0,Santa Fe
+809,39832095,Reclamo Administrativo,Observado,2024-10-02,2024-04-23,39353.13,Misiones
+810,29212279,Alta De Comercio,Observado,2023-07-14,2023-09-24,18522.18,Neuquén
+811,29631618,Certificado De Residencia,En revisión,2024-11-14,,0.0,Buenos Aires
+812,41169040,Certificado De Residencia,En revisión,2025-11-01,,1227.28,Misiones
+813,39031404,Alta De Comercio,Observado,2025-09-30,2025-11-17,25769.59,Córdoba
+814,23444816,Baja De Comercio,Rechazado,2023-02-05,2023-06-30,30305.1,Córdoba
+815,24788669,Baja De Comercio,Observado,2025-10-20,2025-08-11,8554.58,Chaco
+816,27277078,Solicitud De Subsidio,Observado,2025-11-17,2026-01-02,5709.17,Tucumán
+817,33553062,Renovación De Licencia,Rechazado,2023-04-08,2023-10-08,0.0,Neuquén
+818,28898649,Cambio De Domicilio,Iniciado,2024-11-25,,0.0,Santa Fe
+819,34079232,Baja De Comercio,En revisión,2023-11-17,,44427.5,Tucumán
+820,39031404,Baja De Comercio,Iniciado,2025-05-18,,0.0,Salta
+821,23622597,Inscripción Registral,Rechazado,2025-11-05,2025-07-20,3416.41,Misiones
+822,23303203,Renovación De Licencia,Iniciado,2024-01-24,,0.0,Córdoba
+823,25019072,Inscripción Registral,En revisión,2025-12-13,,3135.39,Mendoza
+824,29495860,Inscripción Registral,Iniciado,2024-06-25,,0.0,Córdoba
+825,21473201,Inscripción Registral,Observado,2024-11-11,2024-12-21,39973.71,Salta
+826,26402255,Inscripción Registral,Observado,2024-08-10,2024-12-21,47849.22,Salta
+827,42217569,Certificado De Residencia,Observado,2025-12-21,2026-02-25,11054.26,Córdoba
+828,38099899,Reclamo Administrativo,Aprobado,2024-04-02,2024-03-18,0.0,Entre Ríos
+829,41511706,Cambio De Domicilio,Aprobado,2023-04-10,2023-11-12,26732.01,Tucumán
+830,34410072,Certificado De Residencia,Rechazado,2024-07-16,2024-07-21,44604.29,Misiones
+831,29902086,Inscripción Registral,Observado,2025-11-12,2026-01-19,0.0,Buenos Aires
+832,37346622,Solicitud De Subsidio,Aprobado,2025-09-17,2025-09-24,22724.79,Córdoba
+833,31504069,Renovación De Licencia,Rechazado,2023-01-26,2023-02-16,5803.44,Tucumán
+834,42670288,Alta De Comercio,Observado,2023-12-15,2023-12-29,39056.0,Córdoba
+835,33984667,Certificado De Residencia,Iniciado,2023-07-02,,0.0,Buenos Aires
+836,44593964,Inscripción Registral,Observado,2024-12-12,2025-01-29,49911.44,Santa Fe
+837,24007842,Inscripción Registral,Rechazado,2025-02-06,2025-03-19,43066.61,Buenos Aires
+838,40005950,Inscripción Registral,Aprobado,2023-10-16,2023-10-31,0.0,Chaco
+839,32348674,Certificado De Residencia,Rechazado,2025-12-26,2026-01-20,32373.71,Córdoba
+840,38272481,Solicitud De Subsidio,Iniciado,2024-05-01,,0.0,Neuquén
+841,25721435,Renovación De Licencia,Iniciado,2023-10-26,,2757.55,Tucumán
+842,30962874,Alta De Comercio,Iniciado,2025-12-25,,44084.76,Santa Fe
+843,34410072,Cambio De Domicilio,Aprobado,2024-12-20,2025-03-02,2762.38,Buenos Aires
+844,23303203,Renovación De Licencia,Rechazado,2024-12-23,2025-02-24,47173.78,Misiones
+845,23303203,Certificado De Residencia,Iniciado,2023-12-31,,2682.4,Mendoza
+846,21499295,Baja De Comercio,Observado,2023-04-02,2023-11-03,15684.46,Entre Ríos
+847,22954177,Certificado De Residencia,Iniciado,2025-12-08,,0.0,Santa Fe
+848,21693022,Reclamo Administrativo,Iniciado,2025-11-10,,6935.39,Tucumán
+849,43884350,Baja De Comercio,Rechazado,2023-12-01,2023-03-22,15731.91,Córdoba
+850,43373732,Reclamo Administrativo,Iniciado,2024-09-20,,12592.12,Misiones
+851,20723628,Baja De Comercio,Rechazado,2023-11-28,2024-02-02,0.0,Santa Fe
+852,37096865,Inscripción Registral,Aprobado,2023-07-08,2023-02-11,4842.48,Neuquén
+853,43085156,Cambio De Domicilio,Aprobado,2024-05-29,2024-06-20,0.0,Entre Ríos
+854,27301839,Certificado De Residencia,Observado,2024-01-03,2024-03-25,0.0,Entre Ríos
+855,34306582,Renovación De Licencia,En revisión,2025-01-31,,21856.73,Córdoba
+856,32383973,Certificado De Residencia,Iniciado,2023-10-23,,28494.4,Córdoba
+857,31123801,Inscripción Registral,Rechazado,2024-02-15,2024-03-14,34668.24,Córdoba
+858,37790526,Inscripción Registral,Observado,2024-06-02,2024-04-13,3824.85,Neuquén
+859,31057585,Solicitud De Subsidio,Observado,2024-07-15,2024-09-28,33039.15,Santa Fe
+860,27950590,Cambio De Domicilio,Rechazado,2025-12-24,2026-01-14,7195.88,Buenos Aires
+861,29946673,Solicitud De Subsidio,Iniciado,2024-09-04,,46265.46,Córdoba
+862,42560013,Cambio De Domicilio,Rechazado,2025-02-13,2025-04-01,6815.24,Buenos Aires
+863,37386339,Baja De Comercio,En revisión,2023-05-25,,18279.18,Córdoba
+864,43886539,Alta De Comercio,Aprobado,2024-01-15,2024-02-09,20654.32,Buenos Aires
+865,39803169,Certificado De Residencia,Aprobado,2023-10-14,2023-12-30,0.0,Misiones
+866,24805805,Renovación De Licencia,En revisión,2023-07-31,,21077.67,Córdoba
+867,24884998,Renovación De Licencia,Aprobado,2023-05-11,2023-12-24,0.0,Mendoza
+868,24788669,Reclamo Administrativo,Aprobado,2023-02-04,2023-04-11,0.0,Córdoba
+869,35637097,Inscripción Registral,Rechazado,2024-07-05,2024-09-05,42151.01,Chaco
+870,36586173,Baja De Comercio,Rechazado,2025-05-01,2025-04-02,18402.69,Tucumán
+871,33677886,Reclamo Administrativo,Aprobado,2025-05-31,2025-08-23,36005.35,Entre Ríos
+872,41439587,Baja De Comercio,Aprobado,2025-09-27,2025-12-19,42402.21,Salta
+873,20558243,Solicitud De Subsidio,Iniciado,2025-01-08,,33440.5,Entre Ríos
+874,31178476,Alta De Comercio,Aprobado,2025-07-09,2025-10-12,37125.31,Santa Fe
+875,31454044,Reclamo Administrativo,Aprobado,2023-01-26,2023-06-02,28205.43,Santa Fe
+876,31862764,Renovación De Licencia,Rechazado,2023-05-21,2023-06-14,12653.37,Buenos Aires
+877,33183418,Certificado De Residencia,Iniciado,2025-04-14,,19006.17,Entre Ríos
+878,31227565,Solicitud De Subsidio,Rechazado,2023-09-24,2023-12-22,20368.14,Tucumán
+879,40242901,Reclamo Administrativo,En revisión,2023-07-13,,0.0,Salta
+880,29347198,Alta De Comercio,Observado,2023-03-13,2023-01-05,0.0,Tucumán
+881,34327185,Renovación De Licencia,Iniciado,2024-09-18,,25648.26,Santa Fe
+882,34834600,Reclamo Administrativo,Observado,2023-09-17,2023-06-10,9495.33,Mendoza
+883,23666460,Alta De Comercio,Rechazado,2023-06-04,2023-12-05,6565.72,Buenos Aires
+884,25833431,Reclamo Administrativo,Observado,2023-03-24,2023-07-06,0.0,Buenos Aires
+885,40250556,Cambio De Domicilio,Observado,2025-03-02,2025-04-24,26940.82,Córdoba
+886,22497804,Baja De Comercio,Observado,2025-03-17,2025-02-05,36629.53,Misiones
+887,27715175,Baja De Comercio,Aprobado,2024-09-01,2024-01-30,13719.43,Chaco
+888,38272481,Renovación De Licencia,Iniciado,2025-09-22,,43827.95,Mendoza
+889,38775731,Reclamo Administrativo,Rechazado,2023-03-19,2023-05-16,0.0,Tucumán
+890,32044670,Inscripción Registral,Iniciado,2024-09-30,,0.0,Entre Ríos
+891,20989296,Renovación De Licencia,Observado,2025-11-23,2026-02-16,0.0,Santa Fe
+892,42560013,Alta De Comercio,Aprobado,2025-11-27,2025-12-21,11722.1,Córdoba
+893,39201794,Alta De Comercio,Rechazado,2024-11-21,2025-01-28,0.0,Neuquén
+894,27041252,Reclamo Administrativo,Aprobado,2023-12-29,2024-01-18,28992.87,Chaco
+895,43251076,Inscripción Registral,Aprobado,2024-12-29,2025-01-15,8864.31,Chaco
+896,37586469,Baja De Comercio,Observado,2024-01-11,2024-11-26,42716.77,Mendoza
+897,27301839,Reclamo Administrativo,En revisión,2023-03-03,,48613.65,Córdoba
+898,36569018,Reclamo Administrativo,Observado,2023-06-01,2023-07-30,0.0,Buenos Aires
+899,21406130,Reclamo Administrativo,Iniciado,2025-02-10,,32417.9,Misiones
+900,42807362,Baja De Comercio,Observado,2025-11-10,2026-06-01,46190.62,Misiones
+901,38416387,Solicitud De Subsidio,Rechazado,2023-07-23,2023-09-23,48994.06,Santa Fe
+902,44159591,Renovación De Licencia,En revisión,2025-02-25,,0.0,Misiones
+903,41802627,Baja De Comercio,En revisión,2023-11-04,,20548.86,Neuquén
+904,37684955,Reclamo Administrativo,En revisión,2024-04-19,,0.0,Córdoba
+905,41543250,Solicitud De Subsidio,Iniciado,2025-01-20,,812.49,Mendoza
+906,41037707,Inscripción Registral,Aprobado,2023-08-19,2023-09-04,11377.7,Salta
+907,39803169,Cambio De Domicilio,Observado,2025-02-24,2025-02-04,3631.25,Chaco
+908,21798822,Baja De Comercio,Aprobado,2024-02-28,2024-04-09,21691.89,Córdoba
+909,24806722,Solicitud De Subsidio,Observado,2024-11-15,2025-10-02,0.0,Entre Ríos
+910,44639675,Renovación De Licencia,Observado,2023-07-30,2023-02-10,0.0,Santa Fe
+911,43373732,Certificado De Residencia,Iniciado,2025-06-14,,0.0,Tucumán
+912,43547809,Reclamo Administrativo,En revisión,2025-02-14,,26833.02,Salta
+913,27313676,Baja De Comercio,Observado,2024-06-26,2024-01-09,11950.55,Santa Fe
+914,31560470,Certificado De Residencia,Rechazado,2025-12-02,2025-07-05,17944.64,Mendoza
+915,33640372,Reclamo Administrativo,Aprobado,2024-05-28,2024-06-23,2028.42,Neuquén
+916,27277078,Renovación De Licencia,En revisión,2025-03-12,,29511.63,Buenos Aires
+917,35626143,Certificado De Residencia,Rechazado,2024-10-10,2024-11-28,0.0,Salta
+918,39893718,Certificado De Residencia,Rechazado,2025-07-31,2025-09-20,29857.75,Córdoba
+919,35637097,Reclamo Administrativo,En revisión,2024-04-29,,0.0,Salta
+920,39555733,Certificado De Residencia,Aprobado,2024-07-09,2024-08-19,48765.05,Neuquén
+921,33452805,Baja De Comercio,Rechazado,2023-03-29,2023-05-25,10691.49,Neuquén
+922,23418124,Alta De Comercio,Iniciado,2025-02-12,,23402.29,Salta
+923,35775508,Inscripción Registral,En revisión,2023-10-16,,30780.34,Tucumán
+924,23601212,Solicitud De Subsidio,Rechazado,2025-08-19,2025-09-20,35597.32,Tucumán
+925,44215038,Cambio De Domicilio,Rechazado,2024-09-22,2024-04-12,0.0,Neuquén
+926,25018440,Baja De Comercio,Rechazado,2023-07-27,2023-08-30,0.0,Chaco
+927,30249526,Solicitud De Subsidio,Observado,2023-05-16,2023-10-08,0.0,Neuquén
+928,29428817,Alta De Comercio,En revisión,2025-04-14,,24207.04,Misiones
+929,21693022,Inscripción Registral,En revisión,2023-07-26,,0.0,Santa Fe
+930,43991912,Solicitud De Subsidio,En revisión,2025-07-18,,0.0,Neuquén
+931,40825715,Baja De Comercio,Observado,2025-04-08,2025-04-15,0.0,Chaco
+932,34973941,Reclamo Administrativo,Rechazado,2023-07-09,2023-10-23,31586.22,Buenos Aires
+933,31178476,Cambio De Domicilio,Rechazado,2024-08-03,2024-03-19,0.0,Entre Ríos
+934,39277865,Inscripción Registral,Rechazado,2025-04-07,2025-02-08,0.0,Salta
+935,36080448,Cambio De Domicilio,En revisión,2023-11-21,,0.0,Mendoza
+936,38498673,Reclamo Administrativo,Iniciado,2024-03-27,,2117.14,Entre Ríos
+937,36685857,Baja De Comercio,Observado,2024-02-12,2025-07-01,0.0,Tucumán
+938,37777624,Renovación De Licencia,Iniciado,2023-08-27,,27059.8,Entre Ríos
+939,35116395,Reclamo Administrativo,En revisión,2023-02-10,,9468.11,Santa Fe
+940,36516388,Cambio De Domicilio,En revisión,2024-01-13,,1303.96,Neuquén
+941,38498673,Cambio De Domicilio,En revisión,2023-09-21,,10264.79,Chaco
+942,38125852,Reclamo Administrativo,Iniciado,2023-08-01,,0.0,Salta
+943,44159591,Inscripción Registral,Rechazado,2025-09-02,2025-11-20,14260.7,Buenos Aires
+944,40005950,Solicitud De Subsidio,En revisión,2025-01-18,,0.0,Santa Fe
+945,29977515,Certificado De Residencia,En revisión,2023-11-05,,4997.92,Santa Fe
+946,31560470,Renovación De Licencia,Aprobado,2023-06-26,2023-03-07,33197.42,Córdoba
+947,36737866,Reclamo Administrativo,Rechazado,2023-09-03,2023-04-20,2977.3,Misiones
+948,37586469,Baja De Comercio,Observado,2024-06-24,2024-08-20,8199.82,Neuquén
+949,33887158,Solicitud De Subsidio,Rechazado,2025-09-15,2025-05-11,24530.66,Chaco
+950,37720478,Alta De Comercio,Iniciado,2023-03-08,,0.0,Misiones
+951,42005029,Reclamo Administrativo,Observado,2025-04-07,2025-04-13,42825.36,Chaco
+952,44960314,Cambio De Domicilio,Iniciado,2024-04-15,,5626.67,Neuquén
+953,21338058,Alta De Comercio,Aprobado,2025-01-08,2025-01-31,9187.39,Salta
+954,33677886,Baja De Comercio,En revisión,2025-09-11,,0.0,Santa Fe
+955,40648640,Solicitud De Subsidio,Rechazado,2024-03-05,2024-05-26,0.0,Misiones
+956,32834505,Solicitud De Subsidio,En revisión,2025-05-12,,43921.85,Tucumán
+957,31262896,Inscripción Registral,Observado,2025-08-01,2025-03-13,0.0,Entre Ríos
+958,39832095,Cambio De Domicilio,Observado,2023-12-15,2024-12-03,31383.75,Salta
+959,42533822,Reclamo Administrativo,En revisión,2025-04-24,,9656.83,Chaco
+960,20460812,Baja De Comercio,En revisión,2025-09-28,,4487.39,Misiones
+961,41657472,Baja De Comercio,En revisión,2025-03-02,,28848.88,Santa Fe
+962,43148116,Cambio De Domicilio,Aprobado,2024-10-25,2024-09-11,16132.33,Neuquén
+963,25495891,Baja De Comercio,En revisión,2025-11-16,,41420.07,Santa Fe
+964,31099514,Renovación De Licencia,Rechazado,2024-09-15,2024-03-11,0.0,Misiones
+965,36586173,Baja De Comercio,Iniciado,2025-03-07,,0.0,Santa Fe
+966,29347198,Alta De Comercio,Aprobado,2023-12-16,2024-01-23,27400.27,Salta
+967,31472691,Inscripción Registral,Iniciado,2024-01-28,,19778.44,Santa Fe
+968,41455603,Baja De Comercio,Iniciado,2025-07-06,,32094.91,Entre Ríos
+969,34498085,Solicitud De Subsidio,Aprobado,2024-10-02,2024-03-31,29991.77,Mendoza
+970,40982358,Reclamo Administrativo,En revisión,2023-11-25,,0.0,Tucumán
+971,30962874,Cambio De Domicilio,Iniciado,2024-06-19,,36770.58,Neuquén
+972,44104258,Baja De Comercio,Iniciado,2024-08-20,,28980.68,Santa Fe
+973,43419022,Renovación De Licencia,En revisión,2025-03-26,,0.0,Santa Fe
+974,31541238,Baja De Comercio,Iniciado,2023-07-09,,0.0,Córdoba
+975,27811165,Solicitud De Subsidio,Aprobado,2023-06-07,2023-09-25,46798.22,Santa Fe
+976,33429675,Renovación De Licencia,Observado,2025-01-26,2025-02-17,26932.1,Chaco
+977,27059399,Baja De Comercio,En revisión,2024-03-24,,33822.16,Mendoza
+978,26306075,Alta De Comercio,Rechazado,2025-08-21,2025-10-13,9263.14,Mendoza
+979,32180192,Alta De Comercio,Observado,2023-12-22,2024-01-31,8175.1,Santa Fe
+980,25284953,Baja De Comercio,En revisión,2025-05-21,,0.0,Neuquén
+981,27348572,Reclamo Administrativo,Observado,2025-01-11,2026-02-01,0.0,Entre Ríos
+982,23458283,Solicitud De Subsidio,En revisión,2024-03-17,,31247.91,Chaco
+983,31477130,Inscripción Registral,Iniciado,2025-09-08,,0.0,Chaco
+984,33144982,Baja De Comercio,Iniciado,2024-05-23,,18747.65,Salta
+985,34843168,Inscripción Registral,Rechazado,2023-06-17,2023-09-07,22686.76,Misiones
+986,26402255,Solicitud De Subsidio,Observado,2025-03-18,2025-08-04,37039.62,Neuquén
+987,44664438,Baja De Comercio,Rechazado,2024-02-27,2024-02-04,3614.99,Neuquén
+988,29668585,Certificado De Residencia,Rechazado,2025-05-11,2025-08-11,28177.92,Neuquén
+989,43029703,Solicitud De Subsidio,Rechazado,2025-08-14,2025-09-19,12505.33,Misiones
+990,33887158,Reclamo Administrativo,En revisión,2025-05-13,,13628.44,Neuquén
+991,27544493,Inscripción Registral,Observado,2024-02-22,2024-04-13,0.0,Chaco
+992,38058086,Renovación De Licencia,Rechazado,2025-10-08,2025-01-10,0.0,Mendoza
+993,41455603,Cambio De Domicilio,Observado,2023-06-13,2023-08-22,15603.5,Misiones
+994,35746723,Solicitud De Subsidio,Observado,2024-05-02,2024-04-22,0.0,Santa Fe
+995,34763601,Renovación De Licencia,Aprobado,2024-04-20,2024-04-22,5540.21,Neuquén
+996,23680864,Reclamo Administrativo,En revisión,2025-06-14,,28118.93,Mendoza
+997,41511706,Solicitud De Subsidio,Observado,2025-09-18,2025-12-13,25381.35,Buenos Aires
+998,25721435,Renovación De Licencia,Observado,2023-06-15,2023-08-15,18931.88,Buenos Aires
+999,36128405,Baja De Comercio,Aprobado,2025-01-11,2025-09-12,14075.81,Salta
+1000,41037707,Reclamo Administrativo,Rechazado,2023-08-26,2023-10-13,16518.56,Neuquén
+1001,27059399,Baja De Comercio,Rechazado,2023-01-18,2023-02-05,30644.93,Mendoza
+1002,23004934,Certificado De Residencia,Rechazado,2024-01-06,2024-05-06,34394.35,Neuquén
+1003,40825715,Cambio De Domicilio,Observado,2023-10-24,2023-12-19,0.0,Santa Fe
+1004,37347875,Renovación De Licencia,Aprobado,2023-05-08,2023-09-19,0.0,Córdoba
+1005,38125852,Baja De Comercio,Rechazado,2024-06-28,2024-07-29,0.0,Misiones
+1006,43251076,Inscripción Registral,Observado,2023-06-23,2023-07-08,29430.57,Entre Ríos
+1007,26376137,Certificado De Residencia,Aprobado,2025-06-27,2025-10-07,3794.73,Buenos Aires
+1008,29343487,Solicitud De Subsidio,Iniciado,2025-07-23,,15709.19,Entre Ríos
+1009,26306075,Alta De Comercio,Aprobado,2023-11-01,2023-11-20,29238.76,Neuquén
+1010,35904434,Renovación De Licencia,En revisión,2023-07-27,,24672.35,Mendoza
+1011,29902086,Reclamo Administrativo,Iniciado,2024-10-26,,0.0,Misiones
+1012,33984667,Certificado De Residencia,En revisión,2024-06-30,,0.0,Misiones
+1013,43878690,Baja De Comercio,En revisión,2024-04-21,,0.0,Tucumán
+1014,43140908,Cambio De Domicilio,Aprobado,2025-07-21,2025-10-14,25838.26,Entre Ríos
+1015,26769896,Certificado De Residencia,Rechazado,2024-06-17,2024-12-07,37244.18,Neuquén
+1016,36757650,Cambio De Domicilio,Observado,2024-12-30,2025-08-01,29589.21,Salta
+1017,21241639,Renovación De Licencia,Aprobado,2024-01-22,2024-06-03,24244.68,Misiones
+1018,34151240,Reclamo Administrativo,Aprobado,2023-04-27,2023-05-18,32702.28,Misiones
+1019,43119827,Certificado De Residencia,Aprobado,2025-09-11,2026-01-28,28271.48,Chaco
+1020,35352660,Baja De Comercio,Observado,2025-02-12,2025-03-29,7601.23,Neuquén
+1021,42983916,Alta De Comercio,Observado,2024-10-27,2025-01-13,32145.24,Chaco
+1022,30504571,Solicitud De Subsidio,Rechazado,2023-04-06,2023-06-06,39600.42,Mendoza
+1023,26769896,Reclamo Administrativo,Rechazado,2024-07-22,2024-12-08,36442.91,Mendoza
+1024,26360159,Alta De Comercio,Observado,2024-06-25,2024-08-08,0.0,Entre Ríos
+1025,37753534,Renovación De Licencia,Iniciado,2023-08-25,,22542.1,Entre Ríos
+1026,21654605,Reclamo Administrativo,En revisión,2024-06-21,,11440.05,Córdoba
+1027,39142372,Certificado De Residencia,Observado,2025-11-13,2026-01-21,6763.56,Córdoba
+1028,44215038,Alta De Comercio,Observado,2024-11-22,2024-12-23,42715.15,Tucumán
+1029,20762870,Renovación De Licencia,Aprobado,2024-06-01,2024-02-20,42851.47,Buenos Aires
+1030,29218510,Solicitud De Subsidio,Aprobado,2023-07-12,2023-12-15,20322.82,Misiones
+1031,31435416,Baja De Comercio,En revisión,2024-11-08,,11243.13,Neuquén
+1032,33339832,Renovación De Licencia,Observado,2024-10-31,2024-02-12,48783.67,Salta
+1033,37667469,Certificado De Residencia,Aprobado,2024-10-18,2025-08-01,43108.32,Mendoza
+1034,32199762,Alta De Comercio,Rechazado,2024-02-08,2024-10-14,12681.92,Neuquén
+1035,31099514,Cambio De Domicilio,En revisión,2024-09-01,,0.0,Santa Fe
+1036,20318987,Reclamo Administrativo,Observado,2024-02-13,2024-07-04,0.0,Misiones
+1037,39759241,Alta De Comercio,Rechazado,2025-01-23,2025-02-25,47965.53,Mendoza
+1038,27277078,Reclamo Administrativo,Observado,2023-05-21,2023-11-08,0.0,Misiones
+1039,43431337,Renovación De Licencia,Iniciado,2024-11-09,,0.0,Santa Fe
+1040,35169289,Solicitud De Subsidio,Iniciado,2024-06-02,,26678.99,Neuquén
+1041,28130745,Reclamo Administrativo,En revisión,2023-01-20,,0.0,Neuquén
+1042,27811165,Certificado De Residencia,Observado,2024-10-02,2024-04-03,6038.35,Entre Ríos
+1043,36800697,Alta De Comercio,Rechazado,2023-09-27,2023-10-15,1553.01,Misiones
+1044,29234717,Reclamo Administrativo,Iniciado,2025-10-31,,10553.21,Neuquén
+1045,31123801,Cambio De Domicilio,Observado,2025-01-23,2025-01-02,0.0,Mendoza
+1046,26306075,Certificado De Residencia,Rechazado,2025-09-23,2025-10-30,0.0,Buenos Aires
+1047,40648640,Reclamo Administrativo,Aprobado,2025-09-15,2025-10-10,20096.95,Santa Fe
+1048,38058086,Baja De Comercio,Aprobado,2024-11-25,2024-12-04,36345.98,Chaco
+1049,20762870,Alta De Comercio,Iniciado,2025-09-14,,35510.17,Neuquén
+1050,27801837,Baja De Comercio,Iniciado,2024-05-06,,0.0,Misiones
+1051,42325123,Solicitud De Subsidio,Iniciado,2023-04-11,,0.0,Chaco
+1052,42670288,Solicitud De Subsidio,Observado,2024-09-01,2024-03-21,0.0,Chaco
+1053,31472691,Solicitud De Subsidio,En revisión,2025-05-19,,0.0,Neuquén
+1054,31066374,Reclamo Administrativo,Iniciado,2025-03-02,,11148.06,Santa Fe
+1055,43431337,Baja De Comercio,Rechazado,2025-09-14,2025-11-11,2073.98,Mendoza
+1056,40774671,Cambio De Domicilio,Rechazado,2025-11-23,2025-12-11,17278.73,Entre Ríos
+1057,23576476,Baja De Comercio,Iniciado,2025-05-05,,1786.84,Neuquén
+1058,41753347,Certificado De Residencia,Iniciado,2024-09-18,,0.0,Salta
+1059,41802627,Certificado De Residencia,Iniciado,2025-09-24,,0.0,Buenos Aires
+1060,38044037,Alta De Comercio,Aprobado,2025-02-14,2025-03-22,27584.3,Córdoba
+1061,37894197,Cambio De Domicilio,Iniciado,2024-10-29,,0.0,Mendoza
+1062,23789250,Alta De Comercio,Aprobado,2025-06-09,2025-06-26,0.0,Neuquén
+1063,25018440,Solicitud De Subsidio,Iniciado,2023-09-30,,39992.9,Santa Fe
+1064,35076250,Reclamo Administrativo,Observado,2024-08-09,2024-09-11,0.0,Salta
+1065,40005950,Renovación De Licencia,Rechazado,2025-02-09,2025-11-19,41444.48,Misiones
+1066,37043962,Alta De Comercio,Iniciado,2023-12-10,,16323.62,Neuquén
+1067,29560594,Reclamo Administrativo,En revisión,2025-08-22,,13137.31,Misiones
+1068,38581904,Renovación De Licencia,En revisión,2024-02-25,,0.0,Misiones
+1069,36128405,Alta De Comercio,Rechazado,2023-06-12,2023-05-09,14933.01,Santa Fe
+1070,22574665,Cambio De Domicilio,Rechazado,2023-12-19,2024-01-27,39378.44,Tucumán
+1071,37399215,Renovación De Licencia,Aprobado,2024-08-02,2024-07-10,28917.17,Entre Ríos
+1072,36188931,Baja De Comercio,Rechazado,2024-05-21,2024-06-14,37302.28,Santa Fe
+1073,20495191,Cambio De Domicilio,Aprobado,2025-09-12,2025-10-25,1399.6,Mendoza
+1074,44960314,Renovación De Licencia,Rechazado,2025-11-03,2026-01-01,12980.07,Buenos Aires
+1075,44664438,Cambio De Domicilio,Observado,2025-07-03,2025-03-19,46724.03,Neuquén
+1076,41543250,Renovación De Licencia,Observado,2023-03-15,2023-05-13,15359.98,Córdoba
+1077,41410185,Reclamo Administrativo,Rechazado,2024-03-02,2024-05-03,1641.35,Neuquén
+1078,34064250,Alta De Comercio,Aprobado,2023-07-31,2023-10-27,0.0,Córdoba
+1079,31734535,Inscripción Registral,Iniciado,2025-04-23,,25311.8,Tucumán
+1080,34666248,Renovación De Licencia,Iniciado,2025-02-18,,10570.94,Tucumán
+1081,39398947,Solicitud De Subsidio,Rechazado,2024-03-02,2024-07-02,0.0,Buenos Aires
+1082,44401950,Solicitud De Subsidio,Iniciado,2025-01-05,,35463.83,Córdoba
+1083,30995136,Cambio De Domicilio,En revisión,2024-02-06,,0.0,Salta
+1084,36685857,Alta De Comercio,Iniciado,2023-02-09,,34596.95,Chaco
+1085,37586469,Reclamo Administrativo,Aprobado,2023-04-01,2023-03-27,17549.82,Buenos Aires
+1086,23004934,Baja De Comercio,Iniciado,2024-01-26,,27673.13,Córdoba
+1087,38900916,Solicitud De Subsidio,Aprobado,2024-11-10,2024-12-25,3511.2,Mendoza
+1088,20086075,Alta De Comercio,Aprobado,2024-07-09,2024-01-11,0.0,Santa Fe
+1089,25284953,Reclamo Administrativo,En revisión,2025-08-05,,0.0,Tucumán
+1090,29678947,Reclamo Administrativo,Aprobado,2025-11-13,2025-11-15,15946.8,Tucumán
+1091,31795578,Reclamo Administrativo,En revisión,2024-06-14,,19449.56,Córdoba
+1092,42217569,Cambio De Domicilio,Aprobado,2023-11-12,2024-11-01,13343.91,Salta
+1093,41657472,Baja De Comercio,Rechazado,2025-08-25,2025-10-17,41389.48,Santa Fe
+1094,23758921,Reclamo Administrativo,Rechazado,2023-08-08,2023-09-08,47658.83,Tucumán
+1095,29347198,Reclamo Administrativo,Observado,2025-06-06,2025-02-08,23928.6,Santa Fe
+1096,25379194,Inscripción Registral,Iniciado,2023-07-26,,20932.66,Misiones
+1097,34720963,Baja De Comercio,Observado,2025-08-10,2025-12-20,43272.67,Tucumán
+1098,41140039,Reclamo Administrativo,Aprobado,2024-10-24,2024-12-17,4800.59,Salta
+1099,29946673,Baja De Comercio,Observado,2023-11-20,2024-05-01,40150.98,Córdoba
+1100,41405867,Certificado De Residencia,Iniciado,2023-03-08,,26794.22,Buenos Aires
+1101,29631618,Solicitud De Subsidio,En revisión,2025-08-26,,0.0,Salta
+1102,25127073,Reclamo Administrativo,Iniciado,2024-07-27,,0.0,Córdoba
+1103,29495860,Solicitud De Subsidio,En revisión,2024-06-07,,4571.96,Mendoza
+1104,23576476,Renovación De Licencia,Iniciado,2023-09-29,,707.47,Chaco
+1105,44159591,Reclamo Administrativo,Iniciado,2024-02-16,,0.0,Mendoza
+1106,24115029,Renovación De Licencia,Observado,2025-02-06,2025-05-04,0.0,Tucumán
+1107,43878690,Alta De Comercio,Iniciado,2025-07-22,,2756.57,Salta
+1108,36475471,Renovación De Licencia,Aprobado,2023-11-23,2024-02-19,42347.35,Misiones
+1109,35352660,Alta De Comercio,Aprobado,2023-12-08,2023-08-14,11561.12,Córdoba
+1110,44664438,Certificado De Residencia,Rechazado,2023-11-21,2023-12-13,39079.79,Buenos Aires
+1111,37586469,Alta De Comercio,Rechazado,2023-02-01,2023-02-16,39070.26,Santa Fe
+1112,36045122,Reclamo Administrativo,En revisión,2024-06-12,,0.0,Mendoza
+1113,27935325,Alta De Comercio,Aprobado,2024-06-04,2024-06-05,27577.98,Misiones
+1114,41956117,Renovación De Licencia,Aprobado,2024-08-02,2024-08-04,0.0,Santa Fe
+1115,30168836,Reclamo Administrativo,Rechazado,2025-04-29,2025-05-23,27798.56,Tucumán
+1116,36757650,Inscripción Registral,Rechazado,2025-12-23,2025-12-26,12672.44,Entre Ríos
+1117,44159591,Reclamo Administrativo,Iniciado,2024-04-05,,0.0,Buenos Aires
+1118,39201794,Baja De Comercio,En revisión,2024-02-23,,35289.41,Neuquén
+1119,32912618,Solicitud De Subsidio,En revisión,2023-06-21,,0.0,Córdoba
+1120,26769896,Inscripción Registral,Observado,2024-05-01,2024-11-05,5496.23,Salta
+1121,36737866,Solicitud De Subsidio,Aprobado,2023-10-12,2024-02-19,33553.46,Entre Ríos
+1122,24643746,Inscripción Registral,Aprobado,2025-10-22,2026-01-01,45648.16,Santa Fe
+1123,43388450,Alta De Comercio,Observado,2024-05-14,2024-07-28,27814.57,Córdoba
+1124,39853054,Certificado De Residencia,Observado,2023-08-05,2023-08-15,12093.41,Neuquén
+1125,43265424,Baja De Comercio,Observado,2024-10-26,2024-08-11,8458.42,Buenos Aires
+1126,34129849,Solicitud De Subsidio,Aprobado,2023-08-11,2023-12-16,7496.65,Chaco
+1127,34594181,Certificado De Residencia,Iniciado,2024-04-10,,0.0,Chaco
+1128,41543250,Cambio De Domicilio,En revisión,2023-12-20,,16243.48,Misiones
+1129,37039896,Solicitud De Subsidio,En revisión,2023-01-19,,25411.12,Chaco
+1130,42852436,Inscripción Registral,Rechazado,2023-02-27,2023-06-03,49072.63,Santa Fe
+1131,31178476,Certificado De Residencia,Observado,2023-12-24,2024-01-02,7237.28,Salta
+1132,26699974,Cambio De Domicilio,En revisión,2024-06-06,,36468.14,Salta
+1133,36737866,Cambio De Domicilio,Rechazado,2023-05-06,2023-09-02,20618.63,Buenos Aires
+1134,25564786,Cambio De Domicilio,Observado,2025-06-29,2025-04-09,39118.52,Tucumán
+1135,37096865,Baja De Comercio,Aprobado,2024-02-15,2024-02-19,37239.08,Entre Ríos
+1136,29174617,Renovación De Licencia,Rechazado,2023-01-28,2023-03-24,0.0,Chaco
+1137,30457804,Inscripción Registral,Observado,2024-04-20,2024-06-19,42601.65,Buenos Aires
+1138,37796074,Certificado De Residencia,Observado,2023-12-21,2024-01-24,0.0,Buenos Aires
+1139,38900916,Baja De Comercio,En revisión,2023-07-14,,0.0,Chaco
+1140,40478333,Certificado De Residencia,Rechazado,2024-02-11,2024-12-27,0.0,Neuquén
+1141,28702406,Cambio De Domicilio,Aprobado,2025-12-04,2025-04-27,47029.85,Neuquén
+1142,41439587,Baja De Comercio,En revisión,2024-12-05,,44975.19,Neuquén
+1143,35663311,Baja De Comercio,Iniciado,2023-12-21,,0.0,Salta
+1144,43431337,Certificado De Residencia,Iniciado,2025-04-08,,46118.76,Córdoba
+1145,26548138,Inscripción Registral,En revisión,2023-02-13,,0.0,Santa Fe
+1146,23601212,Reclamo Administrativo,Rechazado,2024-07-14,2024-07-08,0.0,Chaco
+1147,29212279,Renovación De Licencia,En revisión,2025-03-02,,37200.93,Entre Ríos
+1148,34633895,Inscripción Registral,Iniciado,2025-02-20,,0.0,Chaco
+1149,36080448,Alta De Comercio,Rechazado,2024-06-27,2024-07-21,11499.33,Tucumán
+1150,21313426,Reclamo Administrativo,Rechazado,2025-12-10,2025-10-20,41291.11,Santa Fe
+1151,32248167,Certificado De Residencia,Aprobado,2023-03-06,2023-07-19,0.0,Misiones
+1152,43508798,Inscripción Registral,Aprobado,2023-04-22,2023-04-23,0.0,Córdoba
+1153,42233736,Baja De Comercio,En revisión,2023-06-28,,45253.86,Tucumán
+1154,22953456,Cambio De Domicilio,Observado,2025-02-20,2025-02-25,0.0,Santa Fe
+1155,37096865,Renovación De Licencia,En revisión,2023-11-04,,45340.48,Entre Ríos
+1156,23303203,Cambio De Domicilio,Iniciado,2024-01-30,,16763.76,Buenos Aires
+1157,20138372,Solicitud De Subsidio,Rechazado,2024-01-27,2024-11-04,0.0,Mendoza
+1158,23758921,Baja De Comercio,En revisión,2023-03-30,,17667.57,Misiones
+1159,36128405,Solicitud De Subsidio,Iniciado,2024-12-01,,0.0,Entre Ríos
+1160,22892911,Baja De Comercio,Rechazado,2023-03-18,2023-04-28,12514.98,Mendoza
+1161,42325123,Solicitud De Subsidio,Rechazado,2024-03-14,2024-05-12,19504.57,Tucumán
+1162,23077396,Inscripción Registral,Observado,2023-10-03,2023-06-04,0.0,Mendoza
+1163,32348674,Baja De Comercio,Rechazado,2024-03-31,2024-05-18,16265.85,Misiones
+1164,34834600,Renovación De Licencia,Aprobado,2025-05-14,2025-03-07,0.0,Buenos Aires
+1165,43715828,Solicitud De Subsidio,Observado,2025-01-30,2025-02-20,0.0,Córdoba
+1166,27348572,Inscripción Registral,Aprobado,2024-08-23,2024-11-20,13909.84,Santa Fe
+1167,32348674,Renovación De Licencia,Observado,2023-08-04,2023-06-29,0.0,Neuquén
+1168,29154893,Baja De Comercio,Aprobado,2023-08-15,2023-12-11,0.0,Entre Ríos
+1169,32127051,Renovación De Licencia,Iniciado,2023-06-24,,24885.59,Salta
+1170,31340008,Cambio De Domicilio,En revisión,2025-04-15,,18037.36,Neuquén
+1171,39803169,Reclamo Administrativo,En revisión,2025-08-09,,44229.31,Misiones
+1172,36835225,Inscripción Registral,Observado,2023-06-09,2023-11-13,0.0,Misiones
+1173,36838854,Inscripción Registral,Rechazado,2023-03-03,2023-04-05,0.0,Neuquén
+1174,43583518,Baja De Comercio,En revisión,2025-01-18,,0.0,Santa Fe
+1175,23836038,Solicitud De Subsidio,Rechazado,2023-01-27,2023-02-18,9840.8,Santa Fe
+1176,23666460,Baja De Comercio,Iniciado,2024-04-12,,0.0,Neuquén
+1177,37720478,Renovación De Licencia,En revisión,2025-02-02,,8926.93,Buenos Aires
+1178,20762870,Renovación De Licencia,Rechazado,2024-08-06,2024-07-30,9663.02,Tucumán
+1179,38058086,Alta De Comercio,Iniciado,2023-02-16,,0.0,Mendoza
+1180,32912618,Certificado De Residencia,Observado,2025-04-10,2025-03-05,0.0,Buenos Aires
+1181,35637097,Baja De Comercio,Iniciado,2025-06-11,,33124.25,Tucumán
+1182,26548138,Reclamo Administrativo,Iniciado,2025-11-11,,48793.01,Salta
+1183,31862764,Inscripción Registral,En revisión,2023-05-31,,0.0,Santa Fe
+1184,30857838,Baja De Comercio,Aprobado,2023-12-16,2024-09-02,49160.42,Salta
+1185,33530961,Solicitud De Subsidio,Iniciado,2024-02-29,,0.0,Mendoza
+1186,21406130,Alta De Comercio,Rechazado,2024-11-25,2025-09-01,23464.14,Salta
+1187,35507767,Renovación De Licencia,Aprobado,2024-09-03,2024-10-05,0.0,Buenos Aires
+1188,42470129,Alta De Comercio,Rechazado,2024-07-12,2024-07-21,41876.73,Neuquén
+1189,42233736,Renovación De Licencia,En revisión,2023-11-14,,28237.91,Tucumán
+1190,42656939,Baja De Comercio,Iniciado,2023-01-26,,17594.85,Mendoza
+1191,37015716,Baja De Comercio,Rechazado,2025-02-21,2025-06-05,37395.19,Santa Fe
+1192,44756404,Baja De Comercio,Observado,2024-03-30,2024-11-06,0.0,Buenos Aires
+1193,41045356,Inscripción Registral,Aprobado,2023-03-16,2023-04-15,9131.86,Tucumán
+1194,42966805,Renovación De Licencia,Aprobado,2023-08-08,2023-10-23,13461.59,Tucumán
+1195,43748286,Solicitud De Subsidio,Rechazado,2023-09-02,2023-02-22,3035.85,Córdoba
+1196,25725535,Inscripción Registral,Rechazado,2023-09-09,2023-02-12,0.0,Salta
+1197,34151240,Alta De Comercio,Rechazado,2024-06-22,2024-09-01,26213.63,Neuquén
+1198,43715828,Baja De Comercio,Iniciado,2024-01-18,,0.0,Córdoba
+1199,22382132,Reclamo Administrativo,Observado,2023-03-30,2023-09-05,18485.38,Salta
+1200,36295441,Certificado De Residencia,Aprobado,2025-08-23,2025-08-28,10958.06,Chaco
+1201,34079232,Certificado De Residencia,Iniciado,2024-11-07,,0.0,Salta
+1202,43878690,Renovación De Licencia,Observado,2025-06-26,2025-09-17,11292.48,Neuquén
+1203,29977515,Reclamo Administrativo,Rechazado,2024-10-03,2024-10-05,34970.59,Misiones
+1204,37846241,Inscripción Registral,Rechazado,2023-06-16,2023-06-20,0.0,Córdoba
+1205,35591284,Alta De Comercio,Iniciado,2023-09-01,,1972.11,Santa Fe
+1206,29651317,Renovación De Licencia,Iniciado,2024-11-18,,47203.52,Santa Fe
+1207,35169289,Baja De Comercio,Observado,2024-11-12,2024-11-23,21224.64,Mendoza
+1208,24643746,Reclamo Administrativo,Rechazado,2023-10-18,2023-10-30,0.0,Buenos Aires
+1209,26699974,Cambio De Domicilio,Observado,2024-02-14,2024-04-23,15473.1,Neuquén
+1210,42259631,Certificado De Residencia,Iniciado,2024-01-03,,0.0,Entre Ríos
+1211,32912618,Baja De Comercio,Rechazado,2025-03-07,2025-07-28,0.0,Buenos Aires
+1212,21882904,Reclamo Administrativo,Iniciado,2025-04-05,,19625.05,Tucumán
+1213,42807362,Alta De Comercio,Iniciado,2023-08-10,,44182.98,Santa Fe
+1214,29882378,Certificado De Residencia,Iniciado,2023-08-03,,24059.72,Santa Fe
+1215,39398947,Cambio De Domicilio,Aprobado,2025-09-10,2025-09-16,22985.95,Misiones
+1216,32047355,Solicitud De Subsidio,Observado,2024-05-03,2024-04-28,0.0,Santa Fe
+1217,39256174,Inscripción Registral,Observado,2024-12-13,2025-08-03,4896.46,Buenos Aires
+1218,43085156,Alta De Comercio,Observado,2024-09-05,2024-05-08,0.0,Buenos Aires
+1219,36891973,Cambio De Domicilio,En revisión,2024-02-05,,3312.52,Santa Fe
+1220,38581904,Solicitud De Subsidio,En revisión,2025-11-25,,11307.93,Salta
+1221,42619728,Certificado De Residencia,Aprobado,2025-01-05,2025-02-17,1042.13,Santa Fe
+1222,31472691,Inscripción Registral,En revisión,2025-04-23,,30035.2,Santa Fe
+1223,40825715,Solicitud De Subsidio,Rechazado,2023-08-13,2023-09-29,12871.32,Chaco
+1224,41455603,Solicitud De Subsidio,En revisión,2023-04-05,,16253.13,Tucumán
+1225,31099514,Solicitud De Subsidio,Aprobado,2024-02-29,2024-04-15,0.0,Buenos Aires
+1226,40434437,Alta De Comercio,Rechazado,2023-04-27,2023-07-26,12814.1,Salta
+1227,20631038,Baja De Comercio,En revisión,2025-10-18,,2402.8,Chaco
+1228,29343487,Baja De Comercio,Rechazado,2023-08-14,2023-09-20,48405.64,Santa Fe
+1229,20524985,Baja De Comercio,Iniciado,2025-11-04,,8706.39,Neuquén
+1230,20383719,Alta De Comercio,Iniciado,2025-03-16,,9257.58,Salta
+1231,31795578,Cambio De Domicilio,Observado,2023-11-23,2024-02-16,43325.49,Misiones
+1232,42713929,Inscripción Registral,Rechazado,2025-01-25,2025-03-24,0.0,Santa Fe
+1233,36569018,Cambio De Domicilio,Observado,2023-08-23,2023-09-25,30354.57,Neuquén
+1234,42855046,Reclamo Administrativo,En revisión,2024-10-11,,0.0,Tucumán
+1235,36569018,Solicitud De Subsidio,Rechazado,2023-11-29,2024-01-20,36688.91,Mendoza
+1236,23152784,Inscripción Registral,Iniciado,2024-05-22,,7053.57,Misiones
+1237,43508798,Baja De Comercio,Aprobado,2024-12-10,2025-06-03,31243.69,Santa Fe
+1238,20086075,Renovación De Licencia,Observado,2023-09-09,2023-03-10,30627.24,Neuquén
+1239,38073022,Inscripción Registral,Observado,2025-01-09,2025-11-20,4716.17,Mendoza
+1240,31541238,Reclamo Administrativo,Rechazado,2025-12-07,2025-09-29,38005.94,Tucumán
+1241,37096865,Solicitud De Subsidio,Aprobado,2023-08-26,2023-09-27,35685.65,Córdoba
+1242,39256358,Reclamo Administrativo,Rechazado,2023-01-27,2023-04-22,25061.93,Santa Fe
+1243,43547809,Alta De Comercio,Rechazado,2023-01-14,2023-02-28,34902.98,Neuquén
+1244,24317226,Certificado De Residencia,Iniciado,2025-06-27,,0.0,Santa Fe
+1245,29140711,Solicitud De Subsidio,Aprobado,2025-07-31,2025-05-09,21846.97,Misiones
+1246,35961064,Inscripción Registral,En revisión,2023-08-14,,34745.5,Entre Ríos
+1247,29347198,Renovación De Licencia,Observado,2025-11-02,2025-12-11,34906.29,Santa Fe
+1248,32912618,Reclamo Administrativo,Observado,2024-01-03,2024-04-15,0.0,Entre Ríos
+1249,35169289,Alta De Comercio,Iniciado,2023-12-25,,13398.32,Neuquén
+1250,43583518,Alta De Comercio,Aprobado,2025-12-13,2026-01-14,0.0,Tucumán
+1251,22382132,Renovación De Licencia,Observado,2024-10-20,2024-11-21,0.0,Buenos Aires
+1252,28866409,Renovación De Licencia,Observado,2023-06-30,2023-08-09,38562.8,Buenos Aires
+1253,41964596,Reclamo Administrativo,Observado,2024-06-22,2024-09-08,0.0,Salta
+1254,35367468,Inscripción Registral,En revisión,2024-06-09,,14482.99,Neuquén
+1255,26699974,Inscripción Registral,En revisión,2023-09-11,,10404.33,Neuquén
+1256,41120515,Renovación De Licencia,Aprobado,2025-12-16,2026-01-19,25526.66,Misiones
+1257,37713443,Renovación De Licencia,Iniciado,2025-07-27,,27272.14,Tucumán
+1258,42807362,Reclamo Administrativo,Iniciado,2023-09-30,,5264.3,Misiones
+1259,39298586,Cambio De Domicilio,Observado,2024-11-05,2024-11-12,29902.98,Tucumán
+1260,36025978,Cambio De Domicilio,En revisión,2025-08-26,,24064.42,Entre Ríos
+1261,39290668,Renovación De Licencia,Aprobado,2025-07-22,2025-09-22,0.0,Salta
+1262,43547809,Solicitud De Subsidio,Observado,2024-09-11,2025-01-22,0.0,Salta
+1263,36999031,Renovación De Licencia,En revisión,2025-07-27,,0.0,Salta
+1264,43547809,Certificado De Residencia,Observado,2025-11-02,2025-11-12,45389.05,Buenos Aires
+1265,37346622,Reclamo Administrativo,Iniciado,2025-10-15,,0.0,Buenos Aires
+1266,36045122,Solicitud De Subsidio,Observado,2023-11-29,2024-02-20,43049.26,Neuquén
+1267,25721435,Renovación De Licencia,En revisión,2024-02-22,,7195.15,Entre Ríos
+1268,36080448,Certificado De Residencia,En revisión,2024-09-14,,34957.63,Córdoba
+1269,31340008,Renovación De Licencia,En revisión,2023-06-24,,2628.4,Chaco
+1270,35626143,Solicitud De Subsidio,Rechazado,2023-02-28,2023-04-07,16291.63,Neuquén
+1271,31862764,Alta De Comercio,Aprobado,2023-08-24,2023-06-10,17719.11,Mendoza
+1272,29218510,Baja De Comercio,Aprobado,2023-07-28,2023-09-09,6605.72,Buenos Aires
+1273,25019072,Alta De Comercio,Rechazado,2024-08-04,2024-05-27,0.0,Buenos Aires
+1274,40982358,Reclamo Administrativo,Rechazado,2025-08-17,2025-07-11,17989.31,Entre Ríos
+1275,21473201,Renovación De Licencia,Aprobado,2023-03-25,2023-03-29,34129.84,Córdoba
+1276,43085156,Inscripción Registral,Rechazado,2024-04-02,2024-04-15,0.0,Córdoba
+1277,36847729,Solicitud De Subsidio,En revisión,2023-01-25,,3302.41,Tucumán
+1278,29690258,Certificado De Residencia,En revisión,2025-04-23,,0.0,Córdoba
+1279,24165829,Reclamo Administrativo,Observado,2025-10-09,2025-11-18,0.0,Mendoza
+1280,29902086,Reclamo Administrativo,Aprobado,2023-11-27,2024-02-13,0.0,Mendoza
+1281,30175719,Cambio De Domicilio,Rechazado,2023-10-15,2023-10-27,8615.15,Salta
+1282,43748286,Certificado De Residencia,En revisión,2025-10-15,,10911.5,Salta
+1283,22630919,Inscripción Registral,Aprobado,2025-08-29,2025-04-09,46771.18,Chaco
+1284,21237409,Solicitud De Subsidio,Observado,2025-05-26,2025-10-08,45963.09,Santa Fe
+1285,24805805,Renovación De Licencia,Observado,2023-08-13,2023-09-26,0.0,Buenos Aires
+1286,23864454,Solicitud De Subsidio,Rechazado,2025-03-10,2025-12-21,48095.6,Córdoba
+1287,42470129,Renovación De Licencia,Observado,2025-03-25,2025-04-14,43169.88,Tucumán
+1288,31864697,Renovación De Licencia,En revisión,2025-01-16,,22102.67,Neuquén
+1289,24225304,Cambio De Domicilio,En revisión,2023-02-03,,687.12,Tucumán
+1290,28407432,Baja De Comercio,En revisión,2025-10-16,,45723.74,Chaco
+1291,31227565,Reclamo Administrativo,En revisión,2024-05-06,,0.0,Chaco
+1292,42670288,Renovación De Licencia,Rechazado,2023-01-16,2023-01-17,17085.38,Neuquén
+1293,31123801,Alta De Comercio,Aprobado,2023-05-04,2023-04-23,0.0,Chaco
+1294,25018440,Reclamo Administrativo,Iniciado,2023-09-15,,25563.81,Salta
+1295,27561308,Reclamo Administrativo,Aprobado,2025-08-10,2025-10-22,12632.96,Misiones
+1296,32089255,Alta De Comercio,Rechazado,2024-09-26,2024-10-30,16095.53,Neuquén
+1297,39787935,Cambio De Domicilio,Iniciado,2024-02-09,,42184.62,Córdoba
+1298,27048205,Inscripción Registral,Observado,2023-10-23,2023-12-27,7574.66,Salta
+1299,40982358,Solicitud De Subsidio,En revisión,2025-02-08,,0.0,Misiones
+1300,32886558,Inscripción Registral,Observado,2024-09-06,2024-01-09,0.0,Córdoba
+1301,24007842,Baja De Comercio,Rechazado,2025-11-03,2025-06-05,46982.82,Santa Fe
+1302,41045356,Certificado De Residencia,Rechazado,2023-06-17,2023-08-16,10648.96,Misiones
+1303,37713443,Alta De Comercio,Iniciado,2023-03-13,,0.0,Mendoza
+1304,36872408,Certificado De Residencia,Observado,2025-12-01,2025-04-05,37775.4,Salta
+1305,28597504,Reclamo Administrativo,Observado,2023-02-02,2023-03-09,42887.64,Chaco
+1306,34129849,Renovación De Licencia,En revisión,2024-06-28,,21150.45,Santa Fe
+1307,20385239,Inscripción Registral,Iniciado,2025-06-28,,47578.62,Misiones
+1308,34834600,Inscripción Registral,Aprobado,2024-03-27,2024-05-08,0.0,Chaco
+1309,29998521,Certificado De Residencia,Aprobado,2025-01-12,2025-02-12,0.0,Córdoba
+1310,44230882,Baja De Comercio,Rechazado,2024-09-23,2024-08-11,13370.6,Neuquén
+1311,37168850,Cambio De Domicilio,Aprobado,2023-02-18,2023-02-19,0.0,Entre Ríos
+1312,42158059,Certificado De Residencia,Iniciado,2023-10-03,,0.0,Neuquén
+1313,31472691,Reclamo Administrativo,Aprobado,2025-04-22,2025-05-12,39967.02,Buenos Aires
+1314,37399215,Alta De Comercio,Observado,2023-04-11,2024-01-12,29402.15,Córdoba
+1315,36737866,Certificado De Residencia,Observado,2023-05-11,2024-07-01,49506.62,Córdoba
+1316,36847729,Renovación De Licencia,Aprobado,2024-08-06,2024-07-28,23469.92,Salta
+1317,44085691,Renovación De Licencia,Aprobado,2025-05-28,2025-02-08,28865.34,Entre Ríos
+1318,32199762,Renovación De Licencia,Observado,2023-01-27,2023-02-02,7783.37,Buenos Aires
+1319,24643746,Inscripción Registral,Iniciado,2023-10-25,,23697.87,Santa Fe
+1320,36586173,Certificado De Residencia,En revisión,2025-12-08,,26863.22,Neuquén
+1321,29690258,Alta De Comercio,Iniciado,2023-09-15,,49674.78,Santa Fe
+1322,39221146,Baja De Comercio,Iniciado,2024-05-05,,34968.4,Tucumán
+1323,43884350,Baja De Comercio,Observado,2023-01-03,2023-02-26,36267.29,Neuquén
+1324,32652714,Solicitud De Subsidio,En revisión,2024-12-12,,42540.67,Buenos Aires
+1325,32600775,Cambio De Domicilio,Rechazado,2025-08-14,2025-09-07,49095.44,Córdoba
+1326,41120515,Reclamo Administrativo,Observado,2025-03-07,2025-06-09,21008.81,Buenos Aires
+1327,32627759,Baja De Comercio,En revisión,2024-04-21,,6392.83,Neuquén
+1328,38602995,Cambio De Domicilio,En revisión,2025-11-08,,2277.62,Salta
+1329,21654605,Certificado De Residencia,Aprobado,2024-06-18,2024-08-27,49229.32,Tucumán
+1330,28410559,Cambio De Domicilio,Rechazado,2023-09-11,2023-04-11,37572.87,Córdoba
+1331,23836038,Solicitud De Subsidio,Observado,2025-07-18,2025-07-27,20546.86,Misiones
+1332,25564786,Renovación De Licencia,Observado,2023-02-21,2023-04-28,0.0,Neuquén
+1333,34834600,Inscripción Registral,Iniciado,2024-02-03,,8156.97,Misiones
+1334,35507767,Alta De Comercio,Rechazado,2024-10-16,2025-08-01,848.62,Neuquén
+1335,27313676,Cambio De Domicilio,Iniciado,2024-05-14,,0.0,Misiones
+1336,36128405,Solicitud De Subsidio,En revisión,2024-06-01,,12509.22,Salta
+1337,43388450,Reclamo Administrativo,Aprobado,2023-06-29,2023-08-27,18038.51,Chaco
+1338,36581531,Baja De Comercio,En revisión,2024-12-22,,16483.78,Buenos Aires
+1339,31734535,Inscripción Registral,Rechazado,2024-02-11,2024-08-05,31084.43,Mendoza
+1340,39256174,Inscripción Registral,Aprobado,2024-08-26,2024-10-01,15912.48,Chaco
+1341,31066374,Cambio De Domicilio,Iniciado,2023-06-09,,10323.38,Chaco
+1342,23021546,Alta De Comercio,Aprobado,2025-03-16,2025-05-06,31086.55,Santa Fe
+1343,27756452,Solicitud De Subsidio,Aprobado,2024-01-15,2024-05-04,0.0,Mendoza
+1344,43085156,Alta De Comercio,Rechazado,2023-10-07,2023-08-18,30851.22,Chaco
+1345,24846341,Inscripción Registral,En revisión,2024-03-15,,22923.8,Neuquén
+1346,21882904,Cambio De Domicilio,Rechazado,2024-05-26,2024-06-25,16905.62,Tucumán
+1347,33171591,Alta De Comercio,En revisión,2024-01-16,,3914.14,Tucumán
+1348,36800697,Reclamo Administrativo,En revisión,2023-11-17,,0.0,Salta
+1349,41605005,Inscripción Registral,Aprobado,2025-10-06,2025-07-30,46118.12,Neuquén
+1350,33530961,Renovación De Licencia,Rechazado,2025-03-04,2025-04-12,0.0,Neuquén
+1351,39870950,Solicitud De Subsidio,Iniciado,2024-06-25,,0.0,Tucumán
+1352,44423068,Solicitud De Subsidio,Rechazado,2024-08-16,2024-11-14,14746.18,Santa Fe
+1353,42470129,Solicitud De Subsidio,En revisión,2024-01-30,,0.0,Santa Fe
+1354,30620458,Reclamo Administrativo,Aprobado,2024-04-17,2024-04-21,21073.0,Córdoba
+1355,20361830,Renovación De Licencia,Rechazado,2024-10-21,2024-12-14,0.0,Buenos Aires
+1356,20762870,Solicitud De Subsidio,En revisión,2025-08-26,,0.0,Chaco
+1357,43085156,Certificado De Residencia,Observado,2023-12-31,2024-01-29,23980.47,Córdoba
+1358,21081444,Solicitud De Subsidio,En revisión,2024-01-28,,0.0,Santa Fe
+1359,34079232,Inscripción Registral,En revisión,2024-05-25,,15550.25,Entre Ríos
+1360,32180192,Reclamo Administrativo,Aprobado,2025-04-05,2025-04-23,12693.48,Salta
+1361,30249526,Inscripción Registral,Iniciado,2025-01-08,,18122.74,Santa Fe
+1362,28264996,Solicitud De Subsidio,Rechazado,2023-06-29,2023-08-17,1803.13,Misiones
+1363,40550357,Inscripción Registral,Iniciado,2023-02-16,,36566.06,Tucumán
+1364,38802227,Baja De Comercio,Aprobado,2024-07-08,2024-09-17,0.0,Mendoza
+1365,42560013,Inscripción Registral,Aprobado,2025-07-30,2025-09-15,0.0,Tucumán
+1366,39870950,Inscripción Registral,Rechazado,2024-11-15,2025-01-22,0.0,Buenos Aires
+1367,43876850,Reclamo Administrativo,Aprobado,2024-10-17,2024-11-23,3062.49,Entre Ríos
+1368,31262896,Cambio De Domicilio,Iniciado,2024-08-14,,0.0,Córdoba
+1369,23864454,Baja De Comercio,Aprobado,2025-06-30,2025-07-30,0.0,Chaco
+1370,20682306,Reclamo Administrativo,Iniciado,2023-06-24,,15409.02,Chaco
+1371,41140039,Renovación De Licencia,Rechazado,2025-05-24,2025-08-15,12597.36,Córdoba
+1372,33553062,Cambio De Domicilio,Aprobado,2023-02-06,2023-06-25,0.0,Santa Fe
+1373,31262896,Inscripción Registral,Rechazado,2025-12-06,2025-07-25,8825.88,Córdoba
+1374,22630919,Certificado De Residencia,En revisión,2023-08-14,,0.0,Neuquén
+1375,41802627,Reclamo Administrativo,En revisión,2025-01-29,,42515.83,Santa Fe
+1376,20524985,Inscripción Registral,En revisión,2023-03-31,,0.0,Entre Ríos
+1377,39832095,Alta De Comercio,En revisión,2024-04-03,,0.0,Misiones
+1378,40936975,Cambio De Domicilio,En revisión,2023-03-05,,18499.05,Córdoba
+1379,26306075,Inscripción Registral,En revisión,2024-03-07,,0.0,Santa Fe
+1380,30457804,Solicitud De Subsidio,Rechazado,2023-02-15,2023-03-26,9076.5,Salta
+1381,29631618,Inscripción Registral,En revisión,2023-04-24,,37642.53,Chaco
+1382,40434437,Inscripción Registral,Aprobado,2023-05-01,2023-03-31,18132.46,Córdoba
+1383,27277078,Reclamo Administrativo,En revisión,2025-10-20,,0.0,Chaco
+1384,29951908,Renovación De Licencia,En revisión,2024-12-28,,0.0,Entre Ríos
+1385,42965094,Baja De Comercio,En revisión,2023-06-30,,38984.01,Salta
+1386,32180192,Reclamo Administrativo,Aprobado,2023-06-09,2023-01-12,0.0,Salta
+1387,43252745,Certificado De Residencia,Observado,2025-02-16,2025-08-03,43238.86,Salta
+1388,39595416,Solicitud De Subsidio,Observado,2024-02-01,2024-01-31,12694.37,Salta
+1389,40214978,Cambio De Domicilio,Rechazado,2023-09-05,2023-07-17,0.0,Misiones
+1390,41657472,Certificado De Residencia,Iniciado,2025-03-12,,12619.73,Mendoza
+1391,37894197,Baja De Comercio,En revisión,2025-05-22,,14056.55,Chaco
+1392,43587652,Baja De Comercio,Iniciado,2024-08-23,,0.0,Córdoba
+1393,27957069,Solicitud De Subsidio,Rechazado,2024-08-03,2024-03-04,0.0,Santa Fe
+1394,25379194,Inscripción Registral,En revisión,2024-12-20,,0.0,Córdoba
+1395,23444816,Solicitud De Subsidio,En revisión,2024-06-03,,20072.87,Misiones
+1396,23720843,Reclamo Administrativo,Iniciado,2024-09-23,,4877.34,Buenos Aires
+1397,26711706,Alta De Comercio,Observado,2025-04-01,2025-04-30,5818.09,Neuquén
+1398,42670288,Solicitud De Subsidio,Iniciado,2025-01-23,,0.0,Tucumán
+1399,37592126,Cambio De Domicilio,Rechazado,2025-12-17,2026-03-13,2756.73,Tucumán
+1400,42217569,Reclamo Administrativo,Iniciado,2023-05-09,,2366.01,Misiones
+1401,29560594,Alta De Comercio,Iniciado,2024-12-06,,42496.83,Santa Fe
+1402,36977226,Reclamo Administrativo,En revisión,2023-06-20,,20507.82,Buenos Aires
+1403,23622597,Baja De Comercio,Observado,2025-01-29,2025-04-17,25346.23,Entre Ríos
+1404,28345734,Renovación De Licencia,Observado,2025-04-04,2025-08-05,0.0,Chaco
+1405,41802627,Cambio De Domicilio,Iniciado,2025-02-23,,4451.96,Córdoba
+1406,31523859,Alta De Comercio,Rechazado,2025-09-05,2025-09-20,15521.03,Buenos Aires
+1407,34306582,Alta De Comercio,Observado,2025-11-27,2026-02-07,7059.74,Tucumán
+1408,28130745,Alta De Comercio,En revisión,2025-05-25,,24083.62,Chaco
+1409,37551882,Cambio De Domicilio,Aprobado,2024-06-26,2024-08-20,15432.44,Salta
+1410,34843679,Alta De Comercio,Observado,2025-09-29,2025-11-05,0.0,Entre Ríos
+1411,30249526,Baja De Comercio,Aprobado,2025-01-30,2025-06-02,27619.44,Entre Ríos
+1412,34809804,Certificado De Residencia,Aprobado,2023-12-02,2023-12-25,7377.07,Chaco
+1413,23864454,Solicitud De Subsidio,Rechazado,2025-07-04,2025-06-21,30423.2,Neuquén
+1414,44378968,Inscripción Registral,Iniciado,2023-11-28,,17719.47,Salta
+1415,39787935,Solicitud De Subsidio,Aprobado,2023-08-18,2023-04-10,0.0,Santa Fe
+1416,29951908,Inscripción Registral,Rechazado,2024-11-29,2024-12-17,13320.03,Chaco
+1417,44664438,Alta De Comercio,Iniciado,2025-11-07,,49348.02,Salta
+1418,36999031,Certificado De Residencia,Aprobado,2023-07-29,2023-08-04,48436.52,Salta
+1419,43140908,Alta De Comercio,Observado,2023-01-18,2023-05-04,881.53,Mendoza
+1420,37015716,Baja De Comercio,Iniciado,2023-11-20,,0.0,Misiones
+1421,31057585,Certificado De Residencia,Aprobado,2023-08-15,2023-08-17,18216.84,Neuquén
+1422,26301168,Renovación De Licencia,Iniciado,2025-06-25,,0.0,Entre Ríos
+1423,34594181,Inscripción Registral,Iniciado,2025-01-15,,10114.88,Chaco
+1424,28969929,Baja De Comercio,En revisión,2023-03-15,,14818.78,Entre Ríos
+1425,25822902,Certificado De Residencia,Observado,2024-05-10,2024-05-16,0.0,Córdoba
+1426,20794046,Inscripción Registral,Aprobado,2023-11-05,2023-05-25,30856.59,Santa Fe
+1427,21380527,Solicitud De Subsidio,Iniciado,2025-10-31,,28005.67,Tucumán
+1428,20383719,Renovación De Licencia,Observado,2024-12-25,2024-12-30,25137.23,Buenos Aires
+1429,37586469,Alta De Comercio,Rechazado,2023-01-12,2023-03-25,41283.42,Chaco
+1430,31108749,Reclamo Administrativo,En revisión,2024-10-16,,40808.9,Entre Ríos
+1431,25720262,Renovación De Licencia,Aprobado,2024-11-01,2024-03-27,41788.72,Salta
+1432,37160657,Inscripción Registral,Iniciado,2024-02-15,,0.0,Buenos Aires
+1433,23288307,Certificado De Residencia,Aprobado,2023-11-29,2024-01-22,0.0,Entre Ríos
+1434,43728673,Reclamo Administrativo,Rechazado,2024-09-11,2025-01-02,0.0,Buenos Aires
+1435,26396898,Baja De Comercio,Aprobado,2025-03-10,2025-10-28,15414.05,Chaco
+1436,36999031,Baja De Comercio,Aprobado,2024-11-26,2024-11-28,9118.39,Buenos Aires
+1437,29117246,Solicitud De Subsidio,Aprobado,2024-11-10,2024-10-22,12706.73,Neuquén
+1438,38498673,Solicitud De Subsidio,Aprobado,2025-01-13,2025-03-23,41787.77,Salta
+1439,43373732,Certificado De Residencia,En revisión,2025-05-12,,0.0,Santa Fe
+1440,39298586,Alta De Comercio,Observado,2024-01-07,2024-08-08,0.0,Santa Fe
+1441,43508798,Alta De Comercio,Rechazado,2024-01-20,2024-02-13,24525.96,Neuquén
+1442,23102576,Reclamo Administrativo,En revisión,2023-08-10,,45306.04,Mendoza
+1443,31795578,Reclamo Administrativo,En revisión,2024-02-06,,42992.67,Salta
+1444,44378968,Renovación De Licencia,En revisión,2025-05-23,,42030.58,Misiones
+1445,21798822,Inscripción Registral,Aprobado,2025-04-04,2025-12-06,0.0,Neuquén
+1446,38272481,Cambio De Domicilio,Iniciado,2025-04-22,,31140.26,Chaco
+1447,42855046,Baja De Comercio,Observado,2024-07-04,2024-04-15,0.0,Entre Ríos
+1448,21237409,Inscripción Registral,Aprobado,2024-10-04,2025-02-01,29178.67,Santa Fe
+1449,37586469,Cambio De Domicilio,Iniciado,2025-08-22,,4600.77,Chaco
+1450,21566198,Solicitud De Subsidio,Observado,2025-05-11,2025-11-15,22474.93,Córdoba
+1451,30053260,Alta De Comercio,Aprobado,2025-01-19,2025-02-14,21681.46,Salta
+1452,43012830,Reclamo Administrativo,Iniciado,2025-12-25,,1811.88,Misiones
+1453,31523859,Reclamo Administrativo,Aprobado,2024-02-21,2024-04-23,0.0,Córdoba
+1454,40774671,Certificado De Residencia,Rechazado,2025-11-20,2026-09-02,0.0,Mendoza
+1455,20524985,Alta De Comercio,En revisión,2025-11-04,,0.0,Misiones
+1456,43029703,Alta De Comercio,Observado,2023-06-04,2023-05-24,0.0,Buenos Aires
+1457,20819580,Cambio De Domicilio,En revisión,2023-04-10,,0.0,Santa Fe
+1458,30663126,Reclamo Administrativo,Rechazado,2023-11-04,2023-05-26,48559.49,Misiones
+1459,38416387,Certificado De Residencia,Iniciado,2023-09-26,,28721.17,Entre Ríos
+1460,39966486,Solicitud De Subsidio,Observado,2025-06-28,2025-07-16,8601.54,Tucumán
+1461,42619728,Cambio De Domicilio,Rechazado,2024-11-22,2025-01-18,24648.66,Entre Ríos
+1462,37526985,Cambio De Domicilio,En revisión,2023-04-13,,33795.74,Salta
+1463,24884998,Solicitud De Subsidio,Rechazado,2024-02-20,2024-03-25,14294.76,Tucumán
+1464,23486549,Baja De Comercio,Iniciado,2024-01-05,,47949.41,Neuquén
+1465,44756404,Inscripción Registral,Aprobado,2024-10-22,2024-12-11,43385.22,Chaco
+1466,33429675,Cambio De Domicilio,Rechazado,2024-05-28,2024-06-20,0.0,Tucumán
+1467,27561308,Solicitud De Subsidio,Iniciado,2023-12-20,,0.0,Mendoza
+1468,33081068,Renovación De Licencia,Rechazado,2024-08-28,2024-10-27,36290.46,Santa Fe
+1469,37939081,Solicitud De Subsidio,Iniciado,2025-09-02,,0.0,Neuquén
+1470,41168616,Baja De Comercio,En revisión,2024-09-05,,22513.02,Santa Fe
+1471,43404163,Inscripción Registral,Observado,2024-03-11,2025-01-02,20309.95,Buenos Aires
+1472,27795636,Baja De Comercio,En revisión,2023-04-14,,0.0,Santa Fe
+1473,20174322,Renovación De Licencia,Iniciado,2025-01-18,,6761.76,Misiones
+1474,32707485,Cambio De Domicilio,En revisión,2024-11-10,,33946.91,Misiones
+1475,27544493,Cambio De Domicilio,Observado,2025-01-09,2025-03-28,0.0,Tucumán
+1476,43508798,Reclamo Administrativo,Observado,2023-01-31,2023-02-18,0.0,Neuquén
+1477,34327185,Cambio De Domicilio,Iniciado,2024-07-08,,41331.07,Buenos Aires
+1478,24806722,Solicitud De Subsidio,Iniciado,2023-03-17,,24022.08,Misiones
+1479,25703704,Solicitud De Subsidio,Observado,2023-07-18,2023-07-25,0.0,Córdoba
+1480,21693022,Inscripción Registral,Rechazado,2023-10-28,2023-12-17,9951.14,Córdoba
+1481,25428943,Certificado De Residencia,Observado,2024-10-09,2024-12-02,10255.71,Buenos Aires
+1482,27918690,Reclamo Administrativo,Rechazado,2025-05-27,2025-08-02,24609.38,Misiones
+1483,38108559,Baja De Comercio,Iniciado,2024-08-09,,20537.52,Misiones
+1484,44561343,Alta De Comercio,Rechazado,2025-04-03,2025-02-06,49057.15,Salta
+1485,40648640,Certificado De Residencia,Iniciado,2023-05-10,,18134.27,Misiones
+1486,39221146,Certificado De Residencia,En revisión,2023-09-05,,43309.46,Misiones
+1487,32799176,Inscripción Registral,Aprobado,2024-07-19,2024-08-13,35426.67,Mendoza
+1488,41550706,Baja De Comercio,En revisión,2023-10-07,,19700.87,Córdoba
+1489,41120515,Alta De Comercio,Rechazado,2024-09-05,2024-06-21,21673.97,Mendoza
+1490,25482877,Cambio De Domicilio,En revisión,2025-07-23,,9349.09,Salta
+1491,43148116,Alta De Comercio,Observado,2023-02-13,2023-07-05,16336.79,Entre Ríos
+1492,23152784,Renovación De Licencia,Rechazado,2024-10-20,2024-11-03,26990.96,Chaco
+1493,36622325,Cambio De Domicilio,Iniciado,2024-12-04,,39771.23,Córdoba
+1494,41585871,Certificado De Residencia,Observado,2025-01-22,2025-03-01,0.0,Chaco
+1495,39759241,Solicitud De Subsidio,En revisión,2025-11-26,,0.0,Mendoza
+1496,35501353,Certificado De Residencia,Aprobado,2023-03-26,2023-06-19,34053.86,Chaco
+1497,38498673,Reclamo Administrativo,Rechazado,2024-11-06,2024-07-28,38598.43,Buenos Aires
+1498,39832095,Renovación De Licencia,Observado,2023-09-30,2023-10-31,8493.11,Tucumán
+1499,27561308,Cambio De Domicilio,Rechazado,2024-02-29,2024-05-27,0.0,Córdoba
+1500,38416387,Renovación De Licencia,En revisión,2025-03-26,,0.0,Mendoza
