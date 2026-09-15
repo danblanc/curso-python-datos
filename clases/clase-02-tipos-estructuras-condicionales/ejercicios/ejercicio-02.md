@@ -20,8 +20,15 @@ Trabajá en un archivo `ejercicio_02.py` (o una notebook, como prefieras).
 
 ### Parte 2 — Validaciones con condicionales
 
-3. Escribí un condicional que imprima `"Mayor de edad"` si `persona["edad"]` es mayor o igual a 18, y `"Menor de edad"` en caso contrario.
-4. Escribí un condicional que verifique si `persona["provincia"]` es `"Córdoba"` **o** `"Santa Fe"`, e imprima `"Zona centro"` si se cumple, y `"Otra zona"` si no.
+3. Escribí un condicional que clasifique a `persona` en una de estas cuatro categorías, según `persona["edad"]`, e imprima el resultado:
+   - Menor a 13: `"Niño/a"`
+   - Entre 13 y 17 (inclusive): `"Adolescente"`
+   - Entre 18 y 64 (inclusive): `"Adulto"`
+   - 65 o más: `"Adulto mayor"`
+   Usá `if` / `elif` / `else` — no hace falta (ni conviene) escribir un `if` separado para cada caso.
+4. Además de la edad, un trámite exige que la persona sea mayor de edad **y** tenga el campo `documento` cargado (no vacío/`None`). Escribí un condicional que imprima `"Habilitado para el trámite"` si se cumplen ambas condiciones, o `"No habilitado"` en caso contrario — junto con el motivo (por ejemplo: `"No habilitado: es menor de edad"`, `"No habilitado: falta documento"`, o ambos motivos si aplican los dos).
+5. Escribí un condicional que verifique si `persona["provincia"]` es `"Córdoba"` **o** `"Santa Fe"`, e imprima `"Zona centro"` si se cumple, y `"Otra zona"` si no.
+
 
 ### Parte 3 — Lista de personas
 
