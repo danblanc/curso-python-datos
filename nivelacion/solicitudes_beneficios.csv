@@ -1,0 +1,365 @@
+id_solicitud,documento,nombre,apellido,tipo_beneficio,estado,fecha_solicitud,fecha_resolucion,ingreso_mensual,departamento,cantidad_hijos
+1,3120040,Lourdes,  romero  ,AYUDA HABITACIONAL,Rechazada,13/03/2025,2025-04-12,33037.01,Rocha,1.0
+2,4.259.420,Gael,GOMEZ,PENSIÓN POR INVALIDEZ,Aprobada,2025-09-02,19-10-2025,,Salto,
+3,4869148,Lautaro Benjamin,CABRERA,pensión por invalidez,Pendiente,2025-01-03,,83764.57,Rocha,1.0
+4,4.223.976,AGUSTÍN,  Gimenez  ,Ayuda habitacional,Pendiente,2026-06-03,,,Rocha,
+5,3.501.777,Martina,  Campos  ,SUBSIDIO POR DESEMPLEO,Pendiente,2025-01-23,,16287.73,Canelones,3.0
+6,4273726,Zoe Valentina,gimenez,Asignación familiar,En evaluación,22-05-2026,,22733.38,Colonia,2.0
+7,1.864.493,Joaquin,   Sanchez  ,ASIGNACIÓN FAMILIAR,En evaluación,2024-11-21,,61633.93,Canelones,
+8,4.566.540,Santiago Benjamin,Rojas,Pensión Por Invalidez,Aprobada,15/02/2025,2025-03-05,86350.95,Rivera,1.0
+9,4-088-417,Santiago,Rodriguez,Ayuda Habitacional,En evaluación,2025-02-12,,88876.63,Paysandú,1.0
+10,1-411-008,LUCAS,BENITEZ,beca estudiantil,Aprobada,15-02-2026,05/06/2026,59164.86,Montevideo,5.0
+11,4.161.729,Bautista,  MANSILLA  ,Asignación familiar,Pendiente,06/09/2026,,80980.45,Canelones,
+12,2.062.197,Thiago Nicolas,  VILLALBA  ,PENSIÓN POR INVALIDEZ,Pendiente,2026-06-02,,84065.65,Rocha,4.0
+13,3.705.078,Catalina,medina,Ayuda Habitacional,Rechazada,15-11-2024,19-01-2025,32223.43,Rivera,5.0
+14,5220441,sofia belen,Rojas,Beca estudiantil,Rechazada,2024-12-05,20-03-2025,63198.69,Canelones,
+15,3.426.580,Tomàs,RAMOS,Ayuda Habitacional,Aprobada,27/10/2025,02/11/2025,83225.62,Colonia,3.0
+16,5-648-996,Juan Ignacio,Maidana,Subsidio por desempleo,En evaluación,30/10/2024,,60867.54,Rivera,4.0
+17,1923063,  valentina jazmin  ,Valdez,beca estudiantil,Rechazada,2026-03-22,11/05/2026,25961.68,Colonia,3.0
+18,5-276-060,ROSARIO,PEREYRA,SUBSIDIO POR DESEMPLEO,En evaluación,2025-02-26,,32373.87,Montevideo,3.0
+19,4-403-820,agustin,PONCE,asignación familiar,Pendiente,03-04-2026,,80330.16,Salto,
+20,5.575.157,Olivia,Duarte,Pensión por invalidez,Pendiente,2024-10-14,,54146.87,Rivera,5.0
+21,3.381.476,Guillermina,  GONZALEZ  ,ASIGNACIÓN FAMILIAR,Rechazada,07/06/2025,2025-09-15,34750.33,Salto,5.0
+22,2.913.112,juan sebastian,Gomez,Asignación familiar,En evaluación,09/09/2026,,,Colonia,0.0
+23,1.418.449,Florencia,Castillo,AYUDA HABITACIONAL,Aprobada,29-10-2024,05/11/2024,87999.17,Montevideo,2.0
+24,2.537.818,Agustin,Ledesma,subsidio por desempleo,Pendiente,27/11/2024,,72160.55,Paysandú,3.0
+25,3.851.938,juana,GOMEZ,pensión por invalidez,Aprobada,28/05/2026,2026-08-24,15497.67,Canelones,0.0
+26,3-592-259,Uma ,  BLANCO  ,Asignación Familiar,Aprobada,21/03/2026,2026-06-15,59528.75,Rocha,1.0
+27,5.421.813,dante,Rodriguez,asignación familiar,Aprobada,2025-09-05,18-12-2025,,Salto,3.0
+28,5.610.065,alejo,navarro,SUBSIDIO POR DESEMPLEO,Aprobada,08/10/2024,19/12/2024,80612.05,Colonia,4.0
+29,4.814.496,Benjamin,RODRIGUEZ,BECA ESTUDIANTIL,Pendiente,26-07-2026,,45701.37,Canelones,
+30,4651102,Santino,Alvarez,Beca Estudiantil,Aprobada,2025-09-01,2025-12-22,,Montevideo,3.0
+31,3878461,Lautaro Nicolas,fernandez,PENSIÓN POR INVALIDEZ,En evaluación,29/03/2025,,85113.93,Colonia,
+32,1169100,thiago nahuel,Rodriguez,AYUDA HABITACIONAL,Aprobada,17/01/2025,11-03-2025,53158.01,Colonia,0.0
+33,1457459,Benjamin,campos,Ayuda Habitacional,Pendiente,08/03/2025,,21981.12,Montevideo,1.0
+34,4-381-910,  Juan Bautista  ,alvarez,Asignación familiar,Aprobada,2026-09-06,16-09-2026,74287.97,Maldonado,5.0
+35,2-980-489,Luz Milagros,Juarez,beca estudiantil,En evaluación,11/09/2025,,,,0.0
+36,2.454.130,THIAGO BENJAMIN,  mansilla  ,BECA ESTUDIANTIL,En evaluación,03/12/2024,,,Paysandú,3.0
+37,1966673,julian,  GARCIA  ,Subsidio por desempleo,En evaluación,2025-04-08,,89960.22,Salto,3.0
+38,3-659-453,facundo,Lopez,subsidio por desempleo,Pendiente,25/11/2025,,,Salto,4.0
+39,4557818,BAUTISTA,gonzalez,Beca estudiantil,Pendiente,2024-12-31,,43725.96,Rivera,2.0
+40,1467705,catalina,LUCERO,Pensión Por Invalidez,Pendiente,27-09-2025,,61561.67,Maldonado,5.0
+41,3159454,AGOSTINA,VARGAS,pensión por invalidez,En evaluación,17/01/2025,,89132.1,Rivera,2.0
+42,4-674-460,oriana,alvarez,Beca estudiantil,En evaluación,2025-08-21,,52001.22,Rocha,2.0
+43,1.192.960,pilar,LEDESMA,ASIGNACIÓN FAMILIAR,Pendiente,03/04/2026,,73289.3,Salto,3.0
+44,4-563-394,santiago,  Rivero  ,BECA ESTUDIANTIL,En evaluación,28-07-2025,,39817.53,Rocha,5.0
+45,3.449.096,  VALENTINA  ,Guzman,Ayuda habitacional,Rechazada,2026-06-18,2026-08-27,41915.19,,2.0
+46,1659463,Alma Mia,Sanchez,pensión por invalidez,En evaluación,19-07-2026,,55824.85,Rivera,2.0
+47,4661036,Octavio,VALDEZ,subsidio por desempleo,En evaluación,2026-03-24,,20346.68,Canelones,0.0
+48,5.125.792,Angel  Gabriel,Suarez,beca estudiantil,En evaluación,20/03/2026,,56260.97,Salto,1.0
+49,4-561-713,Fausto,pereyra,Ayuda Habitacional,Pendiente,2025-09-22,,72222.85,Rivera,0.0
+50,1469234,  camila  ,AGUERO,Beca Estudiantil,Pendiente,22/06/2025,,28849.72,Rivera,
+51,3-049-943,thiago  valentin,castro,beca estudiantil,Pendiente,17-02-2026,,44998.44,Colonia,5.0
+52,2617756,Josefina,RODRIGUEZ,PENSIÓN POR INVALIDEZ,Rechazada,25/01/2026,2026-05-20,83554.18,Rivera,2.0
+53,4-411-374,FELIPE,Sosa,subsidio por desempleo,Pendiente,13/04/2026,,,Montevideo,1.0
+54,2.418.142,Isabella,  BUSTOS  ,Subsidio Por Desempleo,Pendiente,23-11-2025,,37564.94,Rivera,4.0
+55,5981919,lucas,Peralta,AYUDA HABITACIONAL,Pendiente,2024-10-30,,,Canelones,4.0
+56,2.984.935,Benjamin,Muñoz,Subsidio Por Desempleo,En evaluación,21/11/2025,,71165.32,Montevideo,1.0
+57,4-054-817,Luca,paz,beca estudiantil,Pendiente,05/04/2025,,42858.62,Colonia,
+58,5.870.180,  MATEO  ,Martin,Beca Estudiantil,Rechazada,02/11/2024,2024-11-11,17407.95,Montevideo,4.0
+59,4.008.398,agustina,Rios,Ayuda Habitacional,Aprobada,18-08-2026,26-08-2026,42796.03,Rocha,0.0
+60,5.732.919,Catalina,Quiroga,ASIGNACIÓN FAMILIAR,Pendiente,15-11-2024,,77085.87,Rocha,5.0
+61,4.814.865,facundo,Rios,Subsidio Por Desempleo,Pendiente,01-06-2026,,53887.35,Paysandú,0.0
+62,3-529-629,ISABELLA,cardozo,Pensión Por Invalidez,Rechazada,05-01-2025,27-01-2025,82409.09,Rivera,3.0
+63,5.206.910,lola,chavez,Beca Estudiantil,En evaluación,02-06-2026,,34521.63,Rocha,0.0
+64,2205773,Bautista,Gonzalez,Subsidio por desempleo,Rechazada,2024-10-12,19-12-2024,35851.04,Maldonado,1.0
+65,4-532-252,Fausto,gonzalez,AYUDA HABITACIONAL,Rechazada,15/04/2026,30-04-2026,53834.5,Colonia,5.0
+66,4-009-489,MICAELA,MALDONADO,Pensión por invalidez,Pendiente,04/08/2026,,,Maldonado,5.0
+67,1.390.901,Juan Manuel,PAZ,Ayuda Habitacional,Pendiente,2025-10-20,,21180.28,Colonia,2.0
+68,3-067-456,  Valentina   ,RODRIGUEZ,subsidio por desempleo,Aprobada,26/10/2025,25/01/2026,45202.43,Rivera,0.0
+69,3643504,  Juan Sebastian  ,alvarez,Beca estudiantil,Rechazada,23/02/2026,2026-03-17,,Rocha,5.0
+70,3.573.645,Joaquin,Suarez,ASIGNACIÓN FAMILIAR,Pendiente,19/10/2025,,42748.02,Rivera,0.0
+71,2014509,Milo,Sanchez,Subsidio por desempleo,Rechazada,27-08-2025,2025-09-13,,Rocha,5.0
+72,1823264,SANTIAGO,SILVA,ayuda habitacional,En evaluación,06/08/2026,,,Canelones,3.0
+73,2.720.817,FRANCESCA,Dominguez,Pensión por invalidez,Aprobada,30-10-2025,2025-12-16,89931.74,,1.0
+74,5589770,SANTIAGO,QUIROGA,Subsidio Por Desempleo,Pendiente,20/02/2025,,49475.34,Colonia,3.0
+75,1-729-871,mora,Toledo,Ayuda habitacional,Aprobada,2025-05-01,27/07/2025,82914.41,Paysandú,0.0
+76,2.972.194,Valentina ,  romero  ,Subsidio por desempleo,En evaluación,02/01/2026,,20591.83,Rocha,2.0
+77,2736466,SANTIAGO,gimenez,beca estudiantil,Aprobada,2026-04-15,22/07/2026,72610.09,Rocha,0.0
+78,1393155,Delfina,sosa,Ayuda Habitacional,Rechazada,03-03-2025,2025-04-03,,Paysandú,2.0
+79,3.352.320,mateo,CARRIZO,Beca estudiantil,En evaluación,19-05-2026,,62082.95,Rivera,3.0
+80,5-404-330,bruno,acosta,Ayuda habitacional,Rechazada,2025-04-28,05/06/2025,,Paysandú,3.0
+81,4886540,EMMA,Acuña,Ayuda habitacional,En evaluación,2025-09-04,,,Paysandú,3.0
+82,5.156.653,Thiago Ezequiel,GARCIA,Asignación Familiar,Aprobada,23-01-2025,29/03/2025,,Montevideo,5.0
+83,5-989-007,benjamin,GARCIA,Pensión por invalidez,En evaluación,2025-07-22,,,Rocha,3.0
+84,2-087-011,  MAXIMO  ,Rios,Beca estudiantil,Rechazada,2026-02-06,18/02/2026,85243.0,Montevideo,3.0
+85,4.635.150,Thiago Lionel,Figueroa,Subsidio Por Desempleo,Aprobada,03/02/2026,13-05-2026,88003.46,Paysandú,4.0
+86,2-735-183,Luciana,Rojas,SUBSIDIO POR DESEMPLEO,Aprobada,2025-08-30,11-12-2025,68843.38,Maldonado,3.0
+87,2.440.667,UMA ,  Escobar  ,Subsidio por desempleo,Pendiente,28/06/2025,,66317.71,Rivera,3.0
+88,2.120.697,Joaquina,FLORES,Pensión Por Invalidez,En evaluación,22/03/2026,,38107.39,Salto,5.0
+89,2.660.955,Benjamin,Luna,Asignación Familiar,Rechazada,2026-08-12,20/09/2026,22405.04,Maldonado,4.0
+90,3-116-541,Simon,Aguero,pensión por invalidez,En evaluación,2026-01-29,,,Colonia,3.0
+91,1.074.337,Benjamin,Rodriguez,Ayuda habitacional,En evaluación,18/05/2025,,17352.6,Montevideo,3.0
+92,2.712.371,Emanuel,FERREYRA,AYUDA HABITACIONAL,En evaluación,2025-11-29,,18355.31,Montevideo,0.0
+93,1098064,Candela,SOSA,Beca Estudiantil,Pendiente,03-01-2025,,,Maldonado,3.0
+94,4-797-416,Tomàs,Bustos,Pensión Por Invalidez,Rechazada,17/01/2025,26-03-2025,,Rocha,3.0
+95,2230625,MORENA,Garcia,ASIGNACIÓN FAMILIAR,Rechazada,2025-06-07,2025-07-28,15713.78,Colonia,2.0
+96,5387877,  catalina  ,barrios,Subsidio Por Desempleo,Pendiente,25-03-2025,,17260.39,Paysandú,4.0
+97,2794096,FRANCESCO,LOPEZ,Asignación Familiar,Pendiente,27-07-2025,,38302.0,Rivera,4.0
+98,2-318-308,Benjamin,nuñez,PENSIÓN POR INVALIDEZ,En evaluación,26-09-2025,,56378.25,Canelones,1.0
+99,1.737.380,  Lorenzo  ,DIAZ,beca estudiantil,Pendiente,29/12/2025,,,Montevideo,0.0
+100,2.448.372,Martina,MAIDANA,Pensión por invalidez,En evaluación,2025-09-07,,77210.53,Montevideo,1.0
+101,4-973-418,TOMAS,FLORES,Subsidio Por Desempleo,Aprobada,04-10-2024,16-11-2024,80148.81,Paysandú,0.0
+102,4797453,Martina,ojeda,SUBSIDIO POR DESEMPLEO,En evaluación,09-09-2025,,26259.21,Colonia,0.0
+103,5.286.984,Victoria,rojas,subsidio por desempleo,Rechazada,17-06-2026,25-09-2026,29252.56,Colonia,
+104,1064375,Bianca,gutierrez,Subsidio Por Desempleo,Pendiente,20/11/2025,,40765.44,Rivera,4.0
+105,1.503.643,FRANCISCA,GONZALEZ,asignación familiar,Rechazada,16-01-2026,05-05-2026,43256.23,Colonia,2.0
+106,4138253,Dante,vera,SUBSIDIO POR DESEMPLEO,En evaluación,17-01-2025,,37212.46,Colonia,2.0
+107,4.765.259,milena,arias,ayuda habitacional,Pendiente,09/04/2025,,,Montevideo,5.0
+108,2.143.130,  Santino Agustin  ,rodriguez,pensión por invalidez,Aprobada,22/10/2025,2026-01-01,,Rocha,4.0
+109,4-431-942,CATALINA,Lopez,Asignación familiar,Aprobada,29-12-2025,25/04/2026,,Maldonado,0.0
+110,2-164-464,  LUCIA  ,SUAREZ,Ayuda habitacional,En evaluación,2025-03-17,,40015.14,Colonia,5.0
+111,5-628-795,manuel,acosta,asignación familiar,Rechazada,26-06-2025,22-08-2025,38026.48,Paysandú,0.0
+112,2551238,renata,medina,Ayuda Habitacional,Aprobada,16/06/2025,13/07/2025,,Rivera,3.0
+113,2067210,Juan Ignacio,Aguirre,Beca Estudiantil,En evaluación,14-04-2025,,,Maldonado,2.0
+114,2359001,  Geronimo  ,Moyano,subsidio por desempleo,Aprobada,17-03-2026,24-06-2026,84012.56,Rivera,4.0
+115,2.004.967,Ignacio,Herrera,asignación familiar,Aprobada,2026-03-13,2026-04-13,22820.13,Canelones,5.0
+116,2.542.051,Francisco,  Figueroa  ,Asignación familiar,Pendiente,2024-10-21,,61721.58,Colonia,1.0
+117,1349436,Nahiara,castro,Beca Estudiantil,Rechazada,07/04/2026,15-05-2026,,Colonia,2.0
+118,5171732,juan martin,Farias,asignación familiar,Pendiente,25/07/2025,,42291.49,Paysandú,2.0
+119,3-343-074,Catalina,  Diaz  ,Asignación familiar,Pendiente,18/03/2026,,18746.24,Montevideo,5.0
+120,1.883.903,Dylan  Benjamin,  Martinez  ,asignación familiar,Rechazada,09/09/2025,10/10/2025,72621.47,Rocha,2.0
+121,5.492.215,FAUSTO,SANCHEZ,Pensión por invalidez,Rechazada,10/03/2025,2025-05-14,31633.44,Rocha,
+122,4.310.126,Bautista Benjamin,  Gomez  ,ASIGNACIÓN FAMILIAR,En evaluación,2025-05-20,,,Colonia,1.0
+123,1-609-173,Mia,AGUIRRE,Subsidio Por Desempleo,Rechazada,13/08/2026,20/08/2026,38139.26,Colonia,1.0
+124,4.474.390,  Pilar  ,Ramirez,Ayuda habitacional,Aprobada,2025-02-02,2025-05-19,,Colonia,4.0
+125,3.356.066,AUGUSTO,rodriguez,Pensión por invalidez,En evaluación,30-09-2024,,,Rivera,2.0
+126,3-320-406,GUADALUPE,  CORDOBA  ,Ayuda Habitacional,Rechazada,24/03/2025,2025-05-29,35314.62,Colonia,3.0
+127,3178665,Valentin,Gomez,Subsidio Por Desempleo,Pendiente,2025-04-11,,,Colonia,5.0
+128,1.794.953,LUISANA,MENDEZ,Asignación Familiar,Pendiente,2024-11-28,,42918.01,Paysandú,5.0
+129,2.389.855,IVAN,Herrera,Pensión por invalidez,Pendiente,27-12-2024,,,Rocha,2.0
+130,4-317-619,guadalupe,Soto,Subsidio Por Desempleo,Pendiente,31/01/2025,,,Rivera,1.0
+131,3.321.927,Paulina,  maidana  ,beca estudiantil,Aprobada,20-07-2026,07/11/2026,74498.95,Rivera,
+132,3.778.508,Zoe,blanco,Asignación Familiar,Rechazada,11/12/2024,07-04-2025,79331.47,Rocha,0.0
+133,1.420.412,Juliana,soto,asignación familiar,Rechazada,05-10-2025,09/11/2025,21432.56,Colonia,3.0
+134,2.467.533,Benjamin,Garcia,BECA ESTUDIANTIL,Rechazada,2025-08-08,30/09/2025,61367.0,Maldonado,
+135,1-999-862,RENATA,  Muñoz  ,Pensión por invalidez,Aprobada,24/01/2025,15/02/2025,19246.2,Colonia,2.0
+136,1720194,Benjamin,Dominguez,Asignación familiar,Rechazada,2026-09-11,26-09-2026,25358.63,Paysandú,3.0
+137,2275033,Pilar,castillo,Pensión Por Invalidez,Rechazada,20-02-2026,06/05/2026,17261.17,Salto,0.0
+138,5.969.933,Felicitas,Arias,Pensión Por Invalidez,Aprobada,2024-10-11,2024-12-09,15941.9,Rivera,4.0
+139,3.461.994,  FEDERICO  ,Benitez,Pensión Por Invalidez,Rechazada,28/06/2025,25-08-2025,78047.35,Canelones,5.0
+140,2.546.391,  Benjamin Ezequiel  ,Fernandez,Pensión Por Invalidez,En evaluación,2026-07-23,,79524.26,Colonia,0.0
+141,4-953-758,Nina,MIRANDA,AYUDA HABITACIONAL,Pendiente,22-07-2026,,15715.58,Montevideo,4.0
+142,2912963,DELFINA,  luna  ,Subsidio Por Desempleo,Pendiente,12-07-2026,,76022.62,Colonia,
+143,5820173,juan pablo,Castillo,Asignación familiar,Pendiente,04-12-2024,,,Canelones,1.0
+144,5.449.010,valentina ,GONZALEZ,Beca estudiantil,En evaluación,2025-09-28,,,Paysandú,2.0
+145,5-821-888,Martina,Sanchez,Pensión por invalidez,Aprobada,2024-12-08,20-12-2024,64812.98,Maldonado,5.0
+146,4.331.921,victoria,FERNANDEZ,beca estudiantil,Pendiente,30-01-2026,,84940.62,Maldonado,0.0
+147,1.815.660,BRUNO,Ramos,subsidio por desempleo,Rechazada,04-05-2026,2026-07-18,,Salto,0.0
+148,2557841,  PALOMA  ,JUAREZ,Asignación familiar,Pendiente,2025-10-05,,62470.46,Colonia,4.0
+149,2-527-552,Milo,benitez,Beca Estudiantil,En evaluación,24-06-2025,,33278.79,Canelones,5.0
+150,5-183-010,Camila,Gonzalez,Ayuda Habitacional,En evaluación,2025-02-18,,69161.12,Salto,0.0
+151,5276656,JULIAN,Ruiz,Asignación familiar,Rechazada,27-07-2025,2025-11-13,41041.07,Salto,3.0
+152,4.255.962,Catalina,FERNANDEZ,Ayuda Habitacional,Pendiente,2026-06-20,,51460.64,Montevideo,2.0
+153,5.472.231,Juan,SOSA,BECA ESTUDIANTIL,Aprobada,20-07-2026,25/09/2026,34622.96,Maldonado,0.0
+154,2-033-506,  FRANCO  ,Cardozo,Ayuda habitacional,Rechazada,09-01-2025,28/03/2025,,Colonia,1.0
+155,4-507-889,Maximiliano,acosta,Beca Estudiantil,Aprobada,28/12/2024,12-03-2025,18938.5,Rocha,2.0
+156,5095236,bautista,Rodriguez,AYUDA HABITACIONAL,Rechazada,19/09/2024,20/10/2024,,Rivera,5.0
+157,2-321-602,Santiago  Benjamin,  arias  ,ayuda habitacional,Pendiente,03-04-2025,,87705.84,Colonia,2.0
+158,1-724-081,Juana,BUSTOS,Subsidio Por Desempleo,En evaluación,07-03-2025,,76314.54,Maldonado,1.0
+159,5-777-950,santino nicolas,paz,Pensión por invalidez,Rechazada,2025-07-15,28-07-2025,,,4.0
+160,5.869.860,FACUNDO,ruiz,SUBSIDIO POR DESEMPLEO,Pendiente,09/06/2025,,55071.97,Colonia,5.0
+161,5-825-650,federico,peralta,Pensión Por Invalidez,Pendiente,2026-09-15,,20429.02,Montevideo,1.0
+162,3-479-121,juan  ignacio,Sanchez,Pensión por invalidez,Aprobada,2025-10-10,2025-12-18,25643.87,Rivera,
+163,3.269.466,  Sol  ,Toledo,Subsidio Por Desempleo,En evaluación,11/05/2026,,61396.51,Colonia,4.0
+164,5586375,catalina,coronel,subsidio por desempleo,Rechazada,25-02-2025,03-04-2025,36963.29,Colonia,4.0
+165,2596380,  Lorenzo  ,  Rodriguez  ,beca estudiantil,Rechazada,09-10-2024,2024-12-28,15262.75,Rocha,4.0
+166,2-735-916,PEDRO,Lucero,beca estudiantil,Aprobada,19-04-2025,25/04/2025,48868.42,Rivera,1.0
+167,3500744,Martina,Ledesma,Beca Estudiantil,Pendiente,11-04-2025,,29567.21,Salto,1.0
+168,2182553,catalina,Diaz,Beca Estudiantil,Aprobada,26/06/2026,2026-08-31,30396.17,Colonia,5.0
+169,2-110-137,  Santino Nicolas  ,Aguirre,BECA ESTUDIANTIL,Pendiente,01/09/2025,,,Rivera,2.0
+170,1.373.060,HELENA,Romero,beca estudiantil,Pendiente,2025-06-27,,21645.65,Rivera,4.0
+171,5516696,Fausto,Carrizo,AYUDA HABITACIONAL,Pendiente,29/06/2026,,40909.22,Salto,1.0
+172,2454590,Franco,RIVERO,SUBSIDIO POR DESEMPLEO,Rechazada,22/05/2026,20/07/2026,65648.88,Salto,4.0
+173,5-294-938,Emma,Godoy,Subsidio Por Desempleo,Aprobada,30/10/2025,2026-01-28,22385.45,Paysandú,1.0
+174,1-962-842,MATEO,Diaz,Pensión Por Invalidez,Aprobada,02/07/2025,2025-09-06,83468.94,Maldonado,3.0
+175,4495647,ABIGAIL,GONZALEZ,subsidio por desempleo,Aprobada,2026-08-24,13/12/2026,47872.26,Colonia,5.0
+176,4-001-338,MARIA  GUADALUPE,Ruiz,Pensión por invalidez,En evaluación,2025-12-19,,,Colonia,5.0
+177,2915892,JULIETA,Gonzalez,SUBSIDIO POR DESEMPLEO,Pendiente,03/10/2024,,15186.47,Maldonado,
+178,1978386,Sebastian,  MARTINEZ  ,Beca estudiantil,Pendiente,25/09/2025,,,Montevideo,1.0
+179,5-560-310,  Emilia  ,Gonzalez,Asignación Familiar,Rechazada,02-07-2025,07/07/2025,30247.42,Rivera,0.0
+180,2353721,Malena,soto,asignación familiar,En evaluación,30/09/2025,,,Paysandú,4.0
+181,3-709-548,Emanuel,ruiz,subsidio por desempleo,Rechazada,28-05-2026,21/09/2026,23890.05,Maldonado,3.0
+182,2.960.330,Agustina,GONZALEZ,SUBSIDIO POR DESEMPLEO,Rechazada,23-07-2026,2026-10-13,24013.8,Montevideo,2.0
+183,2191089,Luciano,   silva  ,asignación familiar,Aprobada,04/08/2025,19/09/2025,44428.23,Salto,3.0
+184,2841384,  Benjamin  ,Hernandez,pensión por invalidez,Rechazada,2024-10-28,2025-02-23,48967.2,Paysandú,4.0
+185,3.643.619,  SANTINO  ,Ramos,Subsidio por desempleo,Pendiente,2025-04-22,,,,5.0
+186,2.957.030,Alma,perez,Asignación Familiar,Rechazada,26/08/2025,01-09-2025,82368.48,Rocha,
+187,1470952,francesco,Romero,Subsidio Por Desempleo,En evaluación,23/12/2024,,31963.91,Canelones,2.0
+188,5-540-656,Nicolas,SOSA,ayuda habitacional,En evaluación,2026-07-05,,32927.17,Rocha,0.0
+189,2.291.550,ISABELLA,flores,Beca estudiantil,En evaluación,25-07-2025,,78719.72,Rocha,
+190,2.644.032,Alma Valentina,lopez,BECA ESTUDIANTIL,Aprobada,2026-04-19,2026-07-06,22073.38,Maldonado,1.0
+191,2-751-595,Nicolas,  Rivero  ,Ayuda habitacional,Rechazada,2026-05-01,24/05/2026,,Montevideo,1.0
+192,4.141.704,Juan Bautista,Muñoz,Ayuda Habitacional,En evaluación,2024-12-26,,41099.17,Paysandú,1.0
+193,5.830.432,ZOE,   Diaz  ,asignación familiar,Aprobada,2025-11-01,2025-12-09,,,4.0
+194,3773535,mateo,Duarte,beca estudiantil,Aprobada,09/07/2025,25-09-2025,31312.52,Salto,4.0
+195,2862715,AMBAR,gimenez,subsidio por desempleo,Aprobada,05-02-2026,22/04/2026,27631.43,Paysandú,
+196,1243453,Santiago,Ramos,Pensión por invalidez,Aprobada,30/06/2025,08/08/2025,60301.09,Rivera,5.0
+197,4-160-276,SANTINO  BENJAMIN,Soria,PENSIÓN POR INVALIDEZ,Aprobada,2026-01-12,2026-03-03,24885.72,Paysandú,1.0
+198,3.776.530,zoe,Aguirre,Ayuda habitacional,Pendiente,2025-08-30,,22839.32,Rocha,4.0
+199,5272704,Ian Ezequiel,Herrera,Subsidio Por Desempleo,En evaluación,2024-10-17,,59650.2,Maldonado,
+200,4-672-082,  Josefina  ,Herrera,Asignación Familiar,Aprobada,01-10-2024,10-01-2025,88363.94,Paysandú,1.0
+201,3587263,Santino,ortiz,ASIGNACIÓN FAMILIAR,Aprobada,23/01/2025,2025-05-09,78564.2,Canelones,0.0
+202,5.424.517,Thiago Joaquin,Gomez,asignación familiar,Aprobada,2025-05-01,2025-05-06,,Rivera,5.0
+203,5282014,  Catalina  ,Alvarez,BECA ESTUDIANTIL,Rechazada,2024-09-25,14/11/2024,33067.41,Canelones,3.0
+204,5197109,TOMAS,Fernandez,Beca estudiantil,Pendiente,08-12-2024,,18567.36,Colonia,2.0
+205,1-003-942,Benicio,gomez,ASIGNACIÓN FAMILIAR,Rechazada,22-03-2025,13-07-2025,32511.96,Colonia,5.0
+206,3.678.804,Nahiara Jazmin,sanchez,Pensión Por Invalidez,Aprobada,12/02/2026,16/04/2026,24827.91,Colonia,5.0
+207,1-946-700,ambar,carrizo,Asignación familiar,Pendiente,2025-08-17,,71928.63,Paysandú,4.0
+208,1039945,simon,ferreyra,Pensión Por Invalidez,Rechazada,2025-01-02,30-03-2025,,,4.0
+209,2.273.767,  martina  ,Gomez,ASIGNACIÓN FAMILIAR,Pendiente,2024-10-08,,,Maldonado,5.0
+210,2.816.427,Valentin,Gomez,Beca estudiantil,Pendiente,15-08-2025,,27715.69,Maldonado,0.0
+211,3135252,FRANCO,Martinez,BECA ESTUDIANTIL,Aprobada,25-01-2026,2026-04-12,24771.04,Colonia,2.0
+212,4-290-157,bianca,SANCHEZ,SUBSIDIO POR DESEMPLEO,Aprobada,08-10-2025,31/01/2026,36585.22,Montevideo,1.0
+213,2562143,martina,molina,subsidio por desempleo,Rechazada,22-01-2025,19/02/2025,48962.58,Paysandú,0.0
+214,2-519-843,Abigail,  castro  ,asignación familiar,Rechazada,09-10-2025,23/12/2025,,Rivera,
+215,2.800.635,Delfina,RODRIGUEZ,Pensión por invalidez,Pendiente,2025-01-12,,72115.99,Canelones,5.0
+216,4972615,LAUTARO,Lopez,SUBSIDIO POR DESEMPLEO,Pendiente,29/06/2026,,,Montevideo,1.0
+217,4-002-276,Juana,Flores,BECA ESTUDIANTIL,Aprobada,2025-06-25,09/10/2025,,Colonia,5.0
+218,4-837-397,guadalupe,LOPEZ,Pensión Por Invalidez,Pendiente,31/01/2026,,52634.24,Paysandú,4.0
+219,5-410-471,Zoe Jazmin,ORTIZ,PENSIÓN POR INVALIDEZ,Pendiente,07/03/2025,,41047.14,Rocha,4.0
+220,5-008-636,milo,gonzalez,PENSIÓN POR INVALIDEZ,Pendiente,04/02/2026,,41280.64,Salto,4.0
+221,3.644.591,  LORENZO  ,LOPEZ,AYUDA HABITACIONAL,Rechazada,2026-09-04,30/09/2026,43786.39,Maldonado,
+222,1-707-496,  Bautista  ,sanchez,Beca Estudiantil,Pendiente,14/01/2026,,20961.56,Paysandú,3.0
+223,5.179.634,Martina,CORONEL,Pensión Por Invalidez,Aprobada,19-09-2024,21-10-2024,22420.35,Canelones,4.0
+224,4.196.160,JOAQUIN,hernandez,ASIGNACIÓN FAMILIAR,En evaluación,20/10/2024,,66000.63,,5.0
+225,3750015,Joaquina,LOPEZ,asignación familiar,En evaluación,25-06-2025,,89100.37,Rivera,3.0
+226,2-030-642,Juana,Ferreyra,Beca Estudiantil,En evaluación,25/12/2025,,19105.91,Maldonado,5.0
+227,4.808.087,Mateo,Perez,Ayuda Habitacional,Aprobada,11-09-2025,16-09-2025,61853.45,Colonia,4.0
+228,5-243-227,  IAN EZEQUIEL  ,  SUAREZ  ,Ayuda habitacional,Aprobada,07/01/2026,26-03-2026,,Colonia,1.0
+229,2351117,Luciana,PERALTA,pensión por invalidez,Aprobada,2026-06-02,2026-06-30,46671.13,Paysandú,3.0
+230,5383362,olivia,ojeda,ayuda habitacional,Rechazada,2024-11-30,2024-12-10,71090.47,Maldonado,3.0
+231,3-582-218,SOFIA,RODRIGUEZ,beca estudiantil,En evaluación,05/06/2026,,61731.42,Colonia,3.0
+232,3-682-789,Joaquin,Herrera,AYUDA HABITACIONAL,Rechazada,2025-05-18,2025-09-10,86418.4,Maldonado,4.0
+233,1-135-521,EMILIA,FERNANDEZ,SUBSIDIO POR DESEMPLEO,Pendiente,05-08-2025,,,Colonia,2.0
+234,4166870,MORENA,Pereyra,Asignación familiar,Pendiente,27/01/2026,,89248.63,Canelones,0.0
+235,5-482-958,Thiago Lionel,  Rojas  ,Beca Estudiantil,Pendiente,2025-10-24,,,Montevideo,5.0
+236,4-934-679,joaquin,Torres,Subsidio por desempleo,Aprobada,01/05/2025,2025-06-23,,Montevideo,2.0
+237,2944960,FEDERICO,FERNANDEZ,pensión por invalidez,Pendiente,2025-08-31,,,Canelones,4.0
+238,1.943.174,FRANCISCO,Escobar,Ayuda Habitacional,En evaluación,24/01/2025,,82855.63,Rocha,1.0
+239,1264281,DANTE,Sanchez,asignación familiar,Pendiente,2025-11-30,,80913.49,,3.0
+240,2329239,BENJAMIN,Ramos,Beca estudiantil,Rechazada,17/04/2025,31/05/2025,32035.97,Rocha,3.0
+241,4.005.213,CAMILA,LUNA,PENSIÓN POR INVALIDEZ,Aprobada,2026-07-31,02/10/2026,38503.83,Montevideo,4.0
+242,4281090,   lucas  ,Pereyra,Pensión por invalidez,Aprobada,22/11/2024,24-01-2025,,Rivera,3.0
+243,1739384,Mateo,LOPEZ,AYUDA HABITACIONAL,Pendiente,06-06-2026,,75394.09,Rivera,
+244,1.837.526,Benjamin,Correa,Ayuda habitacional,Rechazada,20/05/2025,22/08/2025,20093.37,Salto,
+245,1-407-746,milo,  Herrera  ,Pensión por invalidez,Pendiente,19/07/2026,,42979.37,Montevideo,5.0
+246,5.886.727,FRANCESCA,Lopez,PENSIÓN POR INVALIDEZ,Rechazada,2025-06-12,2025-09-22,48320.31,Colonia,
+247,5119546,Mia,Fernandez,Asignación familiar,Aprobada,2025-12-31,14-04-2026,22113.21,Montevideo,2.0
+248,3.577.053,giuliana,gonzalez,BECA ESTUDIANTIL,En evaluación,2026-09-04,,49895.32,Salto,4.0
+249,5-781-601,Alma,Silva,Subsidio Por Desempleo,Aprobada,28-07-2026,14-08-2026,,Maldonado,1.0
+250,3325952,Lucía,  acuña  ,asignación familiar,Pendiente,2026-03-12,,48750.13,Colonia,3.0
+251,2-837-340,  Uma  ,Vazquez,beca estudiantil,Rechazada,26/09/2025,2025-12-09,33768.87,Maldonado,
+252,5733888,   Francisco  ,Godoy,Asignación familiar,Rechazada,22/05/2026,23-08-2026,47863.83,Salto,2.0
+253,2.857.504,isabella,Cordoba,PENSIÓN POR INVALIDEZ,En evaluación,2025-07-18,,,Canelones,1.0
+254,2.821.537,Sofia,Gomez,Asignación familiar,Pendiente,22-03-2026,,51929.85,,
+255,4-931-464,PEDRO,Gonzalez,beca estudiantil,En evaluación,10-03-2025,,56365.02,Colonia,0.0
+256,1-961-940,isabella,  Garcia  ,subsidio por desempleo,Pendiente,2025-01-14,,,Paysandú,0.0
+257,3.643.178,Ciro,rodriguez,Pensión por invalidez,Pendiente,2024-09-26,,,Rocha,3.0
+258,4-514-038,FELICITAS,acuña,Beca Estudiantil,En evaluación,28/02/2026,,18698.45,Canelones,4.0
+259,3-719-696,JUAN IGNACIO,Soto,pensión por invalidez,En evaluación,23/05/2026,,47150.41,Rocha,4.0
+260,5-695-426,  ABIGAIL  ,Alvarez,Pensión por invalidez,En evaluación,2025-10-06,,64682.39,Rocha,4.0
+261,3.514.826,  Sofía  ,  TOLEDO  ,subsidio por desempleo,En evaluación,2026-08-10,,89765.12,,1.0
+262,5856655,juan  cruz,GONZALEZ,Subsidio por desempleo,En evaluación,25/11/2025,,34412.11,,5.0
+263,1555281,gonzalo,Rodriguez,Beca estudiantil,Pendiente,2026-07-01,,31652.27,Salto,
+264,1.931.636,catalina,ledesma,asignación familiar,Aprobada,15/04/2026,29-06-2026,32801.13,Canelones,3.0
+265,4242959,renzo,Garcia,Subsidio Por Desempleo,Aprobada,2025-09-20,27-09-2025,,Rocha,1.0
+266,1-459-897,santino,Quiroga,Asignación familiar,Rechazada,2026-08-24,15-09-2026,73511.87,Paysandú,5.0
+267,1595618,Paula,gonzalez,pensión por invalidez,Rechazada,18/12/2024,23-02-2025,78067.65,Colonia,1.0
+268,1396528,PRISCILA,SORIA,subsidio por desempleo,Pendiente,13-03-2026,,16661.06,Rivera,2.0
+269,1.758.474,camilo,Flores,Pensión por invalidez,Aprobada,21-12-2025,2026-03-27,83217.77,Montevideo,5.0
+270,1-154-200,Mia Morena,ACOSTA,BECA ESTUDIANTIL,Pendiente,29/06/2025,,22835.82,Rocha,5.0
+271,3.436.100,EMILIA,  Acosta  ,beca estudiantil,Pendiente,21/11/2025,,16179.65,Salto,2.0
+272,4-692-099,francisco,fernandez,AYUDA HABITACIONAL,En evaluación,01-03-2025,,,Montevideo,4.0
+273,4342748,Juan  Ignacio,Fernandez,pensión por invalidez,Aprobada,26-07-2025,2025-11-05,,Canelones,2.0
+274,4.567.827,paulina,Ruiz,beca estudiantil,Aprobada,2026-01-26,25/03/2026,18189.27,Canelones,4.0
+275,4-212-395,Guillermina,rojas,Asignación Familiar,En evaluación,2026-07-28,,,,0.0
+276,5.572.220,felipe,Ferreyra,Subsidio Por Desempleo,Rechazada,23-04-2025,02/08/2025,,Canelones,4.0
+277,3-806-318,Josefina,  Rios  ,ayuda habitacional,Pendiente,13/09/2026,,80954.18,Rocha,3.0
+278,3933537,MARTINA,Garcia,Ayuda habitacional,Pendiente,2026-07-15,,16778.72,Montevideo,4.0
+279,1-397-636,  SANTIAGO  ,medina,beca estudiantil,Pendiente,2025-03-09,,31771.51,Colonia,0.0
+280,3168170,VALENTINO,QUIROGA,Asignación Familiar,Rechazada,2026-06-22,2026-10-04,65729.34,Rivera,0.0
+281,1.324.670,Mia Valentina,vera,Ayuda habitacional,En evaluación,19/04/2025,,,,5.0
+282,3.699.491,Ian,Romero,Pensión Por Invalidez,En evaluación,02-03-2025,,45005.18,Rocha,1.0
+283,5668151,juan martin,lopez,ASIGNACIÓN FAMILIAR,En evaluación,2026-05-19,,70372.91,Paysandú,0.0
+284,5-751-282,Camila,Hernandez,PENSIÓN POR INVALIDEZ,En evaluación,30/12/2025,,41627.37,Salto,0.0
+285,4658961,EMANUEL,lopez,BECA ESTUDIANTIL,Aprobada,20-03-2025,22/05/2025,,Salto,5.0
+286,2-948-948,  SOFÍA  ,  MARTINEZ  ,beca estudiantil,Pendiente,03/11/2025,,63649.88,Paysandú,3.0
+287,5489711,valentina,Carrizo,pensión por invalidez,Rechazada,21/04/2026,02-05-2026,87571.35,Rocha,1.0
+288,3-930-364,Thiago Emanuel,Vera,pensión por invalidez,Rechazada,06/02/2025,17/02/2025,28162.18,Maldonado,2.0
+289,2578464,Valentina,Avila,PENSIÓN POR INVALIDEZ,Rechazada,05-01-2026,11-03-2026,62486.85,Colonia,4.0
+290,2.018.881,Santino,CARRIZO,SUBSIDIO POR DESEMPLEO,Rechazada,2025-04-20,30-05-2025,45550.02,Paysandú,
+291,1.023.859,Zoe,Rodriguez,SUBSIDIO POR DESEMPLEO,Rechazada,23/05/2026,06/06/2026,,Canelones,
+292,3.094.516,JUANA,Chavez,Pensión por invalidez,Pendiente,15/08/2026,,75357.19,Paysandú,2.0
+293,1961463,Thiago Benjamin,  MALDONADO  ,SUBSIDIO POR DESEMPLEO,Pendiente,10/07/2025,,,Maldonado,
+294,5.762.241,ivan,flores,Pensión Por Invalidez,En evaluación,15/01/2026,,47165.9,Colonia,5.0
+295,4266752,Alexander,gonzalez,Ayuda Habitacional,Aprobada,25-09-2025,12-12-2025,72668.44,Paysandú,
+296,4.522.474,santino agustin,  Campos  ,Pensión por invalidez,Rechazada,21/07/2026,12-09-2026,,Salto,1.0
+297,5-715-792,sofía,Villalba,AYUDA HABITACIONAL,En evaluación,2026-06-12,,47827.91,Maldonado,1.0
+298,4514253,Valentin,GONZALEZ,pensión por invalidez,Aprobada,2026-04-09,2026-06-30,36409.38,Maldonado,1.0
+299,5-798-313,thiago  leonel,HERRERA,Asignación Familiar,En evaluación,26-12-2025,,20696.05,Maldonado,3.0
+300,4.881.801,Martina,Soria,AYUDA HABITACIONAL,Aprobada,2025-09-03,2025-11-25,81973.69,Maldonado,1.0
+301,5787738,MATEO,Sanchez,Asignación Familiar,Aprobada,26-03-2025,07/04/2025,,Paysandú,5.0
+302,1-035-424,Thiago,Benitez,pensión por invalidez,Rechazada,10/02/2026,13/04/2026,79496.59,Colonia,0.0
+303,2471329,tobias,Gomez,beca estudiantil,Pendiente,12/11/2025,,51506.33,Montevideo,
+304,4-560-919,   Paulina  ,  ROMERO  ,Ayuda habitacional,Rechazada,23/05/2025,09-06-2025,82944.88,Rocha,5.0
+305,1-485-017,bautista,Gimenez,Subsidio Por Desempleo,Pendiente,22/12/2024,,76726.23,Paysandú,0.0
+306,2311389,Lara,gonzalez,ASIGNACIÓN FAMILIAR,En evaluación,11-08-2026,,66823.86,Paysandú,3.0
+307,4.286.738,Jeremias,LOPEZ,Subsidio Por Desempleo,Rechazada,10-10-2025,2026-01-10,52800.63,Maldonado,4.0
+308,1.223.673,  Thiago Benjamin  ,Benitez,Asignación familiar,Aprobada,17/05/2026,2026-07-14,80841.04,Rivera,2.0
+309,4-836-899,MILENA,Juarez,subsidio por desempleo,Rechazada,19/02/2026,2026-04-17,21621.46,Canelones,
+310,4.150.536,Maria Victoria,gonzalez,AYUDA HABITACIONAL,Aprobada,24/08/2026,2026-11-04,85926.48,Maldonado,2.0
+311,3-296-714,juan ignacio,  coronel  ,asignación familiar,Aprobada,2025-09-21,08/12/2025,52103.7,Montevideo,3.0
+312,4.129.810,CANDELA,  MARTINEZ  ,Subsidio por desempleo,En evaluación,20/03/2026,,78757.8,Maldonado,0.0
+313,5-294-571,Uma,perez,Asignación familiar,Aprobada,13/04/2025,2025-05-22,67128.0,Canelones,1.0
+314,1.567.383,juan gabriel,Medina,Asignación Familiar,Pendiente,09/07/2025,,28431.11,Rocha,
+315,4164268,dante,Villalba,pensión por invalidez,Aprobada,25/09/2024,2024-11-20,51557.83,Canelones,2.0
+316,3.751.779,dylan  benjamin,medina,asignación familiar,Pendiente,2024-09-19,,,Rocha,1.0
+317,5.637.915,MARIA VICTORIA,BENITEZ,BECA ESTUDIANTIL,En evaluación,12-06-2025,,43785.89,Salto,1.0
+318,5.771.204,Tiziano,  Rodriguez  ,Beca estudiantil,Rechazada,2026-01-08,17/04/2026,,Salto,1.0
+319,5.296.287,  Juan Cruz  ,Vega,ASIGNACIÓN FAMILIAR,Rechazada,09/04/2025,02-06-2025,67669.05,Paysandú,5.0
+320,2.490.694,JUAN CRUZ,  toledo  ,Ayuda Habitacional,Aprobada,2026-05-13,16-06-2026,,Canelones,1.0
+321,4040360,JULIAN,sosa,subsidio por desempleo,Aprobada,30/12/2024,27-02-2025,,Paysandú,3.0
+322,1-626-501,MIA,BENITEZ,Ayuda Habitacional,Rechazada,03/05/2026,25-06-2026,47878.55,Colonia,0.0
+323,1-653-364,benjamin,Silva,Beca estudiantil,En evaluación,12/10/2024,,71435.2,Rocha,2.0
+324,1227213,bianca,Ruiz,subsidio por desempleo,En evaluación,2025-06-24,,,,1.0
+325,1.323.952,isabella,Garcia,Pensión por invalidez,Rechazada,16-12-2024,2025-03-09,86335.48,Salto,5.0
+326,3-371-803,  Valentina  ,  navarro  ,Asignación Familiar,Rechazada,2025-03-30,25/06/2025,76532.83,Maldonado,1.0
+327,3-173-913,Juan Gabriel,Torres,Subsidio Por Desempleo,Pendiente,2026-09-15,,47870.59,Canelones,0.0
+328,5.504.835,Juan Ignacio,MOLINA,Pensión por invalidez,En evaluación,2024-12-19,,,Paysandú,5.0
+329,5.002.526,   CONSTANZA  ,LOPEZ,Ayuda habitacional,En evaluación,16/06/2025,,,Paysandú,1.0
+330,4-496-272,enzo,  Perez  ,Pensión Por Invalidez,Rechazada,09-07-2025,2025-07-31,76125.32,Montevideo,2.0
+331,1319351,juan ignacio,Vera,Beca estudiantil,Aprobada,22-10-2025,11/11/2025,43329.8,Salto,5.0
+332,3663786,Benicio,Ferreyra,ASIGNACIÓN FAMILIAR,Rechazada,18-12-2025,2026-02-23,,,3.0
+333,5925701,  Thiago Lionel  ,BLANCO,Pensión Por Invalidez,Aprobada,22-12-2025,2025-12-30,,Salto,
+334,4.689.718,JUAN MANUEL,Gomez,Subsidio Por Desempleo,En evaluación,2024-09-19,,61879.16,Rivera,4.0
+335,5201960,Felipe,castro,Asignación Familiar,En evaluación,17-05-2026,,44968.68,Salto,0.0
+336,4268011,Ramiro,Sosa,Beca estudiantil,En evaluación,2025-04-08,,,Rivera,0.0
+337,4-158-914,Thiago Emanuel,gonzalez,ayuda habitacional,Aprobada,2026-08-19,15/10/2026,61295.69,Rocha,5.0
+338,5957706,MAIA,Lopez,beca estudiantil,Pendiente,15-05-2026,,27105.11,Paysandú,3.0
+339,4896147,  JULIAN  ,acosta,Pensión por invalidez,En evaluación,20-12-2024,,81043.31,Rocha,5.0
+340,5-528-660,CANDELARIA,medina,Pensión Por Invalidez,Aprobada,2026-04-07,2026-05-14,85371.26,Salto,0.0
+341,2.858.668,catalina,Castro,SUBSIDIO POR DESEMPLEO,Rechazada,05-12-2024,2025-03-21,49710.11,Canelones,4.0
+342,5343504,  Valentino  ,OJEDA,SUBSIDIO POR DESEMPLEO,Aprobada,21-11-2025,03-02-2026,61458.3,Montevideo,4.0
+343,4928175,Guillermina,  GONZALEZ  ,Subsidio Por Desempleo,En evaluación,15-05-2026,,56361.71,Canelones,3.0
+344,1-154-979,PALOMA,gonzalez,Ayuda habitacional,Aprobada,2025-06-14,2025-08-15,,Montevideo,
+345,1104832,matias,Sanchez,Ayuda Habitacional,Rechazada,22-07-2025,16-10-2025,,Canelones,5.0
+346,5284519,Felipe,Vazquez,Beca estudiantil,Pendiente,09/04/2025,,,Paysandú,5.0
+347,3-620-632,Tiziano Valentin,Ramirez,Asignación Familiar,Rechazada,2026-08-07,24/10/2026,81580.96,Montevideo,1.0
+348,1-032-973,BAUTISTA,  Martinez  ,ayuda habitacional,En evaluación,01-04-2026,,,Rivera,0.0
+349,5-984-160,SOFIA,Gomez,subsidio por desempleo,Pendiente,2025-06-25,,,Colonia,5.0
+350,1367940,  SOFIA BELEN  ,quiroga,Pensión Por Invalidez,En evaluación,21-02-2026,,,Salto,0.0
+351,5.575.157,OLIVIA,Duarte,Pensión por invalidez,Pendiente,2024-10-14,,54146.87,Rivera,5.0
+352,4342748,JUAN  IGNACIO,Fernandez,pensión por invalidez,Aprobada,26-07-2025,2025-11-05,,Canelones,2.0
+353,4-009-489,MICAELA,MALDONADO,Pensión por invalidez,Pendiente,04/08/2026,,,Maldonado,5.0
+354,5-628-795,MANUEL,acosta,asignación familiar,Rechazada,26-06-2025,22-08-2025,38026.48,Paysandú,0.0
+355,5.296.287,JUAN CRUZ,Vega,ASIGNACIÓN FAMILIAR,Rechazada,09/04/2025,02-06-2025,67669.05,Paysandú,5.0
+356,1.883.903,DYLAN  BENJAMIN,  Martinez  ,asignación familiar,Rechazada,09/09/2025,10/10/2025,72621.47,Rocha,2.0
+357,1227213,BIANCA,Ruiz,subsidio por desempleo,En evaluación,2025-06-24,,,,1.0
+358,2.291.550,ISABELLA,flores,Beca estudiantil,En evaluación,25-07-2025,,78719.72,Rocha,
+359,5282014,CATALINA,Alvarez,BECA ESTUDIANTIL,Rechazada,2024-09-25,14/11/2024,33067.41,Canelones,3.0
+360,3-682-789,JOAQUIN,Herrera,AYUDA HABITACIONAL,Rechazada,2025-05-18,2025-09-10,86418.4,Maldonado,4.0
+361,3.381.476,GUILLERMINA,  GONZALEZ  ,ASIGNACIÓN FAMILIAR,Rechazada,07/06/2025,2025-09-15,34750.33,Salto,5.0
+362,3.577.053,GIULIANA,gonzalez,BECA ESTUDIANTIL,En evaluación,2026-09-04,,49895.32,Salto,4.0
+363,2-527-552,MILO,benitez,Beca Estudiantil,En evaluación,24-06-2025,,33278.79,Canelones,5.0
+364,1393155,DELFINA,sosa,Ayuda Habitacional,Rechazada,03-03-2025,2025-04-03,,Paysandú,2.0
