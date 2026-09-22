@@ -1,0 +1,421 @@
+id_reclamo,documento,nombre,apellido,tipo_reclamo,barrio,fecha_reclamo,fecha_resolucion,estado,prioridad,costo_estimado
+1,1-439-257,Chucho,RAMÓN,PODA DE ÁRBOLES,Carrasco,2024-10-28,,Pendiente,Baja,19452.91
+2,4167494,Pili,  ARENAS  ,Ruidos Molestos,Centro,2025-04-02,,Pendiente,Media,
+3,5-421-425,Chita,Márquez,Ocupación indebida de espacio público,,24-06-2025,,Pendiente,Baja,2523.94
+4,3.196.869,Baldomero,Cuervo,BACHE EN LA VÍA PÚBLICA,Carrasco,27/05/2025,12-07-2025,Resuelto,Alta,22774.26
+5,5.150.511,chelo,  Múgica  ,BACHE EN LA VÍA PÚBLICA,Centro,27-12-2024,21/01/2025,Desestimado,Baja,2033.91
+6,1744815,  Fernando  ,  Abellán  ,FALLA DE ALUMBRADO PÚBLICO,,14-02-2026,2026-02-18,Desestimado,Media,
+7,2971016,María Ángeles,Bonilla,Bache En La Vía Pública,Tres Cruces,2026-07-14,,Pendiente,Alta,16876.95
+8,4-784-509,rené,becerra,Ocupación Indebida De Espacio Público,Cordón,24-06-2026,2026-06-30,Desestimado,Baja,
+9,5198895,lupita,SANABRIA,  Ruidos Molestos  ,Parque Rodó,24-09-2024,,En proceso,Baja,12357.0
+10,1-236-765,Armando,bru,Recolección de residuos,Pocitos,03/12/2024,18/01/2025,Desestimado,Alta,
+11,4-766-877,edmundo,Almazán,Bache en la vía pública,Cordón,20-01-2026,,En proceso,Alta,
+12,4-258-287,Tito,Tapia,Falla De Alumbrado Público,La Blanqueada,21/04/2025,,Pendiente,Media,
+13,5.164.593,PILAR,Arco,BACHE EN LA VÍA PÚBLICA,Tres Cruces,01/04/2025,11-06-2025,Desestimado,Alta,841.48
+14,2909054,olegario,VÉLEZ,  bache en la vía pública  ,La Blanqueada,04/04/2026,13/05/2026,Resuelto,Media,
+15,5-571-467,HILARIO,  Águila  ,Ocupación indebida de espacio público,Parque Rodó,2026-04-28,,En proceso,Baja,
+16,4386067,Maxi,ALBEROLA,Falla De Alumbrado Público,Centro,06/11/2025,,Pendiente,Baja,18842.26
+17,4.908.214,María José,VILALTA,  Ruidos Molestos  ,Cordón,08/07/2025,08/08/2025,Desestimado,Alta,11403.27
+18,4.043.327,BÁRBARA,TORRE,ruidos molestos,Parque Rodó,2025-08-03,2025-08-12,Desestimado,Baja,
+19,2.228.169,simón,  perera  ,BACHE EN LA VÍA PÚBLICA,Malvín,2025-10-05,02/12/2025,Desestimado,Media,
+20,3 746 278,   REBECA  ,escudero,Ruidos Molestos,La Blanqueada,27-09-2025,2025-10-29,Resuelto,Media,15265.02
+21,1-027-569,  Celestino  ,Torrens,recolección de residuos,Malvín,04/03/2026,,Pendiente,Media,7440.84
+22,5.569.080,Francisco,nadal,ruidos molestos,Centro,2026-01-14,20/01/2026,Desestimado,Baja,9348.22
+23,1-778-176,ROSENDO,Beltrán,RUIDOS MOLESTOS,Punta Carretas,24/05/2025,,Pendiente,Alta,22657.94
+24,4.484.287,ROLDÁN,NAVARRETE,Bache  en la vía pública,Pocitos,02-03-2026,,En proceso,Media,1812.23
+25,2-577-019,Delia,Borja,falla de alumbrado público,Parque Rodó,2024-10-01,19-12-2024,Resuelto,Baja,2036.91
+26,2 592 321,  Prudencio  ,   alberto  ,Recolección De Residuos,Pocitos,20-05-2026,30-07-2026,Desestimado,Baja,1743.64
+27,4 963 600,jenaro,Ramirez,ruidos molestos,Parque Rodó,07-07-2026,02-10-2026,Resuelto,Media,10809.64
+28,4.447.503,LOURDES,barreda,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,La Blanqueada,13/10/2025,,Pendiente,Media,11902.28
+29,3-384-181,   ana belén  ,GUIJARRO,falla de alumbrado público,Tres Cruces,30-12-2025,,En proceso,Media,12908.77
+30,5.094.572,Galo,Corral,Ocupación Indebida De Espacio Público,Malvín,22-10-2025,2025-12-06,Desestimado,Alta,19458.12
+31,1.339.906,victor,pinedo,recolección de residuos,Pocitos,15/09/2026,,En proceso,Media,12870.75
+32,1 561 101,  Arsenio  ,Agustín,   Falla de alumbrado público  ,Carrasco,2026-03-23,15-05-2026,Desestimado,Alta,23081.83
+33,5-937-501,GUADALUPE,almazán,FALLA DE ALUMBRADO PÚBLICO,Parque Rodó,27/12/2024,,En proceso,Alta,
+34,1393493,PASTOR,Llabrés,bache en la vía pública,Buceo,2025-03-26,,En proceso,Media,12986.87
+35,2-643-809,FABIANA,RIVERA,Falla de alumbrado público,Buceo,18/08/2026,,Pendiente,Alta,20913.58
+36,4-085-166,Esmeralda,Barros,Bache En La Vía Pública,Carrasco,20/09/2024,,Pendiente,Baja,21708.86
+37,2.306.255,Laura,borrego,Poda de árboles,Centro,28/09/2025,2025-10-31,Resuelto,Alta,
+38,3 701 988,tomasa,Aguirre,Recolección De Residuos,Parque Rodó,2024-11-19,,En proceso,Alta,
+39,4234468,rené,  beltrán  ,Poda de árboles,Tres Cruces,2026-04-24,25/06/2026,Resuelto,Baja,1705.05
+40,2 609 016,fabiola,quintero,Ruidos Molestos,Punta Carretas,2025-10-24,,Pendiente,Alta,15348.2
+41,1 855 839,mohamed,jáuregui,Ruidos molestos,Tres Cruces,11-10-2024,,En proceso,Baja,7834.4
+42,4.699.692,anacleto,  NADAL  ,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,Buceo,19-08-2026,,En proceso,Baja,11079.15
+43,1-654-275,Amado,céspedes,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,Punta Carretas,19/07/2025,01/10/2025,Resuelto,Alta,
+44,4782328,Simón,Baró,Falla de alumbrado público,Cordón,28/06/2026,,En proceso,Alta,
+45,1-077-109,Iris,cobo,Ocupación indebida de espacio público,La Blanqueada,26/02/2026,27/04/2026,Resuelto,Media,24837.13
+46,4 317 689,joel,bermudez,Falla  De Alumbrado Público,Punta Carretas,19-06-2025,,Pendiente,Baja,6858.26
+47,2 529 586,eulalia,Barceló,Ruidos molestos,Carrasco,2026-05-15,,En proceso,Baja,11234.91
+48,1-774-103,Roldán,Medina,Bache en la vía pública,La Blanqueada,28-03-2026,,En proceso,Alta,9649.85
+49,2.619.195,  GABRIELA  ,Manuel,ocupación indebida de espacio público,Malvín,2025-01-04,,Pendiente,,17102.08
+50,3-510-817,roque,pedrosa,poda de árboles,Punta Carretas,10-04-2026,2026-05-19,Desestimado,Media,
+51,4-277-728,nicolás,Villar,Recolección De Residuos,Punta Carretas,21-12-2024,,Pendiente,Media,12396.34
+52,4.079.701,FLAVIO,Pomares,Falla de alumbrado público,Pocitos,2024-12-16,2025-02-20,Desestimado,Alta,
+53,5 884 414,  MANUELA  ,cerdán,BACHE EN LA VÍA PÚBLICA,Malvín,01/08/2025,28-08-2025,Desestimado,Baja,8118.87
+54,2 519 399,Alfonso,OLMEDO,Poda de árboles,Pocitos,18-08-2025,,En proceso,Alta,2035.78
+55,1.800.358,mamen,sanmartín,recolección de residuos,Parque Rodó,14/08/2025,07-11-2025,Resuelto,Media,16921.98
+56,4546921,Máxima,  ANAYA  ,recolección de residuos,Malvín,2025-04-30,11/05/2025,Desestimado,Alta,
+57,3-156-844,moreno,VILLANUEVA,Ruidos molestos,Punta Carretas,2025-01-13,30-01-2025,Resuelto,Media,2309.14
+58,1905605,emigdio,NUÑEZ,Bache En La Vía Pública,Tres Cruces,01-10-2025,23-11-2025,Desestimado,Alta,6863.79
+59,4748734,Caridad,Peinado,  Falla De Alumbrado Público  ,Parque Rodó,20-09-2025,,Pendiente,Alta,15614.6
+60,5-709-092,Clotilde,Nieto,Bache en la vía pública,Centro,03-03-2025,25-05-2025,Desestimado,Media,13981.83
+61,1163246,  antonia  ,hervia,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,Malvín,26-11-2024,24-02-2025,Desestimado,Media,8238.94
+62,3480153,MODESTO,Lamas,poda de árboles,Malvín,2025-02-15,,En proceso,Baja,4627.2
+63,3.521.553,  Angelita  ,bernat,  falla de alumbrado público  ,Pocitos,2025-07-08,03/08/2025,Resuelto,Media,7756.5
+64,1.468.860,ANSELMA,flores,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,,19-08-2026,2026-09-19,Desestimado,Baja,24084.31
+65,5595822,TATIANA,Alemany,  FALLA DE ALUMBRADO PÚBLICO  ,Tres Cruces,28-03-2026,,Pendiente,Media,8906.43
+66,1.158.900,clara,  Gual  ,Poda de árboles,Punta Carretas,2025-02-08,,En proceso,Baja,20161.44
+67,3728938,Maximiliano,Blanes,FALLA DE ALUMBRADO PÚBLICO,Tres Cruces,21/11/2024,,En proceso,Media,
+68,5 627 667,brígida,cañellas,ocupación  indebida de espacio público,La Blanqueada,27-05-2025,2025-06-12,Resuelto,Baja,10103.44
+69,5-820-688,Nydia,cerdá,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,Pocitos,2026-07-31,01/10/2026,Resuelto,Baja,
+70,3-600-812,alondra,Ugarte,Poda  De Árboles,Cordón,17/04/2026,02-07-2026,Resuelto,Baja,22720.11
+71,1 364 050,maxi,Anaya,bache en la vía pública,Buceo,2026-03-08,,Pendiente,Media,12735.65
+72,3387994,  Pepita  ,Torre,  PODA DE ÁRBOLES  ,Tres Cruces,26/03/2025,,En proceso,Media,17697.65
+73,3 096 884,yaiza,Gomez,Ocupación indebida de espacio público,Punta Carretas,26-05-2025,06-08-2025,Resuelto,Alta,
+74,3 443 604,Ángela,Cases,Ocupación Indebida De Espacio Público,Malvín,27/05/2026,,Pendiente,Baja,16819.34
+75,4.690.321,ADOLFO,  urrutia  ,recolección de residuos,Pocitos,2025-12-09,,En proceso,Media,8951.7
+76,2 171 162,DANIELA,CARVAJAL,RUIDOS MOLESTOS,Carrasco,29-05-2025,,En proceso,Media,
+77,2915928,PONCIO,serna,Ruidos Molestos,La Blanqueada,07/02/2026,,En proceso,Media,3750.49
+78,2967135,haydée,   Rivero  ,FALLA DE ALUMBRADO PÚBLICO,Carrasco,11/06/2025,28-07-2025,Desestimado,Baja,
+79,4 407 951,Inocencio,Sanchez,  Poda de árboles  ,Malvín,2025-05-08,16-07-2025,Desestimado,Alta,23301.58
+80,4582619,Marisa,  Fernández  ,recolección de residuos,Parque Rodó,2025-05-28,23-06-2025,Desestimado,Baja,2237.7
+81,3.774.755,Gerardo,Piñeiro,Falla De Alumbrado Público,Pocitos,2026-05-12,17-07-2026,Desestimado,Media,1796.2
+82,2 078 619,Bernabé,RIBERA,Bache En La Vía Pública,Carrasco,04/09/2026,,Pendiente,Media,
+83,4-551-872,juan manuel,díez,bache en la vía pública,Buceo,21/06/2025,,Pendiente,Alta,15911.43
+84,3-134-391,RENATO,PEDROSA,ruidos  molestos,Parque Rodó,07-06-2026,,En proceso,Media,20313.73
+85,5494558,manu,carvajal,RUIDOS MOLESTOS,Malvín,2024-11-09,,Pendiente,Alta,9846.0
+86,3818982,ANI,Montserrat,  Falla De Alumbrado Público  ,Tres Cruces,15/07/2026,,Pendiente,Alta,944.12
+87,4-789-273,RICARDO,aznar,Falla de alumbrado público,Parque Rodó,30/10/2024,18-11-2024,Resuelto,Alta,15570.39
+88,5-476-640,Marc,Campos,Ocupación indebida de espacio público,Parque Rodó,2025-11-22,11-01-2026,Resuelto,Baja,20618.08
+89,5-000-605,María Del Carmen,Morata,Recolección  De Residuos,Centro,26-08-2025,,Pendiente,Media,
+90,1 330 208,Victor Manuel,larrañaga,Ocupación Indebida De Espacio Público,Punta Carretas,16/03/2025,,Pendiente,Alta,
+91,3.721.434,Chus,núñez,Poda De Árboles,Centro,2026-05-27,2026-06-07,Resuelto,Media,
+92,1 472 939,  Jessica  ,sarabia,ruidos molestos,Buceo,2025-03-20,,Pendiente,Media,12408.41
+93,5.144.688,Vicenta,Llopis,Falla de alumbrado público,Pocitos,21-09-2025,09-11-2025,Desestimado,Media,
+94,4165010,  ATILIO  ,Esparza,ruidos molestos,Malvín,24-05-2025,2025-05-31,Resuelto,Media,
+95,4 103 471,  TIBURCIO  ,VALDERRAMA,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,Malvín,19/12/2024,,En proceso,Media,
+96,3 809 556,Albina,ARNAU,recolección de residuos,Pocitos,10-03-2026,30/05/2026,Desestimado,Baja,9611.34
+97,5.914.531,Camila,Cid,Poda De Árboles,La Blanqueada,2025-08-29,2025-09-24,Desestimado,Media,3895.62
+98,5-013-654,Rafael,giner,Poda de árboles,Cordón,2025-05-16,,En proceso,Alta,6046.14
+99,1.413.109,amílcar,  Silva  ,Recolección de residuos,Parque Rodó,30/11/2025,,En proceso,Alta,18093.84
+100,3713159,Virginia,Malo,  Bache En La Vía Pública  ,La Blanqueada,23/09/2025,2025-10-28,Desestimado,Alta,21165.24
+101,4979451,valentina,  Alcalá  ,  Ocupación Indebida De Espacio Público  ,La Blanqueada,17/02/2026,,Pendiente,Alta,10725.01
+102,2.198.833,ROLANDO,  GOÑI  ,PODA DE ÁRBOLES,Parque Rodó,12/05/2025,04-08-2025,Resuelto,Baja,10308.06
+103,5-480-693,Bernardino,ISERN,Bache En La Vía Pública,Malvín,04/02/2026,,Pendiente,Baja,
+104,2.157.719,SIGFRIDO,PALLARÈS,FALLA DE ALUMBRADO PÚBLICO,La Blanqueada,16/04/2025,28/06/2025,Desestimado,Media,4962.92
+105,3-731-777,Elvira,  Alberto  ,Bache  en la vía pública,Centro,27/07/2025,,En proceso,Baja,
+106,2 857 055,FIDEL,figuerola,poda de árboles,Cordón,18-09-2025,,En proceso,Alta,1353.68
+107,1-947-484,beatriz,daza,  BACHE EN LA VÍA PÚBLICA  ,Tres Cruces,2024-10-24,,Pendiente,Media,13048.18
+108,1 062 854,áurea,ferrera,Ocupación Indebida De Espacio Público,Carrasco,2026-04-01,,En proceso,Media,
+109,2-014-132,Rosenda,solsona,FALLA  DE ALUMBRADO PÚBLICO,Pocitos,2025-04-29,28/05/2025,Desestimado,Baja,
+110,5.240.914,  Belén  ,Briones,ocupación indebida de espacio público,Tres Cruces,2025-03-02,,En proceso,Baja,
+111,1644185,emperatriz,Losa,   OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO  ,Carrasco,04/12/2024,2025-02-25,Desestimado,Baja,
+112,1-448-284,azahar,Bauzà,  RECOLECCIÓN DE RESIDUOS  ,La Blanqueada,2026-05-03,,En proceso,Media,8037.09
+113,1.487.760,Ruben,   Ramos  ,RECOLECCIÓN DE RESIDUOS,Buceo,28/12/2025,2026-03-22,Resuelto,Alta,2361.13
+114,3907517,Vidal,Cantero,Falla de alumbrado público,Buceo,26-04-2026,2026-05-26,Resuelto,Alta,9133.9
+115,4-451-931,Toribio,ruano,  RECOLECCIÓN DE RESIDUOS  ,Buceo,02-11-2024,20/11/2024,Desestimado,Media,10362.76
+116,2641114,FABIO,URIARTE,Poda de árboles,La Blanqueada,2025-10-03,,Pendiente,Alta,4158.12
+117,2 049 959,ÚRSULA,Galán,ocupación indebida de espacio público,Tres Cruces,27/12/2024,,Pendiente,Baja,13797.35
+118,4-482-122,ANSELMO,hidalgo,   Ocupación Indebida De Espacio Público  ,Parque Rodó,04/09/2026,,Pendiente,Media,19533.04
+119,3 305 681,Candelario,QUINTANILLA,ocupación indebida de espacio público,Malvín,17/07/2026,,Pendiente,Media,
+120,4-711-473,Aitor,revilla,BACHE  EN LA VÍA PÚBLICA,La Blanqueada,2026-07-29,,Pendiente,Baja,6845.22
+121,1.969.577,carla,Andrés,PODA DE ÁRBOLES,La Blanqueada,12/01/2026,2026-04-10,Resuelto,Alta,10676.48
+122,3604636,Jose Manuel,Ruano,Ruidos Molestos,Parque Rodó,2024-10-20,,Pendiente,,
+123,2-003-417,  Áurea  ,Estevez,ocupación indebida de espacio público,Centro,12-02-2026,17/02/2026,Resuelto,Media,8453.21
+124,2 221 947,  LORENZO  ,morcillo,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,Parque Rodó,30/04/2025,2025-05-20,Resuelto,Media,18694.21
+125,1176275,amancio,Pardo,recolección de residuos,Buceo,21/02/2025,25-02-2025,Desestimado,Alta,
+126,4.258.705,Adelaida,Gomila,RUIDOS MOLESTOS,Malvín,17/04/2026,,Pendiente,Media,12404.08
+127,1 786 094,Arcelia,ROYO,  bache en la vía pública  ,Malvín,19/07/2025,,En proceso,Alta,
+128,5 837 194,GONZALO,porta,   poda de árboles  ,Centro,02/07/2025,06/09/2025,Resuelto,Media,24658.87
+129,2951601,Vera,Valdés,RECOLECCIÓN DE RESIDUOS,La Blanqueada,15-11-2024,,En proceso,Baja,8720.07
+130,4-901-856,luciano,   chaparro  ,Ocupación Indebida De Espacio Público,Pocitos,16/06/2026,2026-07-01,Desestimado,Baja,15281.63
+131,3.450.172,LOLA,campillo,falla de alumbrado público,Cordón,02/09/2025,,En proceso,Media,15117.81
+132,5 664 394,Édgar,osorio,Bache en la vía pública,Carrasco,21/12/2024,,En proceso,Media,
+133,3 557 775,Ale,Salgado,Ruidos Molestos,Malvín,28-10-2025,,Pendiente,Media,13226.95
+134,2.295.427,  LUIS  ,pareja,Ruidos molestos,Carrasco,05-10-2025,,En proceso,Baja,2911.72
+135,1 535 795,Asdrubal,camacho,RECOLECCIÓN DE RESIDUOS,Cordón,2025-02-22,12-05-2025,Resuelto,Alta,20376.94
+136,5-811-957,Sonia,Bustamante,Ocupación Indebida De Espacio Público,Cordón,26/09/2025,03/10/2025,Desestimado,Media,
+137,5121784,Moreno,Blanch,poda de árboles,Cordón,2025-11-27,,Pendiente,Alta,18539.82
+138,1 595 408,hernán,Planas,Ruidos Molestos,Punta Carretas,13-04-2026,20-05-2026,Resuelto,Alta,1730.85
+139,1.605.295,  Edmundo  ,  TALAVERA  ,PODA DE ÁRBOLES,Tres Cruces,2025-01-29,,Pendiente,Media,9767.25
+140,3-014-130,ROSALÍA,Adadia,RECOLECCIÓN DE RESIDUOS,,31/12/2024,,Pendiente,Baja,
+141,2754525,  NARCISA  ,  Boix  ,Recolección De Residuos,Cordón,16-01-2025,03/03/2025,Desestimado,Alta,5209.05
+142,2.949.527,  Clímaco  ,coll,  RECOLECCIÓN DE RESIDUOS  ,,19/05/2025,,En proceso,Alta,875.08
+143,3 011 681,TITO,  font  ,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,Cordón,27-02-2025,,Pendiente,Baja,12631.63
+144,4968894,Benito,Barbero,Bache En La Vía Pública,Cordón,2026-01-16,,Pendiente,Baja,11557.97
+145,1-965-560,Íñigo,bosch,Bache En La Vía Pública,Centro,08/01/2025,,En proceso,Baja,
+146,5-713-608,Ariel,PALOMAR,poda de árboles,Parque Rodó,2024-12-27,,Pendiente,Baja,6907.41
+147,2246270,Octavia,Fábregas,Ruidos Molestos,Punta Carretas,07/08/2025,2025-10-28,Resuelto,Baja,6542.62
+148,5255773,Joel,Rosado,Poda De Árboles,Tres Cruces,10-05-2026,2026-07-14,Desestimado,Baja,13661.27
+149,3 682 683,Eric,borrás,  Recolección de residuos  ,Malvín,27-05-2025,,Pendiente,Media,
+150,5.294.985,lupe,Morán,Falla de alumbrado público,Cordón,26-01-2026,,Pendiente,Alta,23230.28
+151,4-217-850,Onofre,Granados,Ruidos Molestos,Buceo,2026-01-22,18-04-2026,Resuelto,Media,9869.69
+152,5-775-727,Bautista,Barón,  Bache En La Vía Pública  ,Pocitos,08-05-2026,29-07-2026,Desestimado,Baja,3113.03
+153,4.668.048,josep,MAESTRE,Falla De Alumbrado Público,Pocitos,2024-12-09,,Pendiente,Baja,16446.3
+154,5-114-355,cecilia,abascal,Bache En La Vía Pública,Cordón,2025-03-10,,En proceso,Alta,4375.94
+155,2-379-369,Elodia,Lago,recolección de residuos,Buceo,16-04-2026,,Pendiente,Baja,3078.57
+156,2.629.729,Catalina,pedro,ocupación indebida de espacio público,Buceo,2026-07-21,,Pendiente,Baja,
+157,3963669,Eladio,Riera,BACHE EN LA VÍA PÚBLICA,,17/06/2025,,Pendiente,Alta,14647.31
+158,1-131-502,ELISA,mancebo,Recolección  De Residuos,La Blanqueada,22/06/2026,03/08/2026,Resuelto,Alta,13603.97
+159,2792239,jenny,ACERO,  Ocupación indebida de espacio público  ,Centro,02-06-2025,,En proceso,Alta,
+160,4 142 736,Antonia,Acedo,Ocupación indebida de espacio público,Carrasco,2026-04-28,27/06/2026,Desestimado,Baja,3944.47
+161,2-929-498,Cebrián,  Pinedo  ,Ocupación Indebida De Espacio Público,,05/01/2026,24-01-2026,Resuelto,Media,23568.18
+162,2-635-500,Emilia,  MORELL  ,RUIDOS MOLESTOS,Centro,2026-02-28,02-05-2026,Resuelto,Baja,9546.41
+163,2 049 225,CRUZ,Fiol,RECOLECCIÓN DE RESIDUOS,Carrasco,11-08-2025,,Pendiente,Media,4657.66
+164,3 420 068,IRENE,Bejarano,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,Cordón,08/07/2025,,Pendiente,Baja,
+165,5-407-522,lorenza,PALMA,Falla De Alumbrado Público,Punta Carretas,07-02-2025,23-02-2025,Desestimado,Media,18000.98
+166,1.565.973,Alicia,luque,Poda de árboles,,29-07-2025,01/09/2025,Desestimado,Media,14492.99
+167,4.391.230,Carolina,CÁRDENAS,  BACHE EN LA VÍA PÚBLICA  ,Malvín,10/01/2026,,En proceso,Media,7031.12
+168,4.316.569,juan bautista,anguita,Falla De Alumbrado Público,Parque Rodó,2025-06-30,2025-07-09,Resuelto,Media,10762.24
+169,1 654 905,Valentina,  cuéllar  ,  FALLA DE ALUMBRADO PÚBLICO  ,,01-04-2026,2026-04-13,Resuelto,Alta,8291.65
+170,5 613 829,pío,   Espejo  ,poda de árboles,Parque Rodó,13/04/2026,,En proceso,Alta,19877.48
+171,3-911-773,Lidia,cadenas,Recolección De Residuos,Cordón,02/12/2024,,En proceso,Alta,16512.95
+172,1-421-470,TEODORA,Beltrán,  Falla De Alumbrado Público  ,Cordón,2025-04-05,,Pendiente,Baja,12417.8
+173,1015257,Yaiza,iñiguez,bache en la vía pública,,10/06/2025,12/07/2025,Desestimado,Baja,23912.68
+174,2-813-851,   JOSÉ ANTONIO  ,  Reig  ,Ocupación Indebida De Espacio Público,Carrasco,11-06-2025,2025-08-23,Desestimado,Baja,24088.21
+175,5 660 640,Juan Bautista,  vives  ,RUIDOS MOLESTOS,Carrasco,26-11-2024,,Pendiente,Baja,
+176,3 860 149,ROSARIO,Carreras,BACHE EN LA VÍA PÚBLICA,La Blanqueada,22/04/2026,04/06/2026,Desestimado,Media,
+177,4016565,Dionisio,murcia,RUIDOS MOLESTOS,Pocitos,20/01/2026,,En proceso,Baja,
+178,3331941,  Nicolasa  ,MENDEZ,   BACHE EN LA VÍA PÚBLICA  ,Buceo,17-04-2025,,En proceso,Media,14674.75
+179,2-211-351,joel,adadia,  Ruidos Molestos  ,Centro,2025-08-07,04/11/2025,Resuelto,Media,5833.53
+180,2-762-440,Daniel,Cabrero,ocupación indebida de espacio público,Malvín,27-11-2024,,En proceso,Alta,10294.88
+181,2 207 227,valero,Pont,recolección de residuos,La Blanqueada,02-08-2026,2026-09-24,Resuelto,Baja,
+182,1 484 188,Sonia,palmer,ocupación indebida de espacio público,Cordón,10/05/2026,06/08/2026,Resuelto,Baja,7571.16
+183,3 900 728,Geraldo,Catalán,RECOLECCIÓN DE RESIDUOS,,2026-08-10,,En proceso,Media,15179.92
+184,2 882 152,Severo,gallego,falla de alumbrado público,Malvín,30/06/2025,,En proceso,Media,
+185,2-809-073,Adalberto,  rincón  ,Recolección De Residuos,Tres Cruces,14/03/2025,15-04-2025,Resuelto,Alta,15562.47
+186,5.014.836,REBECA,BLANES,ruidos  molestos,Cordón,23-12-2024,,En proceso,Baja,
+187,5 752 287,Juanito,Robledo,Falla De Alumbrado Público,Centro,25-01-2025,,Pendiente,Baja,
+188,5.599.609,Soledad,  porta  ,RUIDOS MOLESTOS,Buceo,2025-01-20,,Pendiente,Baja,
+189,3.575.525,Berto,Alvarez,FALLA DE ALUMBRADO PÚBLICO,Malvín,18/05/2026,18/07/2026,Resuelto,Baja,7914.53
+190,4-006-516,Cloe,PRADA,falla de alumbrado público,Centro,18-12-2024,2025-02-25,Resuelto,Baja,13787.27
+191,3941078,Balduino,FABRA,recolección de residuos,Pocitos,02-04-2025,,En proceso,Baja,22727.89
+192,3 763 686,María,NEIRA,Recolección de residuos,Centro,2026-06-21,30-06-2026,Resuelto,Baja,9396.01
+193,4731685,GRACIELA,  Codina  ,Ocupación Indebida De Espacio Público,La Blanqueada,15/09/2026,2026-11-14,Desestimado,Alta,16778.58
+194,4-915-315,Silvia,Folch,Bache En La Vía Pública,Centro,03-05-2025,,En proceso,Alta,18797.05
+195,1741212,Anastasia,ARRIETA,Falla de alumbrado público,Carrasco,29/07/2025,,En proceso,Media,20619.16
+196,2180308,ROSENDA,correa,FALLA DE ALUMBRADO PÚBLICO,Cordón,2025-07-26,,En proceso,Baja,2229.39
+197,4-608-944,Asdrubal,GIRÓN,PODA DE ÁRBOLES,Punta Carretas,22-01-2025,10/02/2025,Resuelto,Media,
+198,1-107-725,BERNARDINO,  Sanchez  ,RECOLECCIÓN DE RESIDUOS,,08/07/2026,,En proceso,Media,21026.22
+199,1102494,goyo,Pérez,falla  de alumbrado público,Tres Cruces,2025-11-16,,En proceso,Media,7752.68
+200,1-016-294,olga,roura,PODA DE ÁRBOLES,Pocitos,10/11/2025,,En proceso,Media,
+201,3 728 484,pánfilo,Benavente,Ruidos Molestos,Tres Cruces,21-02-2026,,En proceso,Baja,4938.12
+202,5-801-443,rosalía,  Garzón  ,Ruidos  molestos,Parque Rodó,11-08-2026,11-10-2026,Resuelto,Alta,
+203,3.988.459,Aristides,MERINO,poda de árboles,Malvín,24/11/2024,,En proceso,Alta,9356.79
+204,3 745 040,horacio,Aranda,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,Tres Cruces,14/02/2026,26-02-2026,Desestimado,Media,10881.93
+205,3-318-643,fidela,zapata,FALLA  DE ALUMBRADO PÚBLICO,,12/01/2025,,En proceso,Media,14936.21
+206,2.658.318,lidia,Ayuso,  Ocupación indebida de espacio público  ,Carrasco,2024-12-01,,En proceso,Alta,15400.87
+207,4155679,Nayara,SUREDA,Ocupación indebida de espacio público,,25/05/2026,2026-08-04,Desestimado,Baja,15555.57
+208,2 868 502,NAZARIO,ESPARZA,  RECOLECCIÓN DE RESIDUOS  ,Buceo,13/12/2025,16-02-2026,Desestimado,Media,23510.75
+209,1 472 620,  Sandalio  ,Romero,recolección de residuos,Parque Rodó,2026-01-02,06-02-2026,Desestimado,Baja,21341.79
+210,4 798 634,  Cristóbal  ,bonet,ruidos molestos,Pocitos,14-01-2026,23-03-2026,Resuelto,Alta,23010.41
+211,5-273-359,  EVARISTO  ,  cerdán  ,BACHE EN LA VÍA PÚBLICA,Carrasco,2024-10-21,,Pendiente,Alta,17608.3
+212,2-477-749,GISELA,  Matas  ,Ruidos Molestos,Centro,14-04-2026,,Pendiente,Alta,
+213,5.114.918,  SOSIMO  ,Lago,  ruidos molestos  ,Malvín,2025-06-13,04/09/2025,Resuelto,Baja,1735.75
+214,3326238,rafaela,ESPEJO,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,La Blanqueada,2025-04-15,,En proceso,Baja,17836.21
+215,3117113,ramona,Bravo,poda de árboles,Carrasco,2025-10-14,2025-12-21,Desestimado,Media,9741.48
+216,1.989.117,Ángela,abril,Ruidos molestos,Tres Cruces,14/09/2026,07/11/2026,Desestimado,Media,3973.06
+217,1073528,elisabet,Cobo,RUIDOS MOLESTOS,La Blanqueada,02-07-2026,,Pendiente,Media,24796.99
+218,2390323,Edelmira,Cadenas,Bache en la vía pública,Parque Rodó,04/10/2025,,En proceso,Alta,
+219,2233202,Fátima,Hoz,recolección de residuos,Centro,2025-08-17,2025-10-05,Resuelto,Baja,6973.15
+220,5142394,  Pastora  ,Tello,Ruidos molestos,Parque Rodó,22/12/2025,03/01/2026,Resuelto,Baja,23489.65
+221,5355769,Manu,   Solana  ,FALLA DE ALUMBRADO PÚBLICO,Malvín,11/10/2024,24-10-2024,Resuelto,Media,989.35
+222,3816205,Manola,luís,RECOLECCIÓN DE RESIDUOS,Cordón,2025-06-20,,Pendiente,Alta,11067.28
+223,5 394 097,MARÍA CARMEN,NEVADO,Ruidos  molestos,Carrasco,22-05-2026,09/08/2026,Resuelto,Media,15797.78
+224,3-044-816,aníbal,  perera  ,  bache en la vía pública  ,Cordón,12-02-2025,03/03/2025,Desestimado,Alta,905.88
+225,2-872-961,CLETO,tudela,Bache en la vía pública,Malvín,28-10-2024,,En proceso,Alta,21487.48
+226,5 392 639,Marisela,robledo,Poda De Árboles,Buceo,29-04-2026,,En proceso,Alta,
+227,1216441,Vera,Calvo,  poda de árboles  ,Malvín,17/01/2026,,Pendiente,Alta,17705.38
+228,1-820-477,  Esmeralda  ,Beltran,FALLA DE ALUMBRADO PÚBLICO,Pocitos,04-09-2026,17/09/2026,Resuelto,Media,2106.28
+229,3870553,rodolfo,Cerdán,Poda de árboles,Tres Cruces,08-03-2025,,En proceso,Media,4610.51
+230,1-994-070,leticia,Cabezas,Falla de alumbrado público,Pocitos,25/09/2025,19-12-2025,Resuelto,,
+231,3 007 429,amarilis,  Zaragoza  ,  bache en la vía pública  ,Buceo,01-04-2026,,En proceso,Baja,22357.38
+232,4.257.697,SERAFINA,ZAPATA,Poda De Árboles,Carrasco,2026-03-26,,Pendiente,Alta,16482.64
+233,2-776-944,maxi,Rico,Recolección de residuos,Centro,2025-09-18,19-11-2025,Resuelto,,23802.79
+234,5.128.860,Tomasa,LASTRA,Ocupación  indebida de espacio público,,17/04/2026,,En proceso,Media,17545.95
+235,1313196,  Alicia  ,Egea,falla de alumbrado público,Cordón,24-05-2025,2025-07-30,Desestimado,Alta,23922.74
+236,1.272.451,LUISINA,baena,  RECOLECCIÓN DE RESIDUOS  ,Punta Carretas,10/03/2025,,En proceso,Alta,12005.08
+237,5881917,Leonor,cobo,RUIDOS MOLESTOS,Buceo,07/02/2026,,En proceso,Media,15685.78
+238,5666589,APOLINAR,  Checa  ,Bache En La Vía Pública,Tres Cruces,16-06-2025,06-08-2025,Desestimado,Media,15859.44
+239,3.328.746,Florencia,DIEGO,FALLA  DE ALUMBRADO PÚBLICO,Pocitos,05/01/2025,2025-01-28,Resuelto,Baja,
+240,4.427.164,SABAS,escamilla,ocupación indebida de espacio público,Parque Rodó,03-02-2026,,Pendiente,Media,6158.52
+241,4201518,silvia,   ibañez  ,bache en la vía pública,Cordón,2026-04-06,,Pendiente,,
+242,5.395.382,francisca,España,Falla de alumbrado público,Malvín,2025-09-26,,En proceso,Baja,8178.4
+243,5286172,AMALIA,  VALL  ,recolección de residuos,Malvín,07/04/2026,2026-06-09,Desestimado,Baja,4110.18
+244,4740161,Adoración,Costa,Ocupación Indebida De Espacio Público,Carrasco,2026-01-21,,Pendiente,Alta,20007.89
+245,2-729-078,  inmaculada  ,vazquez,bache en la vía pública,Tres Cruces,10-04-2025,,En proceso,Alta,14616.55
+246,3.078.729,jafet,  Batlle  ,Poda de árboles,Pocitos,30/12/2025,,Pendiente,Baja,7769.88
+247,3.302.737,Reina,SUREDA,bache en la vía pública,Carrasco,29/07/2025,01/08/2025,Resuelto,Baja,3439.77
+248,5.683.913,Asdrubal,ROMÁN,Bache En La Vía Pública,Carrasco,06-07-2025,,Pendiente,Baja,6881.76
+249,4 311 964,Josefina,BORJA,Recolección De Residuos,Tres Cruces,2026-06-14,,Pendiente,Media,21610.77
+250,3 228 970,vicente,silva,Ruidos molestos,Cordón,2026-09-06,,Pendiente,Alta,6735.77
+251,3 350 094,ANSELMO,  Osorio  ,ocupación indebida de espacio público,,30/09/2024,13-12-2024,Resuelto,,10250.34
+252,5-816-782,MAYTE,GÓMEZ,Falla de alumbrado público,Carrasco,13-06-2025,2025-07-05,Resuelto,Media,7375.33
+253,3.712.081,  Carlota  ,tamayo,RECOLECCIÓN DE RESIDUOS,Centro,30/08/2026,29-09-2026,Resuelto,Media,6625.97
+254,2 009 857,Paca,nogueira,Bache En La Vía Pública,Tres Cruces,2026-03-07,,En proceso,Baja,8511.32
+255,5-253-257,ANACLETO,Esteban,PODA DE ÁRBOLES,Carrasco,2026-01-19,05-04-2026,Desestimado,Media,9846.06
+256,2.931.335,Vidal,Francisco,Poda  de árboles,Tres Cruces,2024-12-21,,En proceso,Media,15016.08
+257,5-105-824,PIEDAD,Somoza,poda de árboles,Pocitos,09-05-2026,04/07/2026,Desestimado,Baja,
+258,1.065.339,pili,  Alcaraz  ,PODA DE ÁRBOLES,Cordón,30-07-2025,,Pendiente,Baja,5570.02
+259,4-229-216,florencia,casares,Poda de árboles,Pocitos,01-06-2025,,En proceso,Baja,20547.22
+260,3-327-512,Pepe,Mercader,Poda de árboles,Parque Rodó,04/04/2025,28-05-2025,Resuelto,Media,12082.84
+261,2.527.500,  OSVALDO  ,fuster,Recolección de residuos,Malvín,25-01-2026,05-03-2026,Resuelto,Baja,12781.68
+262,5.840.911,DESIDERIO,Castells,recolección de residuos,Cordón,24-04-2026,,Pendiente,Media,
+263,4-769-156,Agustín,  Torre  ,Bache En La Vía Pública,Centro,04-09-2026,,En proceso,,2698.26
+264,5-610-033,  Salomón  ,VALERO,Bache en la vía pública,Punta Carretas,2025-10-01,,Pendiente,Alta,
+265,3363430,Godofredo,  Español  ,FALLA DE ALUMBRADO PÚBLICO,Centro,2024-11-05,02-01-2025,Desestimado,Alta,11852.88
+266,5220307,NANDO,Ribera,Recolección de residuos,Parque Rodó,2025-06-02,2025-07-18,Desestimado,Baja,19352.89
+267,2-965-230,  Demetrio  ,Priego,ocupación indebida de espacio público,Tres Cruces,12-03-2026,2026-05-06,Resuelto,Media,14370.34
+268,4-766-599,  Araceli  ,  PEÑA  ,Bache En La Vía Pública,Pocitos,12/11/2024,16/11/2024,Desestimado,Media,11951.7
+269,5.196.203,josé ángel,borrás,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,Tres Cruces,03/12/2024,,Pendiente,Media,5392.17
+270,3.488.872,RAFA,Díez,Poda de árboles,Pocitos,08/02/2026,25/03/2026,Resuelto,Alta,21943.81
+271,2.799.884,ROSENDA,Bas,Ruidos molestos,Carrasco,05/02/2025,23/04/2025,Desestimado,Media,626.48
+272,1.338.350,filomena,Sanabria,ocupación indebida de espacio público,Punta Carretas,25-07-2025,,Pendiente,Media,9406.57
+273,2 126 167,Ulises,salvà,Falla De Alumbrado Público,Pocitos,2026-07-31,2026-09-22,Desestimado,Alta,21706.05
+274,5.210.457,SEVERINO,  Aznar  ,Falla de alumbrado público,Pocitos,2026-02-24,,Pendiente,Alta,
+275,2269190,Marcelino,VERA,falla de alumbrado público,Buceo,2024-11-27,28/01/2025,Resuelto,,7651.52
+276,1 867 346,Perla,Márquez,Ocupación indebida de espacio público,Carrasco,2025-07-03,2025-10-01,Resuelto,Media,17417.25
+277,4844649,BERNARDINO,mínguez,Ocupación Indebida De Espacio Público,Malvín,2025-06-15,,En proceso,Media,1995.97
+278,4505011,Dionisio,  amores  ,  FALLA DE ALUMBRADO PÚBLICO  ,Punta Carretas,2025-12-06,,Pendiente,Alta,17372.09
+279,1-642-427,Angelita,  montoya  ,  Ruidos Molestos  ,Buceo,10-08-2025,,Pendiente,,10559.25
+280,3-262-574,hernando,  Madrid  ,  Falla De Alumbrado Público  ,Cordón,14/10/2024,,En proceso,Alta,19092.88
+281,4.444.259,LUCIANO,Cordero,  RUIDOS MOLESTOS  ,La Blanqueada,09-05-2025,21-06-2025,Desestimado,Alta,8317.2
+282,2-990-240,AGUSTINA,Palomo,poda de árboles,Cordón,11/05/2025,,Pendiente,Baja,14219.45
+283,4455210,Marisela,Aramburu,Falla De Alumbrado Público,Tres Cruces,2025-03-04,07/05/2025,Desestimado,Alta,1163.01
+284,3851612,PILI,Cortés,  BACHE EN LA VÍA PÚBLICA  ,Centro,2025-12-14,2026-02-27,Resuelto,Media,
+285,1.015.643,jose angel,Tamarit,Ruidos  molestos,Malvín,19-02-2025,,Pendiente,Alta,19483.96
+286,3 132 566,REINA,Miguel,Ruidos molestos,Pocitos,2025-11-01,2026-01-24,Desestimado,,7228.03
+287,1 427 675,Fermín,FIGUERAS,Bache en la vía pública,Punta Carretas,17/07/2026,,Pendiente,Media,23334.14
+288,4 741 009,modesta,Muro,poda de árboles,Tres Cruces,24-08-2025,2025-10-02,Desestimado,Media,8443.95
+289,5856151,VICTORIANO,sierra,poda de árboles,Buceo,02-09-2025,,En proceso,Baja,23576.75
+290,3 889 559,Julián,Rubio,Poda de árboles,Carrasco,2026-05-03,,En proceso,Alta,
+291,4.482.862,LÁZARO,BERNAD,  RUIDOS MOLESTOS  ,,28/02/2026,,En proceso,Alta,24835.92
+292,1308821,Roxana,solano,Poda de árboles,Punta Carretas,2026-01-09,31/03/2026,Desestimado,Media,6475.64
+293,2.847.819,  Victoria  ,montserrat,RECOLECCIÓN DE RESIDUOS,La Blanqueada,2026-09-08,14-10-2026,Resuelto,Alta,20515.73
+294,4584302,CINTIA,Castelló,Recolección de residuos,Punta Carretas,26/06/2025,,En proceso,Baja,17974.72
+295,5347586,baudelio,cuevas,ruidos  molestos,La Blanqueada,09-03-2025,,En proceso,Alta,21849.67
+296,5-650-340,montserrat,VERDÚ,  Poda De Árboles  ,Pocitos,10/02/2026,,Pendiente,,17847.81
+297,3-061-368,EMILIA,LLAMAS,Ruidos Molestos,Tres Cruces,10/08/2025,26-10-2025,Resuelto,Media,
+298,3305430,  maxi  ,Manso,bache en la vía pública,Cordón,08/12/2025,,Pendiente,Baja,24298.52
+299,2 998 198,  Aurora  ,Gámez,Poda de árboles,Tres Cruces,25-01-2025,28-02-2025,Desestimado,Alta,3433.17
+300,5956421,silvestre,  Blanch  ,Ocupación indebida de espacio público,Pocitos,2026-07-15,,En proceso,Alta,20671.59
+301,4 785 735,Carla,Barroso,RECOLECCIÓN DE RESIDUOS,Parque Rodó,2025-11-20,,Pendiente,Baja,10369.24
+302,3 958 213,Joaquina,Cepeda,Recolección De Residuos,Tres Cruces,16-06-2025,,Pendiente,Media,24016.89
+303,3.577.986,Omar,castellanos,PODA DE ÁRBOLES,,12/09/2026,,En proceso,Media,22815.68
+304,1 797 946,NAZARET,  Mayo  ,Ruidos molestos,Buceo,31-12-2024,,Pendiente,Baja,17405.77
+305,4984320,Felipe,Santos,poda de árboles,Punta Carretas,21-07-2025,,En proceso,Baja,12988.23
+306,2-150-651,jesús,ferrández,RECOLECCIÓN DE RESIDUOS,Punta Carretas,2025-04-04,,En proceso,Media,4659.91
+307,4-731-384,dionisia,Avilés,Ocupación Indebida De Espacio Público,La Blanqueada,24/04/2025,,Pendiente,Media,7617.9
+308,1 145 420,  martin  ,  Feliu  ,  Bache en la vía pública  ,Carrasco,2026-03-22,,En proceso,Baja,10124.47
+309,5-530-478,amancio,  Escrivá  ,  Recolección de residuos  ,Cordón,2025-12-10,2026-02-08,Desestimado,Media,19035.21
+310,4-712-783,Nazario,Cuéllar,  Ocupación indebida de espacio público  ,Malvín,13/01/2025,,Pendiente,Media,14883.41
+311,2 039 261,CORNELIO,Hervia,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,Parque Rodó,16-05-2025,,Pendiente,Baja,18708.15
+312,3.766.479,  Ildefonso  ,  Blanes  ,Ocupación indebida de espacio público,Carrasco,20-10-2024,22-12-2024,Resuelto,Baja,
+313,1-558-584,íñigo,ROZAS,bache en la vía pública,Cordón,25-01-2025,2025-02-10,Desestimado,Baja,15910.79
+314,2 494 930,Cayetana,Zamora,  OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO  ,Tres Cruces,23-01-2025,18-04-2025,Resuelto,Media,5716.88
+315,4-179-260,GALA,gálvez,Recolección De Residuos,Carrasco,2024-10-27,,Pendiente,Baja,12566.89
+316,1822813,Severino,COSTA,Ruidos molestos,Tres Cruces,11-01-2026,,Pendiente,Media,
+317,4-260-699,Marino,Donaire,  ocupación indebida de espacio público  ,,12-03-2025,06-04-2025,Resuelto,Baja,
+318,3 920 889,  Edu  ,peinado,BACHE EN LA VÍA PÚBLICA,,15/08/2025,18-10-2025,Desestimado,Alta,9439.41
+319,3.513.125,ALONSO,Torrent,Ruidos Molestos,Malvín,13/03/2026,2026-03-28,Resuelto,Alta,24596.78
+320,1369284,Toni,cuesta,  falla de alumbrado público  ,,05-05-2025,23/07/2025,Resuelto,Media,3716.46
+321,1425733,ernesto,fernández,Falla De Alumbrado Público,Pocitos,20/07/2026,,En proceso,Alta,17447.67
+322,1 834 725,Mar,sainz,FALLA  DE ALUMBRADO PÚBLICO,Punta Carretas,06-03-2025,,En proceso,Baja,17114.47
+323,3 611 727,Iris,figueroa,FALLA DE ALUMBRADO PÚBLICO,Punta Carretas,24-09-2025,,En proceso,Media,11445.44
+324,3-524-691,florentino,guerra,Bache En La Vía Pública,Pocitos,14/01/2025,,Pendiente,Media,12224.4
+325,4-876-452,Marcela,CARRERA,  poda de árboles  ,Tres Cruces,19-09-2025,,En proceso,Media,
+326,3.415.332,Eusebia,Elorza,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,Malvín,28-11-2024,,En proceso,Baja,708.94
+327,4-252-785,andrea,Quirós,falla de alumbrado público,Tres Cruces,14-02-2026,,En proceso,Baja,
+328,5-821-905,felicia,  GUARDIOLA  ,RECOLECCIÓN DE RESIDUOS,Malvín,08-03-2025,2025-04-24,Resuelto,Media,2013.36
+329,1117483,  TONI  ,Bermejo,ruidos molestos,Buceo,2026-04-22,15/07/2026,Resuelto,Media,
+330,4-807-229,josé,Martinez,Ruidos  Molestos,Punta Carretas,20/04/2026,,En proceso,Baja,18802.11
+331,3 261 975,Evaristo,fuente,Falla De Alumbrado Público,Buceo,2025-04-02,,En proceso,Alta,4071.96
+332,3573036,Agapito,Botella,poda  de árboles,La Blanqueada,07/09/2026,,En proceso,Media,18490.2
+333,2213256,Marciano,Torrents,Ruidos Molestos,Cordón,16/07/2025,04/09/2025,Resuelto,Media,20677.58
+334,1 834 118,ADELA,Moraleda,Recolección de residuos,Tres Cruces,2024-11-10,2024-11-13,Desestimado,Alta,7986.34
+335,3 117 386,Tristán,menéndez,Bache En La Vía Pública,Pocitos,2025-09-23,16-12-2025,Resuelto,Media,1605.66
+336,4-981-847,  Virgilio  ,Amador,PODA DE ÁRBOLES,Parque Rodó,2024-11-29,,En proceso,,11257.04
+337,5953938,Nicanor,  Castejón  ,  Recolección de residuos  ,Pocitos,2025-01-01,11-02-2025,Resuelto,Media,17842.19
+338,3 821 159,MARIANELA,Solsona,recolección  de residuos,La Blanqueada,2025-08-08,,En proceso,Media,2241.53
+339,1.554.867,demetrio,Uría,Ocupación Indebida De Espacio Público,La Blanqueada,03/06/2026,,En proceso,Media,7250.56
+340,4 888 653,pascual,Peralta,Recolección  de residuos,Cordón,05-09-2025,,Pendiente,Baja,19752.46
+341,4 339 127,  jerónimo  ,Palmer,  BACHE EN LA VÍA PÚBLICA  ,Parque Rodó,04/06/2026,,En proceso,Alta,
+342,4985655,Julia,Iñiguez,RUIDOS MOLESTOS,La Blanqueada,22-08-2026,28-08-2026,Desestimado,Baja,
+343,5 293 373,Belen,BRIONES,Ruidos molestos,Malvín,2025-04-03,,En proceso,Baja,8145.88
+344,2759034,Fidela,Oliver,Falla De Alumbrado Público,Buceo,2024-12-04,,En proceso,Media,10382.9
+345,1-200-157,  VIRGILIO  ,  salvà  ,FALLA DE ALUMBRADO PÚBLICO,Punta Carretas,20-06-2025,,En proceso,Alta,6637.06
+346,2-670-946,  Gaspar  ,  Hernandez  ,Recolección De Residuos,Malvín,30-06-2025,2025-08-29,Desestimado,Alta,
+347,4.869.241,imelda,MÁRQUEZ,Falla De Alumbrado Público,Cordón,29/01/2025,,Pendiente,Media,
+348,2.151.908,VÍCTOR,cobo,falla de alumbrado público,Malvín,18-02-2025,,Pendiente,Alta,
+349,1926722,Imelda,HERVÁS,RECOLECCIÓN DE RESIDUOS,,09-05-2026,2026-05-16,Resuelto,Media,
+350,1 543 968,TIBURCIO,Peral,ruidos molestos,,12/03/2026,2026-04-27,Resuelto,Media,9362.34
+351,1.856.689,juan,PAZOS,FALLA DE ALUMBRADO PÚBLICO,La Blanqueada,2025-06-23,2025-09-13,Resuelto,Alta,23370.58
+352,3577770,María  Jesús,Prats,recolección de residuos,Tres Cruces,24-05-2026,23/07/2026,Desestimado,Media,5894.98
+353,3 797 545,  TORIBIO  ,ADÁN,Ruidos  Molestos,Centro,15/10/2025,,En proceso,Baja,17685.33
+354,5.869.484,  JERÓNIMO  ,TABOADA,  poda de árboles  ,,18-02-2026,,En proceso,Baja,11222.42
+355,2.989.502,Elba,Gras,Falla De Alumbrado Público,Punta Carretas,03/03/2025,,En proceso,,
+356,5-774-676,Elena,NÚÑEZ,Recolección De Residuos,Malvín,11-01-2025,,Pendiente,Baja,
+357,3 950 001,Leyre,MONTES,Ruidos molestos,Malvín,11-08-2025,,Pendiente,Media,
+358,4-369-336,Abraham,  Solano  ,RUIDOS MOLESTOS,Cordón,29/08/2026,,Pendiente,Alta,22400.56
+359,4045934,Guiomar,Balaguer,Bache  En La Vía Pública,La Blanqueada,2025-05-24,27/05/2025,Resuelto,Baja,
+360,3958089,  JUAN ANTONIO  ,cañas,PODA DE ÁRBOLES,Buceo,2025-03-12,,En proceso,Alta,6142.57
+361,4983212,Germán,Tur,  Ocupación Indebida De Espacio Público  ,Malvín,30-04-2026,,En proceso,Alta,15763.7
+362,4-879-680,  MARÍA LUISA  ,cuervo,Ocupación indebida de espacio público,Punta Carretas,31-01-2025,,En proceso,,3622.4
+363,1.956.253,EDGARDO,DURAN,Ocupación indebida de espacio público,Parque Rodó,15/03/2025,,Pendiente,Alta,
+364,1-748-572,MIGUELA,Quero,ruidos molestos,Carrasco,04/01/2026,2026-03-17,Resuelto,Alta,13582.75
+365,4 420 308,  Basilio  ,pizarro,RUIDOS MOLESTOS,Pocitos,24-10-2025,,En proceso,Alta,715.35
+366,4 172 923,Juan Antonio,MORCILLO,Bache en la vía pública,Centro,05-11-2025,,Pendiente,Baja,
+367,4 305 550,CARLITO,  Guerra  ,FALLA DE ALUMBRADO PÚBLICO,Carrasco,23-04-2026,21-05-2026,Resuelto,,
+368,1 842 072,urbano,Matas,Recolección de residuos,Buceo,15/03/2026,14/05/2026,Resuelto,Baja,6472.23
+369,4.191.824,Violeta,Pazos,FALLA DE ALUMBRADO PÚBLICO,Punta Carretas,04-07-2026,2026-09-24,Resuelto,Baja,
+370,1 415 617,SILVESTRE,lobato,RECOLECCIÓN DE RESIDUOS,Malvín,2025-01-20,2025-02-04,Desestimado,Baja,14869.34
+371,2 745 502,ZACARÍAS,Teruel,FALLA  DE ALUMBRADO PÚBLICO,Carrasco,2026-08-08,20-08-2026,Desestimado,Media,2446.44
+372,5-014-946,Bartolomé,haro,falla de alumbrado público,La Blanqueada,2025-12-16,,En proceso,Media,15133.74
+373,1-161-296,MARÍA JESÚS,ROMAN,  Ocupación Indebida De Espacio Público  ,Parque Rodó,06-01-2025,2025-02-10,Resuelto,Media,10346.04
+374,1 642 344,Aura,urrutia,  Poda de árboles  ,Cordón,06-03-2025,,Pendiente,Alta,13611.04
+375,4-348-930,Rosa,Perea,  Falla de alumbrado público  ,Tres Cruces,19-10-2024,,Pendiente,Media,10966.1
+376,1-966-555,Eleuterio,  FERRANDO  ,   Poda de árboles  ,Punta Carretas,04/09/2026,,En proceso,Baja,13053.16
+377,5926819,JENNIFER,Batalla,Poda De Árboles,La Blanqueada,2025-03-01,,Pendiente,Media,8346.71
+378,5-829-105,Brígida,Varela,ruidos  molestos,Buceo,11/11/2024,17/12/2024,Resuelto,Alta,18035.59
+379,2 152 953,EUGENIA,Valderrama,falla  de alumbrado público,Carrasco,06-09-2025,,Pendiente,Media,15606.26
+380,5.204.014,GREGORIO,MORATA,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,Centro,20-04-2025,,Pendiente,Baja,13508.25
+381,4.862.896,Noelia,flor,BACHE EN LA VÍA PÚBLICA,Buceo,28/04/2026,,Pendiente,Alta,16181.85
+382,5 468 322,ignacio,Fernández,Bache En La Vía Pública,Parque Rodó,2025-10-02,30/12/2025,Desestimado,Media,2868.16
+383,4-303-737,Inés,Villanueva,BACHE EN LA VÍA PÚBLICA,Pocitos,15/10/2024,,Pendiente,Alta,7052.32
+384,4 262 300,eugenia,  MARTÍNEZ  ,RUIDOS MOLESTOS,Carrasco,26/06/2026,,Pendiente,Baja,19866.55
+385,3117839,Adoración,Madrid,  Ocupación indebida de espacio público  ,Carrasco,2025-04-12,,En proceso,Alta,20130.11
+386,4972787,Olivia,Portillo,Recolección  De Residuos,Parque Rodó,29-12-2024,2025-01-14,Resuelto,Baja,1703.62
+387,4003828,Jose  Miguel,corominas,Falla De Alumbrado Público,Carrasco,12/05/2025,,Pendiente,Media,19921.65
+388,3405755,  Ramón  ,GUERRERO,Falla De Alumbrado Público,Parque Rodó,2024-11-15,,Pendiente,Media,8111.06
+389,5335753,Curro,Ríos,bache  en la vía pública,Pocitos,20/08/2026,26/10/2026,Resuelto,Baja,
+390,4913037,leticia,almansa,Ruidos Molestos,Pocitos,06/06/2026,2026-06-21,Desestimado,Media,1458.46
+391,5-013-545,marta,Arnaiz,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,Parque Rodó,2025-06-17,,Pendiente,Baja,18815.89
+392,2 958 406,   Rosendo  ,nicolau,poda de árboles,Carrasco,2026-01-06,2026-04-05,Resuelto,Baja,8926.9
+393,1 618 068,Francisco Javier,FERRÁNDEZ,FALLA DE ALUMBRADO PÚBLICO,Carrasco,12/01/2026,2026-01-21,Resuelto,Media,17860.39
+394,2.299.670,Rosalina,Mateo,  ocupación indebida de espacio público  ,,2026-05-15,2026-07-20,Resuelto,Alta,11505.68
+395,1 015 712,JOSE LUIS,SALAS,recolección de residuos,Parque Rodó,2026-01-02,15-01-2026,Desestimado,Media,24370.2
+396,4.154.194,  MARTÍN  ,FRANCO,Ruidos molestos,Tres Cruces,24/11/2025,,Pendiente,Media,3733.62
+397,4-143-565,Lope,teruel,Recolección de residuos,Pocitos,24/11/2025,,En proceso,Alta,24623.04
+398,1.915.631,maría dolores,Iñiguez,Recolección de residuos,Malvín,2025-11-20,12-01-2026,Resuelto,Baja,16778.85
+399,1 804 617,amalia,peinado,Falla de alumbrado público,,2026-07-17,09-09-2026,Desestimado,Media,9395.53
+400,3 101 589,quique,  Cuadrado  ,BACHE EN LA VÍA PÚBLICA,,2025-09-27,19/11/2025,Resuelto,Alta,3830.24
+401,1.313.196,ALICIA,EGEA,falla de alumbrado público,Cordón,24-05-2025,2025-07-30,Desestimado,Alta,23922.74
+402,1654275,AMADO,CÉSPEDES,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,Punta Carretas,19/07/2025,01/10/2025,Resuelto,Alta,
+403,1-797-946,NAZARET,MAYO,Ruidos molestos,Buceo,31-12-2024,,Pendiente,Baja,17405.77
+404,2629729,CATALINA,PEDRO,ocupación indebida de espacio público,Buceo,2026-07-21,,Pendiente,Baja,
+405,5.293.373,BELEN,BRIONES,Ruidos molestos,Malvín,2025-04-03,,En proceso,Baja,8145.88
+406,4712783,NAZARIO,CUÉLLAR,  Ocupación indebida de espacio público  ,Malvín,13/01/2025,,Pendiente,Media,14883.41
+407,1-800-358,MAMEN,SANMARTÍN,recolección de residuos,Parque Rodó,14/08/2025,07-11-2025,Resuelto,Media,16921.98
+408,4.741.009,MODESTA,MURO,poda de árboles,Tres Cruces,24-08-2025,2025-10-02,Desestimado,Media,8443.95
+409,2-152-953,EUGENIA,VALDERRAMA,falla  de alumbrado público,Carrasco,06-09-2025,,Pendiente,Media,15606.26
+410,1472939,JESSICA,SARABIA,ruidos molestos,Buceo,2025-03-20,,Pendiente,Media,12408.41
+411,2813851,JOSÉ ANTONIO,REIG,Ocupación Indebida De Espacio Público,Carrasco,11-06-2025,2025-08-23,Desestimado,Baja,24088.21
+412,2 390 323,EDELMIRA,CADENAS,Bache en la vía pública,Parque Rodó,04/10/2025,,En proceso,Alta,
+413,1.073.528,ELISABET,COBO,RUIDOS MOLESTOS,La Blanqueada,02-07-2026,,Pendiente,Media,24796.99
+414,1 393 493,PASTOR,LLABRÉS,bache en la vía pública,Buceo,2025-03-26,,En proceso,Media,12986.87
+415,2 809 073,ADALBERTO,RINCÓN,Recolección De Residuos,Tres Cruces,14/03/2025,15-04-2025,Resuelto,Alta,15562.47
+416,4869241,IMELDA,MÁRQUEZ,Falla De Alumbrado Público,Cordón,29/01/2025,,Pendiente,Media,
+417,3-941-078,BALDUINO,FABRA,recolección de residuos,Pocitos,02-04-2025,,En proceso,Baja,22727.89
+418,2049225,CRUZ,FIOL,RECOLECCIÓN DE RESIDUOS,Carrasco,11-08-2025,,Pendiente,Media,4657.66
+419,4699692,ANACLETO,NADAL,OCUPACIÓN INDEBIDA DE ESPACIO PÚBLICO,Buceo,19-08-2026,,En proceso,Baja,11079.15
+420,1236765,ARMANDO,BRU,Recolección de residuos,Pocitos,03/12/2024,18/01/2025,Desestimado,Alta,
